@@ -53,7 +53,7 @@ export default function Page() {
         const degree = getNodeDegree(node.id, allLinksRef.current);
         return Math.max(28, Math.pow(degree, 1.2) * 18);
       });
-      fgRef.current.d3Force("link").strength(0.008);
+      fgRef.current.d3Force("link")?.strength(0.008);
     }
   }, [graphData.nodes.length, graphData.links.length]);
 
