@@ -142,7 +142,7 @@ export default function Page() {
           display: "flex", flexDirection: "column", alignItems: "flex-end"
         }}>
           <span>
-            <b>프레임</b> {totalFrames > 0 ? (totalFrames - currentIdx - 1) : 0}/{totalFrames}
+            <b>프레임</b> {totalFrames > 0 && currentIdx !== undefined ? (totalFrames - currentIdx - 1) : 0}/{totalFrames}
           </span>
           {currentTimestamp !== undefined &&
             <span style={{ fontSize: 15, color: "#888" }}>
