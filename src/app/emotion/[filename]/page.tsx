@@ -12,14 +12,14 @@ const ForceGraph2D = dynamic(() => import("react-force-graph-2d"), { ssr: false 
 export default function Page() {
   const { filename } = useParams();
   const [nodes, setNodes] = useState<Node[]>([]);
-  const [frames, setFrames] = useState<any[]>([]);
+  const [frames, setFrames] = useState<Frame[]>([]);
   const [isPlaying, setIsPlaying] = useState(false);
   const [intervalMs, setIntervalMs] = useState(600);
 
   const [hoveredLink, setHoveredLink] = useState<Link | null>(null);
   const [mousePos, setMousePos] = useState<{ x: number; y: number } | null>(null);
 
-  const fgRef = useRef<any>(null);
+  const fgRef = useRef<ForceGraphMethods | null>(null);
 
   const { graphData, allLinksRef, frameIndexRef } = useGraphAnimation(
     frames, nodes, intervalMs, isPlaying
@@ -48,7 +48,7 @@ export default function Page() {
     if (fgRef.current) {
       fgRef.current.d3Force("center", null);
       fgRef.current.d3Force("charge")?.strength(-500);
-      fgRef.current.d3Force("collide")?.radius((node: any) => {
+      fgRef.current.d3Force("collide")?.radius((node: Node) => {
         const degree = getNodeDegree(node.id, allLinksRef.current);
         return Math.max(28, Math.pow(degree, 1.2) * 18);
       });
@@ -146,25 +146,25 @@ export default function Page() {
         nodeRelSize={1.8}
         linkColor={link => link.isCurrent ? "#0076FF" : "rgba(90,90,90,0.2)"}
         linkWidth={link => {
-          const l = link as any;
+          const l = link as Link;
           return l.isCurrent
             ? 9
             : Math.max(2, Math.min(16, Math.log2((l.count ?? 1) + 1) * 4));
         }}
         linkDirectionalArrowLength={link => {
-          const l = link as any;
+          const l = link as Link;
           return l.isCurrent ? 22 : Math.max(5, Math.log2((l.count ?? 1) + 1) * 6);
         }}
         linkDirectionalArrowRelPos={0.99}
         linkDirectionalParticles={link => {
-          const l = link as any;
+          const l = link as Link;
           return l.isCurrent ? 8 : Math.ceil(Math.log2((l.count ?? 1) + 1));
         }}
         linkDirectionalParticleSpeed={link => {
-          const l = link as any;
+          const l = link as Link;
           return l.isCurrent ? 0.035 : Math.max(0.01, 0.015 / (Math.log2((l.count ?? 1) + 1) + 0.6));
         }}
-        nodeCanvasObject={(node: any, ctx, globalScale) => {
+        nodeCanvasObject={(node: Node, ctx, globalScale) => {
           const color = getNodeColor(node, allLinksRef.current);
           const degree = getNodeDegree(node.id, allLinksRef.current);
           const radius = Math.max(12, Math.pow(degree, 0.9) * 6.5);

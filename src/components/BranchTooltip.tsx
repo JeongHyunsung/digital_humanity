@@ -2,7 +2,7 @@ import React from "react";
 import { Link, Frame, Event } from "../types";
 
 // 유연한 source/target 접근 (Link 타입 확장 대응)
-function getLinkId(obj: any) {
+function getLinkId(obj: Link["source"]) {
   // id 필드 있으면 id, 아니면 본인 자체(string/number)
   return typeof obj === "object" && obj !== null && "id" in obj ? obj.id : obj;
 }

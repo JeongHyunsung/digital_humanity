@@ -10,6 +10,8 @@ export interface Link {
   isCurrent?: boolean;
   count?: number;
 }
+
+
 export interface Event {
   timestamp: number;
   source: string;
