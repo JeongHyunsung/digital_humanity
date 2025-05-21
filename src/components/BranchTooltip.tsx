@@ -2,15 +2,24 @@ import React from "react";
 import { Link, Frame, Event } from "../types";
 
 // 한쪽 방향만 이벤트 반환
-function getLatestEvent(from: string, to: string, frames: Frame[]): Event | null {
+function getLatestEvent(
+  from: { id: string | number } | string,
+  to: { id: string | number } | string,
+  frames: Frame[]
+): Event | null {
+  // 타입가드로 id 추출 (string이면 그대로, Node면 .id)
+  const fromId = typeof from === "string" || typeof from === "number" ? from : from.id;
+  const toId = typeof to === "string" || typeof to === "number" ? to : to.id;
+
   for (let i = frames.length - 1; i >= 0; i--) {
     const event = frames[i].events.find(
-      e => e.source === from.id && e.target === to.id
+      e => e.source === fromId && e.target === toId
     );
     if (event) return event;
   }
   return null;
 }
+
 
 type Props = {
   link: Link;

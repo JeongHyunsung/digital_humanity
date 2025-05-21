@@ -13,8 +13,8 @@ export interface Node {
 
 
 export interface Link {
-  source: string;
-  target: string;
+  source: string | Node;
+  target: string | Node;
   value?: number;
   isCurrent?: boolean;
   count?: number;
