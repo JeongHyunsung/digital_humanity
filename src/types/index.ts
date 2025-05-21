@@ -2,7 +2,14 @@ export interface Node {
   id: string;
   label?: string;
   group?: string;
+  x?: number;
+  y?: number;
+  vx?: number;
+  vy?: number;
+  fx?: number;
+  fy?: number;
 }
+
 export interface Link {
   source: string;
   target: string;

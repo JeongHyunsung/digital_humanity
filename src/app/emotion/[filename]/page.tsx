@@ -20,7 +20,7 @@ export default function Page() {
   const [hoveredLink, setHoveredLink] = useState<Link | null>(null);
   const [mousePos, setMousePos] = useState<{ x: number; y: number } | null>(null);
 
-  const fgRef = useRef<ForceGraphMethods | null>(null);
+  const fgRef = useRef<ForceGraphMethods<any, any> | undefined>(undefined);
 
   const { graphData, allLinksRef, frameIndexRef } = useGraphAnimation(
     frames, nodes, intervalMs, isPlaying
@@ -176,7 +176,7 @@ export default function Page() {
           const l = link as Link;
           return l.isCurrent ? 0.035 : Math.max(0.01, 0.015 / (Math.log2((l.count ?? 1) + 1) + 0.6));
         }}
-        nodeCanvasObject={(node: Node, ctx, globalScale) => {
+        nodeCanvasObject={(node: any, ctx, globalScale) => {
           const color = getNodeColor(node, allLinksRef.current);
           const degree = getNodeDegree(node.id, allLinksRef.current);
           const radius = Math.max(12, Math.pow(degree, 0.9) * 6.5);
@@ -195,9 +195,19 @@ export default function Page() {
         }}
         cooldownTicks={400}
         onLinkHover={(l, event) => {
-          setHoveredLink(l);
-          if (!l) setMousePos(null);
-          else if (event) setMousePos({ x: event.clientX, y: event.clientY });
+          if (!l) {
+            setHoveredLink(null);
+            setMousePos(null);
+            return;
+          }
+          // source/target이 object라면 id로 변환
+          const safeLink = {
+            ...l,
+            source: typeof l.source === "object" && l.source !== null ? l.source.id : l.source,
+            target: typeof l.target === "object" && l.target !== null ? l.target.id : l.target,
+          } as Link;
+          setHoveredLink(safeLink);
+          if (event) setMousePos({ x: event.clientX, y: event.clientY });
         }}
         onNodeHover={() => setHoveredLink(null)}
         onBackgroundClick={() => setHoveredLink(null)}
