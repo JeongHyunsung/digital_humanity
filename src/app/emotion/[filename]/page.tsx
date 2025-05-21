@@ -68,16 +68,20 @@ export default function Page() {
   }, [hoveredLink]);
 
   // 프레임/날짜 정보
-  const currentIdx =
+  let currentIdx: number | undefined = undefined;
+  if (
     typeof frameIndexRef.current === "number" &&
     frameIndexRef.current >= 0 &&
     frameIndexRef.current < frames.length
-      ? frameIndexRef.current
-      : 0;
+  ) {
+    currentIdx = frameIndexRef.current;
+  }
+
   const totalFrames = frames.length;
-  const currentTimestamp = frames.length > 0 && frames[currentIdx]
-    ? frames[currentIdx].timestamp
-    : undefined;
+  const currentTimestamp =
+    currentIdx !== undefined && frames[currentIdx] !== undefined
+      ? frames[currentIdx].timestamp
+      : undefined;
 
   return (
     <div
