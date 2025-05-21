@@ -1,21 +1,12 @@
 import React from "react";
 import { Link, Frame, Event } from "../types";
 
-// 유연한 source/target 접근 (Link 타입 확장 대응)
-function getLinkId(obj: any) {
-  if (typeof obj === "object" && obj !== null && "id" in obj && typeof obj.id === "string") {
-    return obj.id;
-  }
-  return obj as string;  // 혹은 그냥 obj; (string일 때)
-}
 
 function getLatestEvent(link: Link, frames: Frame[]): Event | null {
-  const src = getLinkId(link.source);
-  const tgt = getLinkId(link.target);
-
+  // Link의 source/target이 string이므로 바로 비교!
   for (let i = frames.length - 1; i >= 0; i--) {
     const event = frames[i].events.find(
-      e => String(e.source) === String(src) && String(e.target) === String(tgt)
+      e => e.source === link.source && e.target === link.target
     );
     if (event) return event;
   }

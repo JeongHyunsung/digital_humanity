@@ -69,7 +69,7 @@ export function getNodeColor(node: Node, allLinks: { [key: string]: Link }) {
   const color = EMOTION_COLORS[label!] || [120, 120, 120];
   const [h, s, l] = rgbToHsl(...color);
 
-  const selfLoop = getSelfLoopCount(node.id, allLinks);
+  const selfLoop = getSelfLoopCount(String(node.id), allLinks);
   const grayH = 0, grayS = 0, grayL = 0.80;
   const t = Math.min(1, Math.log2(selfLoop + 1) / 2.2);
   const nodeH = grayH * (1 - t) + h * t;

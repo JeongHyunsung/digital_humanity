@@ -1,5 +1,5 @@
 export interface Node {
-  id: string;
+  id: string | number;
   label?: string;
   group?: string;
   x?: number;
@@ -8,7 +8,9 @@ export interface Node {
   vy?: number;
   fx?: number;
   fy?: number;
+  [others: string]: any;
 }
+
 
 export interface Link {
   source: string;

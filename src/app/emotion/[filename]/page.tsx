@@ -20,7 +20,8 @@ export default function Page() {
   const [hoveredLink, setHoveredLink] = useState<Link | null>(null);
   const [mousePos, setMousePos] = useState<{ x: number; y: number } | null>(null);
 
-  const fgRef = useRef<ForceGraphMethods<any, any> | undefined>(undefined);
+  type FGNode = { id?: string | number; x?: number; y?: number; [key: string]: any };
+  const fgRef = useRef<ForceGraphMethods<FGNode, Link> | undefined>(undefined);
 
   const { graphData, allLinksRef, frameIndexRef } = useGraphAnimation(
     frames, nodes, intervalMs, isPlaying
@@ -49,8 +50,11 @@ export default function Page() {
     if (fgRef.current) {
       fgRef.current.d3Force("center", null);
       fgRef.current.d3Force("charge")?.strength(-500);
-      fgRef.current.d3Force("collide")?.radius((node: Node) => {
-        const degree = getNodeDegree(node.id, allLinksRef.current);
+      fgRef.current.d3Force("collide")?.radius((node: FGNode) => {
+        const degree = getNodeDegree(
+          typeof node.id === "string" ? node.id : String(node.id ?? ""),
+          allLinksRef.current
+        );
         return Math.max(28, Math.pow(degree, 1.2) * 18);
       });
       fgRef.current.d3Force("link")?.strength(0.008);
@@ -176,12 +180,18 @@ export default function Page() {
           const l = link as Link;
           return l.isCurrent ? 0.035 : Math.max(0.01, 0.015 / (Math.log2((l.count ?? 1) + 1) + 0.6));
         }}
-        nodeCanvasObject={(node: any, ctx, globalScale) => {
-          const color = getNodeColor(node, allLinksRef.current);
-          const degree = getNodeDegree(node.id, allLinksRef.current);
+        nodeCanvasObject={(
+          node: { id?: string | number; x?: number; y?: number; [key: string]: any },
+          ctx: CanvasRenderingContext2D,
+          globalScale: number
+        ) => {
+          // id, x, y 안전하게 fallback
+          const idStr = typeof node.id === "string" ? node.id : String(node.id ?? "");
+          const color = getNodeColor({ ...node, id: idStr }, allLinksRef.current);
+          const degree = getNodeDegree(idStr, allLinksRef.current);
           const radius = Math.max(12, Math.pow(degree, 0.9) * 6.5);
           ctx.beginPath();
-          ctx.arc(node.x, node.y, radius, 0, 2 * Math.PI, false);
+          ctx.arc(node.x ?? 0, node.y ?? 0, radius, 0, 2 * Math.PI, false);
           ctx.fillStyle = color;
           ctx.shadowColor = "#bbb";
           ctx.shadowBlur = 7;
@@ -191,23 +201,13 @@ export default function Page() {
           ctx.textAlign = "center";
           ctx.textBaseline = "middle";
           ctx.fillStyle = "#222";
-          ctx.fillText(node.id, node.x, node.y);
+          ctx.fillText(idStr, node.x ?? 0, node.y ?? 0);
         }}
         cooldownTicks={400}
         onLinkHover={(l, event) => {
-          if (!l) {
-            setHoveredLink(null);
-            setMousePos(null);
-            return;
-          }
-          // source/target이 object라면 id로 변환
-          const safeLink = {
-            ...l,
-            source: typeof l.source === "object" && l.source !== null ? l.source.id : l.source,
-            target: typeof l.target === "object" && l.target !== null ? l.target.id : l.target,
-          } as Link;
-          setHoveredLink(safeLink);
+          setHoveredLink(l as Link | null);
           if (event) setMousePos({ x: event.clientX, y: event.clientY });
+          if (!l) setMousePos(null);
         }}
         onNodeHover={() => setHoveredLink(null)}
         onBackgroundClick={() => setHoveredLink(null)}
