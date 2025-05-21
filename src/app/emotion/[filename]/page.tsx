@@ -20,7 +20,7 @@ export default function Page() {
   const [hoveredLink, setHoveredLink] = useState<Link | null>(null);
   const [mousePos, setMousePos] = useState<{ x: number; y: number } | null>(null);
 
-  type FGNode = { id?: string | number; x?: number; y?: number; [key: string]: any };
+  type FGNode = { id?: string | number; x?: number; y?: number; [key: string]: unknown };
   const fgRef = useRef<ForceGraphMethods<FGNode, Link> | undefined>(undefined);
 
   const { graphData, allLinksRef, frameIndexRef } = useGraphAnimation(
@@ -181,7 +181,7 @@ export default function Page() {
           return l.isCurrent ? 0.035 : Math.max(0.01, 0.015 / (Math.log2((l.count ?? 1) + 1) + 0.6));
         }}
         nodeCanvasObject={(
-          node: { id?: string | number; x?: number; y?: number; [key: string]: any },
+          node: { id?: string | number; x?: number; y?: number; [key: string]: unknown },
           ctx: CanvasRenderingContext2D,
           globalScale: number
         ) => {

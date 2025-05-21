@@ -8,7 +8,7 @@ export interface Node {
   vy?: number;
   fx?: number;
   fy?: number;
-  [others: string]: any;
+  [others: string]: unknown;
 }
 
 
