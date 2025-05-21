@@ -5,7 +5,8 @@ import { useParams } from "next/navigation";
 import { useGraphAnimation } from "../../../hooks/useGraphAnimation";
 import { getNodeColor, getNodeDegree } from "../../../utils/graphUtils";
 import BranchTooltip from "../../../components/BranchTooltip";
-import { Node, GraphData, Link } from "../../../types";
+import { Node, GraphData, Link, Frame } from "../../../types";
+import type { ForceGraphMethods } from "react-force-graph-2d";
 
 const ForceGraph2D = dynamic(() => import("react-force-graph-2d"), { ssr: false });
 
