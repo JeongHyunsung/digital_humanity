@@ -1,0 +1,5206 @@
+{
+  "nodes": [
+    {
+      "id": "공포",
+      "label": "공포",
+      "group": "emotion"
+    },
+    {
+      "id": "기대",
+      "label": "기대",
+      "group": "emotion"
+    },
+    {
+      "id": "기쁨",
+      "label": "기쁨",
+      "group": "emotion"
+    },
+    {
+      "id": "놀람",
+      "label": "놀람",
+      "group": "emotion"
+    },
+    {
+      "id": "분노",
+      "label": "분노",
+      "group": "emotion"
+    },
+    {
+      "id": "슬픔",
+      "label": "슬픔",
+      "group": "emotion"
+    },
+    {
+      "id": "신뢰",
+      "label": "신뢰",
+      "group": "emotion"
+    },
+    {
+      "id": "혐오",
+      "label": "혐오",
+      "group": "emotion"
+    }
+  ],
+  "frames": [
+    {
+      "timestamp": 2,
+      "events": [
+        {
+          "timestamp": 2,
+          "source": "분노",
+          "target": "기쁨",
+          "comment": "진짜 갱생들이 안되는것들을 자꾸 풀어주니깐 피해자들만 괴롭지",
+          "reply": "니 가족",
+          "comment_time": "1년 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 363
+        },
+        {
+          "timestamp": 2,
+          "source": "기쁨",
+          "target": "공포",
+          "comment": "하 젬킨 뚱땡이 줜나 앵꼽네",
+          "reply": "친구 없는 티 내지 마시고 젬킨이 님보단 훨 잘합니다.",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 5,
+      "events": [
+        {
+          "timestamp": 5,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "RRQ 첫 퍼시픽 우승 축하드립니다",
+          "reply": "@이이익-b2f  ㄹㅇㅋㅋㅋㅋ 난 이미 댓글 스포 수도 없이 당해서 이젠 영상누르면 댓글쪽 손으로 가리고 들어감 ㅋㅋㅋㅋ 댓글 미리 보기 못 막아놓나 .. 그리고 시간대로도 이게 막경기인지 알 수가 잇어서 대회 시간이 5시간이든 6시간이든 항상 7,8시간 정도로 맞춰서 올려줫으면 좋겟음",
+          "comment_time": "7일 전",
+          "reply_time": "5일 전",
+          "time_diff_days": 2
+        }
+      ]
+    },
+    {
+      "timestamp": 7,
+      "events": [
+        {
+          "timestamp": 7,
+          "source": "기쁨",
+          "target": "분노",
+          "comment": "RRQ 첫 퍼시픽 우승 축하드립니다",
+          "reply": "아 스포 댓글 진짜",
+          "comment_time": "7일 전",
+          "reply_time": "7일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 7,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "GG RRQ, NT GEN G.\n\n근데 마지막 세트 지자마자 우르르 나간 관객들은 다른 나라 수준 운운하지 말자 RRQ 우승 인터뷰 때 관객석 텅텅 비어있더라. 상하이 때도 라이브러리라고 중국 그렇게 욕하더니 별반 다를게 없음",
+          "reply": "현장에서 RRQ가 이기고 다 갔었음?",
+          "comment_time": "7일 전",
+          "reply_time": "7일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 7,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "GG RRQ, NT GEN G.\n\n근데 마지막 세트 지자마자 우르르 나간 관객들은 다른 나라 수준 운운하지 말자 RRQ 우승 인터뷰 때 관객석 텅텅 비어있더라. 상하이 때도 라이브러리라고 중국 그렇게 욕하더니 별반 다를게 없음",
+          "reply": "이젠 뭐 경기 끝나고 나간다고 욕을 하네 ㅋㅋ",
+          "comment_time": "7일 전",
+          "reply_time": "7일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 7,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "GG RRQ, NT GEN G.\n\n근데 마지막 세트 지자마자 우르르 나간 관객들은 다른 나라 수준 운운하지 말자 RRQ 우승 인터뷰 때 관객석 텅텅 비어있더라. 상하이 때도 라이브러리라고 중국 그렇게 욕하더니 별반 다를게 없음",
+          "reply": "근데 이거 퍼시픽 직관간사람으로써 인정… 퍼시픽 직관 생각보다 무대랑 너무 가깝고 마지막에 선수 인터뷰할때도 선수들 완전 눈앞에 있어서 내가 응원하는 팀 졌는데도 못나가겠음 자꾸 선수들이랑 눈마주치는 기분이라… 쌩하니 가는것도 신기함… 그래도 막차 타야하는 분들이 많아서 어쩔수 없는 부분이긴 한듯",
+          "comment_time": "7일 전",
+          "reply_time": "7일 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 7,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "GG RRQ, NT GEN G.\n\n근데 마지막 세트 지자마자 우르르 나간 관객들은 다른 나라 수준 운운하지 말자 RRQ 우승 인터뷰 때 관객석 텅텅 비어있더라. 상하이 때도 라이브러리라고 중국 그렇게 욕하더니 별반 다를게 없음",
+          "reply": "근데 그냥 차막히기 전에 빠르게 나간듯",
+          "comment_time": "7일 전",
+          "reply_time": "7일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 7,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "GG RRQ, NT GEN G.\n\n근데 마지막 세트 지자마자 우르르 나간 관객들은 다른 나라 수준 운운하지 말자 RRQ 우승 인터뷰 때 관객석 텅텅 비어있더라. 상하이 때도 라이브러리라고 중국 그렇게 욕하더니 별반 다를게 없음",
+          "reply": "퍼시픽 직관하다보면 막차 끊겨서 그럴수도 있어요 주말에 보면 꽤 빡빡함",
+          "comment_time": "7일 전",
+          "reply_time": "7일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 7,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "GG RRQ, NT GEN G.\n\n근데 마지막 세트 지자마자 우르르 나간 관객들은 다른 나라 수준 운운하지 말자 RRQ 우승 인터뷰 때 관객석 텅텅 비어있더라. 상하이 때도 라이브러리라고 중국 그렇게 욕하더니 별반 다를게 없음",
+          "reply": "하고싶은 말 많지만 이번 관객들 나가는게 상하이의 노골적인 회피와 무반응과 그 과정에서 혐오와 같을 정도로 동일했나 싶긴함. 물론 남아서 끝까지 축하해주면 더 좋았겠지만 일요일에 그것도 밤에 끝나서 내일 출근이 있을 수 있으니 뭐라 하는것도 어렵다고 생각.",
+          "comment_time": "7일 전",
+          "reply_time": "7일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 7,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "GG RRQ, NT GEN G.\n\n근데 마지막 세트 지자마자 우르르 나간 관객들은 다른 나라 수준 운운하지 말자 RRQ 우승 인터뷰 때 관객석 텅텅 비어있더라. 상하이 때도 라이브러리라고 중국 그렇게 욕하더니 별반 다를게 없음",
+          "reply": "ㅇㅈㅇㅈ 우승해서 트로피들려고 하는순간 사람들 계속나가서 텅텅비었더라 내가 선수였으면 겁나 서운했을듯. 한 1/5밖에 없었음.",
+          "comment_time": "7일 전",
+          "reply_time": "7일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 7,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "GG RRQ, NT GEN G.\n\n근데 마지막 세트 지자마자 우르르 나간 관객들은 다른 나라 수준 운운하지 말자 RRQ 우승 인터뷰 때 관객석 텅텅 비어있더라. 상하이 때도 라이브러리라고 중국 그렇게 욕하더니 별반 다를게 없음",
+          "reply": "@Aqua_undergraduate 근데 5꽉간것도 아니라서 그건 변명이 안될듯 내생각엔 그냥 젠지응원갔다가 져서 바로나온것처럼 보임.",
+          "comment_time": "7일 전",
+          "reply_time": "7일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 7,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "GG RRQ, NT GEN G.\n\n근데 마지막 세트 지자마자 우르르 나간 관객들은 다른 나라 수준 운운하지 말자 RRQ 우승 인터뷰 때 관객석 텅텅 비어있더라. 상하이 때도 라이브러리라고 중국 그렇게 욕하더니 별반 다를게 없음",
+          "reply": "@한적한시간  물론 가능성은 여러개고 그 말도 맞다고 생각함. 개인적으로는 남는게 더 좋은 그림이지 않을까 싶긴한데 우리가 직관을 간 사람들에게 개인적 사정도 모른채로 잣대를 들이미는 것도 옳지 않다고 생각하고 그들의 감정을 우리의 생각에 맞추어서도 안된다고 생각함. 남아주면 고맙고 좋은 팬들이고 떠나면 어쩔 수 없다 정도로 생각함.\n\n뭔가 말이 길어지는데 그냥 단정짓긴 어려운 주제같음. 그래도 이런 의견교류가 계속 이루어진다면 최근에 인기가 많아지고 있는 발로란트에 좋은 팬문화가 형성되지 않을까 생각하긴 함",
+          "comment_time": "7일 전",
+          "reply_time": "7일 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 7,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "GG RRQ, NT GEN G.\n\n근데 마지막 세트 지자마자 우르르 나간 관객들은 다른 나라 수준 운운하지 말자 RRQ 우승 인터뷰 때 관객석 텅텅 비어있더라. 상하이 때도 라이브러리라고 중국 그렇게 욕하더니 별반 다를게 없음",
+          "reply": "@Aqua_undergraduate  ㅇㅇ 나도 직관간게아니라서 막 뭐라고 안하는게 맞다고 생각함. 그냥 영상보다가 관중들이 다 나가서 조금 충격먹었던거뿐임. 그래서 ‘나랑 비슷한 생각한사람들이 있나?’하고 댓글보려고 왔는데 위에 글보고 상하이마스터즈때 생각나서 글 쓴거임. \n\n그리고 님 댓글에 글쓴거는 나도 님처럼 아..내일이 주중이라 일찍간거겠지라고 두둔하려고 했는데 ‘5꽉도 안갔는데?’라는 생각이 들어서 글쓴거임. 물론 진짜로 시간이 없어서 간사람도 있다고는 생각함. \n\n나도 막 내 생각을 강요하려고 글쓴게아니라 그냥 내 생각을 말한거임. 그리고 ‘관중들이 잘못했음’이라고는 생각안함. 그저 선수들이 보기에 서운할거라고 생각한거임. (rrq는 내 기억상 tln이랑 다르게 이상한짓을 한적도 없고 이번에 피스트펌프 사건때 prx랑 노 피스트펌프로 조리돌림해서 호감도가 올라가서 감정이입한듯)",
+          "comment_time": "7일 전",
+          "reply_time": "7일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 7,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "마스터즈는 젠지랑 RRQ가 확정인가요?",
+          "reply": "yes",
+          "comment_time": "7일 전",
+          "reply_time": "7일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 7,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "마스터즈는 젠지랑 RRQ가 확정인가요?",
+          "reply": "페렉까지 확정입니다",
+          "comment_time": "7일 전",
+          "reply_time": "7일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 7,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "3대빵 됬네 아쉽다 gen.g 담에 홧팅!",
+          "reply": "어케 3대빵임? 첫맵 젠지가 땄는데",
+          "comment_time": "7일 전",
+          "reply_time": "7일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 7,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "3대빵 됬네 아쉽다 gen.g 담에 홧팅!",
+          "reply": "맞네요 중간에 봐서 어센트가 첫 맵인줄 알았습니다@여하준-z4y",
+          "comment_time": "7일 전",
+          "reply_time": "7일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 7,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "맨날 t1만 꿀조야 지혼자 오메가 한국팀이네",
+          "reply": "오히려 t1이 빡센데 그룹이면 4팀은 올라가는데 GE,TS는 어짜피 못하는데 제타는 모르겠어서",
+          "comment_time": "7일 전",
+          "reply_time": "7일 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 11,
+      "events": [
+        {
+          "timestamp": 11,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "ㄷㄷ 그래ㅋㅋ 암튼 그쵸!",
+          "reply": "씨오브 스타즈랑 클레르 옵스퀴르 33도 턴제+QTE+스토리 다 좋아서 너무 즐겁게 플레이했는데 리퍼의 분노가 기대돼 ㅋㅋ",
+          "comment_time": "2주 전",
+          "reply_time": "11일 전",
+          "time_diff_days": 3
+        }
+      ]
+    },
+    {
+      "timestamp": 14,
+      "events": [
+        {
+          "timestamp": 14,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "이번 영상 관람 포인트는 여기 있는 모든 게임들이 한글 지원한다는 거네 ㅋㅋㅋ",
+          "reply": "내가 예전에 귀무자2를 할 때 적들을 다 페링으로 다 처박아가면서 했지ㅋㅋㅋㅋㅋ 근데 이젠 내일 모레 50이다...",
+          "comment_time": "3주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 7
+        },
+        {
+          "timestamp": 14,
+          "source": "기대",
+          "target": "기대",
+          "comment": "나는 10:04 귀무자 2편 출시하면 해보고 싶네요 15:30 무료인 게임인 소니랑 6월에 출시하는 내 도파민을 채워 줄 스팀 스텔라블레이드 기다리고 있죠",
+          "reply": "나도 10:04의 귀무자 2편 나오면 한 번 해보고 싶어 ㅋㅋ 15:30 무료로 나오는 게임 소니랑 6월에 나올 스팀의 스텔라블레이드 기대돼! 기대돼!",
+          "comment_time": "3주 전(수정됨)",
+          "reply_time": "2주 전",
+          "time_diff_days": 7
+        },
+        {
+          "timestamp": 14,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "고스트 오브 요테이는 언제쯤 나올까요? 올해는 그거랑 gta6만 기달리는중ㅎㅎ",
+          "reply": "GTA6는 연기빔 ㅠ",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "코리아 패싱은 더 이상 없겠죠?",
+          "reply": "사우스 코리아 패싱은 있습니다",
+          "comment_time": "3주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 7
+        },
+        {
+          "timestamp": 14,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "진짜 추억이다 지금도 보는사람?",
+          "reply": "혹시 아직도 게임하시나요>?",
+          "comment_time": "5개월 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 136
+        }
+      ]
+    },
+    {
+      "timestamp": 21,
+      "events": [
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "스승의 날 참교육하러 오신다...\n\n\n\n레전드 형님께서 친절한 대화 수단을 가지고!!\n\n이번 달 여러분 원픽은 어떤 게임인가요?",
+          "reply": "밤의 통치자 예구했습니다.",
+          "comment_time": "3주 전(수정됨)",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "이번 영상 관람 포인트는 여기 있는 모든 게임들이 한글 지원한다는 거네 ㅋㅋㅋ",
+          "reply": "전 원래 한글 아니면 소개를 안 합니다. 한글 게임 할 시간도 없거든요ㅎㅎ",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "이번 영상 관람 포인트는 여기 있는 모든 게임들이 한글 지원한다는 거네 ㅋㅋㅋ",
+          "reply": "요즘 시대에 한글화 아니면 기분나빠서 안합니다 ㅎㅎ",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "내가 한때 귀무자2를 할때 모든 적을 패링으로 다 조져가면서 했지ㅋㅋㅋㅋㅋ\n근대 내일모레 50이다....",
+          "reply": "대단하시네요 ㅎㅎㅎ",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "내가 한때 귀무자2를 할때 모든 적을 패링으로 다 조져가면서 했지ㅋㅋㅋㅋㅋ\n근대 내일모레 50이다....",
+          "reply": "멋지십니다 동현님!",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "내가 한때 귀무자2를 할때 모든 적을 패링으로 다 조져가면서 했지ㅋㅋㅋㅋㅋ\n근대 내일모레 50이다....",
+          "reply": "ㅋㅋㅋ대밧",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "0:20 게임 뭔지 아시나요??",
+          "reply": "클레르 옵스퀴르:33원정대??",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "집마님 6~7초 사이 게임은 무슨게임인가요??\n* 좌측에 거상처럼 용병 있는 장면이요",
+          "reply": "클레르 옵스퀴르 33 원정대입니다. 참고로 링크는 제가 만든 리뷰입니다 :)\n\nhttps://www.youtube.com/watch?v=LoGwqqejbSc&t=601s",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "나이든 아재라서 옛날 추억의 게임인 히마메 신작이 나온다길래 기대중인데 소식이없네 2분기라더니..",
+          "reply": "보셨을지 모르지만 스팀에 2분기출시 예정으로 등록되어있기는 합니다. 종족정보와 유닛들공개되어 있으니 일부 정보확인 가능하실거에요.",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "앞으로 베데스다 게임은 영상에서 안보고싶다",
+          "reply": "엄격이 따지면 이드소프트긴함",
+          "comment_time": "3주 전(수정됨)",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "앞으로 베데스다 게임은 영상에서 안보고싶다",
+          "reply": "회사 구별못하는 사람은 꼭 나온단 말이지\n둠은 이드소프트 게임이다...소속만 베데스다인거고...",
+          "comment_time": "3주 전(수정됨)",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "앞으로 베데스다 게임은 영상에서 안보고싶다",
+          "reply": "@송재민-p4v 아직도 봉합못했네 ㅋㅋㅋㅋ",
+          "comment_time": "3주 전(수정됨)",
+          "reply_time": "3주 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "앞으로 베데스다 게임은 영상에서 안보고싶다",
+          "reply": "@송재민-p4v 평생 그리살아",
+          "comment_time": "3주 전(수정됨)",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "로스트 소울은 중국인겜",
+          "reply": "중국게임 잘나가는거 생각보다 엄청많음",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 28,
+      "events": [
+        {
+          "timestamp": 28,
+          "source": "기대",
+          "target": "기대",
+          "comment": "3:45 이게 진짜 개멋지네 뭐냐;",
+          "reply": "서폿 ㅈㄴ잘하네ㄷㄷ",
+          "comment_time": "2년 전(수정됨)",
+          "reply_time": "4주 전",
+          "time_diff_days": 702
+        }
+      ]
+    },
+    {
+      "timestamp": 30,
+      "events": [
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "아 ㅋㅋㅋ 오늘 저녁 영상인데 시간 설정 잘못해서 아침에 올라갔네요 일찍 뵈니 좋습니다 재밌게 보고 가시고, 좋아요 한번씩 부탁드립니다",
+          "reply": "ㅋㅋㅋ",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "아 ㅋㅋㅋ 오늘 저녁 영상인데 시간 설정 잘못해서 아침에 올라갔네요 일찍 뵈니 좋습니다 재밌게 보고 가시고, 좋아요 한번씩 부탁드립니다",
+          "reply": "ㅋㅋㅋ",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "아 ㅋㅋㅋ 오늘 저녁 영상인데 시간 설정 잘못해서 아침에 올라갔네요 일찍 뵈니 좋습니다 재밌게 보고 가시고, 좋아요 한번씩 부탁드립니다",
+          "reply": "모닝영상감사합니다?",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "아 ㅋㅋㅋ 오늘 저녁 영상인데 시간 설정 잘못해서 아침에 올라갔네요 일찍 뵈니 좋습니다 재밌게 보고 가시고, 좋아요 한번씩 부탁드립니다",
+          "reply": "아침 일찍 혜안님 봐서 오히려 좋아 킹간미 ㄱㅇㅇ",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "아 ㅋㅋㅋ 오늘 저녁 영상인데 시간 설정 잘못해서 아침에 올라갔네요 일찍 뵈니 좋습니다 재밌게 보고 가시고, 좋아요 한번씩 부탁드립니다",
+          "reply": "ㅋㅋㅋㅋㅋ",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "아 ㅋㅋㅋ 오늘 저녁 영상인데 시간 설정 잘못해서 아침에 올라갔네요 일찍 뵈니 좋습니다 재밌게 보고 가시고, 좋아요 한번씩 부탁드립니다",
+          "reply": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "아 ㅋㅋㅋ 오늘 저녁 영상인데 시간 설정 잘못해서 아침에 올라갔네요 일찍 뵈니 좋습니다 재밌게 보고 가시고, 좋아요 한번씩 부탁드립니다",
+          "reply": "ㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "아 ㅋㅋㅋ 오늘 저녁 영상인데 시간 설정 잘못해서 아침에 올라갔네요 일찍 뵈니 좋습니다 재밌게 보고 가시고, 좋아요 한번씩 부탁드립니다",
+          "reply": "넵",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "아 ㅋㅋㅋ 오늘 저녁 영상인데 시간 설정 잘못해서 아침에 올라갔네요 일찍 뵈니 좋습니다 재밌게 보고 가시고, 좋아요 한번씩 부탁드립니다",
+          "reply": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 모닝영상 좋쿠먼",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "아 ㅋㅋㅋ 오늘 저녁 영상인데 시간 설정 잘못해서 아침에 올라갔네요 일찍 뵈니 좋습니다 재밌게 보고 가시고, 좋아요 한번씩 부탁드립니다",
+          "reply": "@hxxax  ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "신뢰",
+          "target": "분노",
+          "comment": "14:47 “아나도 아나의 삶이 있다모” 가 너무 귀엽고 웃겼어요 ㅋ꙼̈ㅋ̆̎ㅋ̊̈ㅋ̌̈ㅋ̄̈ㅋ̐̈ㅋ̑̈ㅋ̆̈",
+          "reply": "개터졌다모",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "14:47 “아나도 아나의 삶이 있다모” 가 너무 귀엽고 웃겼어요 ㅋ꙼̈ㅋ̆̎ㅋ̊̈ㅋ̌̈ㅋ̄̈ㅋ̐̈ㅋ̑̈ㅋ̆̈",
+          "reply": "ㅋㅋㅋㅋㅋㅋㅋ저도 이 댓글 달러 왔는뎈ㅋㅋㅋ너무공감돼요 ㅋㅋㅋㅋㅋ",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "혜안님 오버워치 이렇게 잘했었는지 새삼... 못하는 게임이 없긴 한데 섹시하다 진짜... 오버워치도 장기 컨텐츠로 해주세요ㅜㅜ너무 재밌어요ㅜㅜㅜㅜ",
+          "reply": "재밌어서 저녁에 또 보러 옴",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "기대",
+          "comment": "혜안님 오버워치 이렇게 잘했었는지 새삼... 못하는 게임이 없긴 한데 섹시하다 진짜... 오버워치도 장기 컨텐츠로 해주세요ㅜㅜ너무 재밌어요ㅜㅜㅜㅜ",
+          "reply": "장기 컨텐츠 제발 ..",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "옵치자주해주세요 너무 좋다ㅜㅜ",
+          "reply": "유후업",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "옵치자주해주세요 너무 좋다ㅜㅜ",
+          "reply": "유후업",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "옵치자주해주세요 너무 좋다ㅜㅜ",
+          "reply": "업",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "신뢰",
+          "comment": "옵치자주해주세요 너무 좋다ㅜㅜ",
+          "reply": "승모요정 강림",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "옵치자주해주세요 너무 좋다ㅜㅜ",
+          "reply": "승모업",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "옵치자주해주세요 너무 좋다ㅜㅜ",
+          "reply": "이언니 옵치 영상에 다 등장하는것 같애",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "옵치자주해주세요 너무 좋다ㅜㅜ",
+          "reply": "유후니밍다!!!",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "옵치자주해주세요 너무 좋다ㅜㅜ",
+          "reply": "유후업",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "분노",
+          "target": "기쁨",
+          "comment": "5:19 미치겠네 ㅋㅋㅋㅋ진짴ㅋㅋ 아빠 쌘글라스 뺏겨졌으~",
+          "reply": "아 진짜 ㄹㅇ 육성으로 터짐 ㅋㅋㅋㅋㅋ 왜케 웃겨 진짜 ㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "6:30 혜안님!! 캠 켜졌어요!! 인사도 야무지게 하시넼ㅋㅋ",
+          "reply": "ㅋㅋㅋㅋㅋ",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "실수? 오히려 좋으니까 자주 실수해주세욬ㅋㅋㅋㅋ 혜안님 영상 보면서 시작하는 하루 아침 영상 좋다고요~~ 아침부터 늘 그랬듯, 여유로운 모습과 진심인 모습, 빡겜하는 모습 다 볼 수 있잖여~ 0:28 아니 혜안님의 말투랑 편집자님의 편집 센스 너무 웃곀ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 앞으로도 많이 해주세요!!! 오랜만에 옵치 영상 올려줘서 좋타아잉\n\n 여기서 계속 모모모~ 거리는 게 진짜 포켓몬 같넼ㅋㅋㅋㅋㅋ  AI인 줄요ㅋㅋㅋㅋㅋ 마이크 안키고 멋.있.어ㅋㅋㅋㅋㅋㅋㅋㅋㅋ  다들 마이크 안키셔ㅠㅠㅠㅋㅋㅋㅋㅋㅋ 혜안님 벽이랑 대화하는 줄ㅋㅋㅋㅋㅋㅋ  이게 무슨 소리얔ㅋㅋㅋ 오오오옥!!!! 오옥!!!!",
+          "reply": "잘못 올린 거 맞는 거 같아요. 오후 7시 거를 오전 7시로 잘못 올리신듯...?",
+          "comment_time": "1개월 전(수정됨)",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "실수? 오히려 좋으니까 자주 실수해주세욬ㅋㅋㅋㅋ 혜안님 영상 보면서 시작하는 하루 아침 영상 좋다고요~~ 아침부터 늘 그랬듯, 여유로운 모습과 진심인 모습, 빡겜하는 모습 다 볼 수 있잖여~ 0:28 아니 혜안님의 말투랑 편집자님의 편집 센스 너무 웃곀ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 앞으로도 많이 해주세요!!! 오랜만에 옵치 영상 올려줘서 좋타아잉\n\n 여기서 계속 모모모~ 거리는 게 진짜 포켓몬 같넼ㅋㅋㅋㅋㅋ  AI인 줄요ㅋㅋㅋㅋㅋ 마이크 안키고 멋.있.어ㅋㅋㅋㅋㅋㅋㅋㅋㅋ  다들 마이크 안키셔ㅠㅠㅠㅋㅋㅋㅋㅋㅋ 혜안님 벽이랑 대화하는 줄ㅋㅋㅋㅋㅋㅋ  이게 무슨 소리얔ㅋㅋㅋ 오오오옥!!!! 오옥!!!!",
+          "reply": "@Baeghabeunha 맞습니다",
+          "comment_time": "1개월 전(수정됨)",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "실수? 오히려 좋으니까 자주 실수해주세욬ㅋㅋㅋㅋ 혜안님 영상 보면서 시작하는 하루 아침 영상 좋다고요~~ 아침부터 늘 그랬듯, 여유로운 모습과 진심인 모습, 빡겜하는 모습 다 볼 수 있잖여~ 0:28 아니 혜안님의 말투랑 편집자님의 편집 센스 너무 웃곀ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 앞으로도 많이 해주세요!!! 오랜만에 옵치 영상 올려줘서 좋타아잉\n\n 여기서 계속 모모모~ 거리는 게 진짜 포켓몬 같넼ㅋㅋㅋㅋㅋ  AI인 줄요ㅋㅋㅋㅋㅋ 마이크 안키고 멋.있.어ㅋㅋㅋㅋㅋㅋㅋㅋㅋ  다들 마이크 안키셔ㅠㅠㅠㅋㅋㅋㅋㅋㅋ 혜안님 벽이랑 대화하는 줄ㅋㅋㅋㅋㅋㅋ  이게 무슨 소리얔ㅋㅋㅋ 오오오옥!!!! 오옥!!!!",
+          "reply": "배그 유튜버가 오버워치를 하다니 배그도 요즘 안하고  프사 바꾸자",
+          "comment_time": "1개월 전(수정됨)",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "실수? 오히려 좋으니까 자주 실수해주세욬ㅋㅋㅋㅋ 혜안님 영상 보면서 시작하는 하루 아침 영상 좋다고요~~ 아침부터 늘 그랬듯, 여유로운 모습과 진심인 모습, 빡겜하는 모습 다 볼 수 있잖여~ 0:28 아니 혜안님의 말투랑 편집자님의 편집 센스 너무 웃곀ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 앞으로도 많이 해주세요!!! 오랜만에 옵치 영상 올려줘서 좋타아잉\n\n 여기서 계속 모모모~ 거리는 게 진짜 포켓몬 같넼ㅋㅋㅋㅋㅋ  AI인 줄요ㅋㅋㅋㅋㅋ 마이크 안키고 멋.있.어ㅋㅋㅋㅋㅋㅋㅋㅋㅋ  다들 마이크 안키셔ㅠㅠㅠㅋㅋㅋㅋㅋㅋ 혜안님 벽이랑 대화하는 줄ㅋㅋㅋㅋㅋㅋ  이게 무슨 소리얔ㅋㅋㅋ 오오오옥!!!! 오옥!!!!",
+          "reply": "어몽어스",
+          "comment_time": "1개월 전(수정됨)",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "우앙 혜안님 오버워치 자주 해주세요!!",
+          "reply": "감사합니다 ️",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "혜안, 우주하마 옵치 듀오 생각만해도 ㄷㄷ이다",
+          "reply": "하트를 눌러주시다니.. 사실인가요?",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "0:11 배그때 진짜 방역식이 목소리 진짜 어렸었는데 지금은 그 감성을 못 내는 아재가 되셨다능..",
+          "reply": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 60,
+      "events": [
+        {
+          "timestamp": 60,
+          "source": "분노",
+          "target": "공포",
+          "comment": "저런 놈들 때문에 엄한 사람들만 피해를 입게 되는 거죠\n어휴...",
+          "reply": "전형적인 이대남. 입벌구 지지자겠지",
+          "comment_time": "1년 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 305
+        },
+        {
+          "timestamp": 60,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "저런 것들은 나오면 또 반복해서 범죄 짓을 합니다.\n교도소에서 나오면 바로 풀어주지 말고 또 정신병원에 가둬서 \n3년정도는 정신적인 치료라도 해야 합니다.\n계속 피해자 생기는데 풀어주고 또 피해보고 이게 뭡니까",
+          "reply": "그렇다고 무기징역 때릴순 없잖아",
+          "comment_time": "5개월 전(수정됨)",
+          "reply_time": "2개월 전",
+          "time_diff_days": 90
+        },
+        {
+          "timestamp": 60,
+          "source": "분노",
+          "target": "기쁨",
+          "comment": "하네\n안잡힐줄 알앗나?\n니가 모텔 사장이여봐라 \n그심정이 어떨지\n저런거  하지말고 일해서 돈벌어라",
+          "reply": "가지가짘ㅋㅋㅋㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 305
+        }
+      ]
+    },
+    {
+      "timestamp": 90,
+      "events": [
+        {
+          "timestamp": 90,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "11:40 저 멈칫멈칫하는 무빙이 진짜 개 미친거임",
+          "reply": "와 그러네 할까말까",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "2:32 여기서 플을 왼쪽으로 탔으면 잘하면 쵸비까지 잡고 펜타킬도 가능했을지 모름. 플을 아랫쪽으로 타서 하필 뽀삐 노리고 쏜 인광탄에 맞아서 피닳고 아지르도 죽었지....\n만약 9시방향으로 플을 탔다? 비에고한테 한대 맞았을수는 있는데 결국 병사4명 죽창질에 럼블까지 터트리고 쵸비도  결국 사거리 때문에 아지르한테 다가가야함. 물론 쵸비가 정상적인 판단을 한다면 오른쪽으로 튈수도 있겠지만 팀원들 다 터진것에 대해 순간적으로 뇌가 굳어서 아지르라도 마무리 해야한다는 마음으로 왼쪽 오면 그대로 창찔려서 폭사....\n.....그렇게 펜타킬 찍었다면 장로드래곤 솔로사냥하고 1세트 이기고 2~3세트까지 이기는 세계선도 지켜진다면 스프링 결승은 T1의 3:0 승리가 됐을지도",
+          "reply": "아고 이분은 롤드컵 우승 최소 5은 하셨으니 최소 챌이실텐데\n몇점이신지?",
+          "comment_time": "5개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 60
+        },
+        {
+          "timestamp": 90,
+          "source": "분노",
+          "target": "분노",
+          "comment": "4달만에 범죄를 저지른거면 이건 갱생 불가입니다. 가중처벌 시키세요.",
+          "reply": "ㄴㄴ 범죄자를 위한 범죄자의 의한 범죄자의 나라 대한민국은 범죄자의 인권을 존중합니다 바랄걸 바라세요",
+          "comment_time": "1년 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 275
+        }
+      ]
+    },
+    {
+      "timestamp": 120,
+      "events": [
+        {
+          "timestamp": 120,
+          "source": "분노",
+          "target": "기쁨",
+          "comment": "저런 놈들 때문에 엄한 사람들만 피해를 입게 되는 거죠\n어휴...",
+          "reply": "@onn7346 ?? ㅋㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 245
+        },
+        {
+          "timestamp": 120,
+          "source": "분노",
+          "target": "분노",
+          "comment": "존나 열받는거 저거 처벌만 하지 복구 안됨...개인적으로 저런 악질들은 더 과하게 때리거나 아님..교도소에서 나가서 일하는거 있음..일하고 번 돈을 무조건 피해자에게 주는걸로 해야함..즉 강제로 노동시키고 그돈 피해자에게 줘야함..안그럼 저새끼 나가서 또 그짓함...",
+          "reply": "사람들이 몰라서 그러는거지 피해복구 못 받으면 \n배째라는 애들 싹다 사회에서 '거래'라는 행위 자체를 못하게 할 수있음 \n\n일단 유죄 및 배상책임 확정 난 상태면 \n내용증명우편-배상가처분신청-불복시 거래 잠궈버리기\n콤보로 내가 풀어줄때까지 평생 신용불량자에 거래 못하는 사람 만들 수 있음 이 잠궈버리는게 10년마다 갱신 가능으로 알고있어서 말 그대로 평생임\n\n'난 어떻게든 돈 받아내는게 목적이다' 하면 이 절차하고나서 압류신청으로 빨간딱지 도배로 집안 살림 다 경매로 넘겨버리는 걸로 헐값이라도 받아낼 수 있음",
+          "comment_time": "1년 전",
+          "reply_time": "4개월 전(수정됨)",
+          "time_diff_days": 245
+        },
+        {
+          "timestamp": 120,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "존나 열받는거 저거 처벌만 하지 복구 안됨...개인적으로 저런 악질들은 더 과하게 때리거나 아님..교도소에서 나가서 일하는거 있음..일하고 번 돈을 무조건 피해자에게 주는걸로 해야함..즉 강제로 노동시키고 그돈 피해자에게 줘야함..안그럼 저새끼 나가서 또 그짓함...",
+          "reply": "하이고 여러분 자기 명의로 안 쓰면 그만입니다.... 저런애들 그러고 살아요 ㅋㅋㅋㅋ 작정하면 받기 힘들어요...",
+          "comment_time": "1년 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 245
+        },
+        {
+          "timestamp": 120,
+          "source": "분노",
+          "target": "기쁨",
+          "comment": "하네\n안잡힐줄 알앗나?\n니가 모텔 사장이여봐라 \n그심정이 어떨지\n저런거  하지말고 일해서 돈벌어라",
+          "reply": "근!!!!하하하하하",
+          "comment_time": "1년 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 245
+        },
+        {
+          "timestamp": 120,
+          "source": "분노",
+          "target": "분노",
+          "comment": "하네\n안잡힐줄 알앗나?\n니가 모텔 사장이여봐라 \n그심정이 어떨지\n저런거  하지말고 일해서 돈벌어라",
+          "reply": "남의 입장 생각할 능지가 없음 저런 애들은",
+          "comment_time": "1년 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 245
+        },
+        {
+          "timestamp": 120,
+          "source": "분노",
+          "target": "기쁨",
+          "comment": "하네\n안잡힐줄 알앗나?\n니가 모텔 사장이여봐라 \n그심정이 어떨지\n저런거  하지말고 일해서 돈벌어라",
+          "reply": "제하하하하하!!!",
+          "comment_time": "1년 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 245
+        },
+        {
+          "timestamp": 120,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "4달만에 범죄를 저지른거면 이건 갱생 불가입니다. 가중처벌 시키세요.",
+          "reply": "가중처벌 받아도 2년에서3년내지임",
+          "comment_time": "1년 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 245
+        },
+        {
+          "timestamp": 120,
+          "source": "혐오",
+          "target": "놀람",
+          "comment": "와 진짜 ㅋㅋㅋㄱ상상도 못한 범죄 진짜 영악하다",
+          "reply": "상상도 못하는게ㅡ아니라 잡히는거 생각안한게 문제아닐까요",
+          "comment_time": "1년 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 245
+        },
+        {
+          "timestamp": 120,
+          "source": "놀람",
+          "target": "신뢰",
+          "comment": "나도 컴잘알이라 모텔가면 항상 저게 불안했는데 그동안 이런범죄가 없었다는게 신기할정도로 없었는데\n역시 컴퓨터 사양 좋아지자마자 범죄나오네 \n컴퓨터를 저런식으로 두면안되고 벽안으로 매립하거나 책상안으로 매립하는걸 추천드립니다\n4060이면 엄청좋은 글카ㅎ 나도 2070쓰는데..ㅎㅎ",
+          "reply": "엄청까진 아니긴한데 호텔치곤 좋죠...",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "4개월 전",
+          "time_diff_days": 245
+        },
+        {
+          "timestamp": 120,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "죄를 지어서 징역이나 벌금 물을 떄, 전과가 있으면 거기에 대해 가중치를 더해서 부과하고, 같은 죄를 또 저질러서 오면 형량을 배로 늘리게 해야함",
+          "reply": "동종 전과가 있다면 가중처벌 받습니다",
+          "comment_time": "1년 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 245
+        },
+        {
+          "timestamp": 120,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "죄를 지어서 징역이나 벌금 물을 떄, 전과가 있으면 거기에 대해 가중치를 더해서 부과하고, 같은 죄를 또 저질러서 오면 형량을 배로 늘리게 해야함",
+          "reply": "원래 그렇게 하고 있어요 깨어있는척 하지마세요",
+          "comment_time": "1년 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 245
+        }
+      ]
+    },
+    {
+      "timestamp": 150,
+      "events": [
+        {
+          "timestamp": 150,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "고전파: \"미래를 원한다면 증명하세요\"\nT1 이상혁: \"알았다\"\n쵸비,나이트 : \"????????????\"",
+          "reply": "@흠냐-w1i  젠샤샤샥첩이기때문에..",
+          "comment_time": "6개월 전",
+          "reply_time": "5개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 150,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "2:32 여기서 플을 왼쪽으로 탔으면 잘하면 쵸비까지 잡고 펜타킬도 가능했을지 모름. 플을 아랫쪽으로 타서 하필 뽀삐 노리고 쏜 인광탄에 맞아서 피닳고 아지르도 죽었지....\n만약 9시방향으로 플을 탔다? 비에고한테 한대 맞았을수는 있는데 결국 병사4명 죽창질에 럼블까지 터트리고 쵸비도  결국 사거리 때문에 아지르한테 다가가야함. 물론 쵸비가 정상적인 판단을 한다면 오른쪽으로 튈수도 있겠지만 팀원들 다 터진것에 대해 순간적으로 뇌가 굳어서 아지르라도 마무리 해야한다는 마음으로 왼쪽 오면 그대로 창찔려서 폭사....\n.....그렇게 펜타킬 찍었다면 장로드래곤 솔로사냥하고 1세트 이기고 2~3세트까지 이기는 세계선도 지켜진다면 스프링 결승은 T1의 3:0 승리가 됐을지도",
+          "reply": "입롤 오지네 구마유시가 포지션 좀만 더 좋았으면 애초에 이겼겠네 그러면?",
+          "comment_time": "5개월 전",
+          "reply_time": "5개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 150,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "존나 열받는거 저거 처벌만 하지 복구 안됨...개인적으로 저런 악질들은 더 과하게 때리거나 아님..교도소에서 나가서 일하는거 있음..일하고 번 돈을 무조건 피해자에게 주는걸로 해야함..즉 강제로 노동시키고 그돈 피해자에게 줘야함..안그럼 저새끼 나가서 또 그짓함...",
+          "reply": "@ddongggumong  민사걸어서 성인되서도 안갚으면 통장 압류 걸고 신용도 떨어지고 평생 걸림돌이라 무조건 갚게 만들 수 있음.",
+          "comment_time": "1년 전",
+          "reply_time": "5개월 전",
+          "time_diff_days": 215
+        },
+        {
+          "timestamp": 150,
+          "source": "분노",
+          "target": "혐오",
+          "comment": "존나 열받는거 저거 처벌만 하지 복구 안됨...개인적으로 저런 악질들은 더 과하게 때리거나 아님..교도소에서 나가서 일하는거 있음..일하고 번 돈을 무조건 피해자에게 주는걸로 해야함..즉 강제로 노동시키고 그돈 피해자에게 줘야함..안그럼 저새끼 나가서 또 그짓함...",
+          "reply": "무조건안갚는게 통장없이 사는 밑바닥인생이라 범죄자들이 그냥 계속생기는거임 대포통장 뚫어버리거나 아니면 저런 인생포기한 사기꾼은 일반인으로 위장한 신용살아있는 사기꾼이랑 붙어먹어서 저런애들은 땡길수있는만큼 땡기고 교도소 가는게 일상인 애들임",
+          "comment_time": "1년 전",
+          "reply_time": "5개월 전",
+          "time_diff_days": 215
+        },
+        {
+          "timestamp": 150,
+          "source": "분노",
+          "target": "기대",
+          "comment": "존나 열받는거 저거 처벌만 하지 복구 안됨...개인적으로 저런 악질들은 더 과하게 때리거나 아님..교도소에서 나가서 일하는거 있음..일하고 번 돈을 무조건 피해자에게 주는걸로 해야함..즉 강제로 노동시키고 그돈 피해자에게 줘야함..안그럼 저새끼 나가서 또 그짓함...",
+          "reply": "@uri_j  교도소에서 일해서 버는 돈,개인명의로 되있는 모든 재산 다 현금화시켜서 받아낼수있지않을까",
+          "comment_time": "1년 전",
+          "reply_time": "5개월 전",
+          "time_diff_days": 215
+        },
+        {
+          "timestamp": 150,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "하네\n안잡힐줄 알앗나?\n니가 모텔 사장이여봐라 \n그심정이 어떨지\n저런거  하지말고 일해서 돈벌어라",
+          "reply": "가지가지ㅋㅋㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "5개월 전",
+          "time_diff_days": 215
+        },
+        {
+          "timestamp": 150,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "하네\n안잡힐줄 알앗나?\n니가 모텔 사장이여봐라 \n그심정이 어떨지\n저런거  하지말고 일해서 돈벌어라",
+          "reply": "전과 기록 빽빽할텐데 누가 써줌 ㅋㅋㅋㅋㅋ\n그러게 곱게 살지 왜 도둑질을 해서",
+          "comment_time": "1년 전",
+          "reply_time": "5개월 전",
+          "time_diff_days": 215
+        },
+        {
+          "timestamp": 150,
+          "source": "분노",
+          "target": "분노",
+          "comment": "출소한지 넉달만에 또 ㅋ\n저거 평생가도 안고쳐진다",
+          "reply": "추잡하게  성 희롱 하지마세요\n이렇게 인간성 표출 하는거\n창피한 짓입니다",
+          "comment_time": "1년 전",
+          "reply_time": "5개월 전",
+          "time_diff_days": 215
+        }
+      ]
+    },
+    {
+      "timestamp": 180,
+      "events": [
+        {
+          "timestamp": 180,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "3:50 여긴진짜  말도안되네  레나타가  리신 첫q맞아줘서  드븐살리고    드븐이 날라가는q 끊어줘서 레나타살리네 ㅋㅋㅋㅋㅋ  말도안된다",
+          "reply": "0.75배속으로 해야 보이는데 어케 보신거죠..ㄷㄷ",
+          "comment_time": "2년 전",
+          "reply_time": "6개월 전(수정됨)",
+          "time_diff_days": 550
+        },
+        {
+          "timestamp": 180,
+          "source": "슬픔",
+          "target": "분노",
+          "comment": "페이커는 우리나라를 빛낸 사람중 한명이라고 생각함 근데 조금못했다고해서 욕먹을정도면 너넨 살면서 뭘 이뤘냐?",
+          "reply": "헤이 헤이 헤이!! 그들에겐 빛이 너무 밝아 어떻게든 흠집을 내지 않으면 살수가 없다고!",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "페이커는 우리나라를 빛낸 사람중 한명이라고 생각함 근데 조금못했다고해서 욕먹을정도면 너넨 살면서 뭘 이뤘냐?",
+          "reply": "ㄹㅇㅋㅋ",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "페이커는 우리나라를 빛낸 사람중 한명이라고 생각함 근데 조금못했다고해서 욕먹을정도면 너넨 살면서 뭘 이뤘냐?",
+          "reply": "ㄹㅇㅋㅋ",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "페이커는 우리나라를 빛낸 사람중 한명이라고 생각함 근데 조금못했다고해서 욕먹을정도면 너넨 살면서 뭘 이뤘냐?",
+          "reply": "ㅋㅋㅋㅋ 바퀴벌레인생들이지 뭐 ㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "페이커는 우리나라를 빛낸 사람중 한명이라고 생각함 근데 조금못했다고해서 욕먹을정도면 너넨 살면서 뭘 이뤘냐?",
+          "reply": "ㄹㅇㅋㅋ",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "페이커는 우리나라를 빛낸 사람중 한명이라고 생각함 근데 조금못했다고해서 욕먹을정도면 너넨 살면서 뭘 이뤘냐?",
+          "reply": "슈퍼스타라 영원히 안티도 많을거임 이미 15년도 끝나고 롤드컵 2개부터 GOAT 였는데 ㅋㅋ 페이커 빼고 2개먹은 미드도 없음",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "페이커는 우리나라를 빛낸 사람중 한명이라고 생각함 근데 조금못했다고해서 욕먹을정도면 너넨 살면서 뭘 이뤘냐?",
+          "reply": "젠퀴벌레 샤샤샥ㅋㅋㅋ",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "슬픔",
+          "target": "공포",
+          "comment": "페이커는 우리나라를 빛낸 사람중 한명이라고 생각함 근데 조금못했다고해서 욕먹을정도면 너넨 살면서 뭘 이뤘냐?",
+          "reply": "이젠 흠집도 안나….",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "페이커는 우리나라를 빛낸 사람중 한명이라고 생각함 근데 조금못했다고해서 욕먹을정도면 너넨 살면서 뭘 이뤘냐?",
+          "reply": "원래 슈퍼스타에겐 까가 많지",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "슬픔",
+          "target": "분노",
+          "comment": "페이커는 우리나라를 빛낸 사람중 한명이라고 생각함 근데 조금못했다고해서 욕먹을정도면 너넨 살면서 뭘 이뤘냐?",
+          "reply": "햇빛 싫다고 없앨라고 발악하는 놈들이자늠 냅두셈",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "2:18 개인적으로 이거도 역대급인거 같음 아지르 이해도 100%",
+          "reply": "앞E 뒷플로 병사 4명 세워놓고 극딜ㄷㄷ",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "고전파: \"미래를 원한다면 증명하세요\"\nT1 이상혁: \"알았다\"\n쵸비,나이트 : \"????????????\"",
+          "reply": "ㅈㄴ재미없네",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "고전파: \"미래를 원한다면 증명하세요\"\nT1 이상혁: \"알았다\"\n쵸비,나이트 : \"????????????\"",
+          "reply": "@이서윤-l6p  그건 너가...",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "공포",
+          "target": "놀람",
+          "comment": "손목발목뒷목부상 한번에 안오는이상 10년은 더해먹을듯",
+          "reply": "종합병원임? ㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "범죄자들은 이마에 모두 낙인찍어라. 사기꾼,살인자,강간범 등등 모두 이마에 해당 죄목을 이마에 낙인 시키고 못가리게 하고 다녀야한다.",
+          "reply": "그런 낙인효과가 좋지는 않음. 차라리 특정구역을 못벗어나도록 범죄자끼리 격리 시키는게 맞지.",
+          "comment_time": "1년 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 185
+        },
+        {
+          "timestamp": 180,
+          "source": "분노",
+          "target": "기대",
+          "comment": "존나 열받는거 저거 처벌만 하지 복구 안됨...개인적으로 저런 악질들은 더 과하게 때리거나 아님..교도소에서 나가서 일하는거 있음..일하고 번 돈을 무조건 피해자에게 주는걸로 해야함..즉 강제로 노동시키고 그돈 피해자에게 줘야함..안그럼 저새끼 나가서 또 그짓함...",
+          "reply": "에 민사소송으로 받을수있을것같은니",
+          "comment_time": "1년 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 185
+        },
+        {
+          "timestamp": 180,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "존나 열받는거 저거 처벌만 하지 복구 안됨...개인적으로 저런 악질들은 더 과하게 때리거나 아님..교도소에서 나가서 일하는거 있음..일하고 번 돈을 무조건 피해자에게 주는걸로 해야함..즉 강제로 노동시키고 그돈 피해자에게 줘야함..안그럼 저새끼 나가서 또 그짓함...",
+          "reply": "@장뇌산삼 학교 들낙거리는 애한테 민사 걸어서 뭐할래? 주겠냐?",
+          "comment_time": "1년 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 185
+        },
+        {
+          "timestamp": 180,
+          "source": "분노",
+          "target": "기쁨",
+          "comment": "하네\n안잡힐줄 알앗나?\n니가 모텔 사장이여봐라 \n그심정이 어떨지\n저런거  하지말고 일해서 돈벌어라",
+          "reply": "근!하하하하 근!하하하하",
+          "comment_time": "1년 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 185
+        },
+        {
+          "timestamp": 180,
+          "source": "공포",
+          "target": "분노",
+          "comment": "걸리면  감방가는데, 도둑질은 습관이다.",
+          "reply": "전과 남아서 취업도 안되고 끽해야 알바인데 귀찮고 저짓이나하며 단기간 편하게 땡기고 먹고사려는거지 그냥 무기징역 때려서 노역이나 시키고 피해자측에 소실된 그래픽카드값 보내줘야 마땅한데 어휴 윗선들도 캥기는게 많으니 보상해주려는 개선은 절대 안하지",
+          "comment_time": "1년 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 185
+        },
+        {
+          "timestamp": 180,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "구속+신상공개 대상 이라고 봅니다",
+          "reply": "사회에 적응 못하고 도태된 애들이 꼭이런데다 똥칠하더라~ 불쌍하다..",
+          "comment_time": "1년 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 185
+        },
+        {
+          "timestamp": 180,
+          "source": "혐오",
+          "target": "슬픔",
+          "comment": "와 진짜 ㅋㅋㅋㄱ상상도 못한 범죄 진짜 영악하다",
+          "reply": "영악하다는 뜻은 여기쓰긴 아깝고, 멍청하다고 하는게 맞는듯 ㅋㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 185
+        }
+      ]
+    },
+    {
+      "timestamp": 210,
+      "events": [
+        {
+          "timestamp": 210,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "3:50 여긴진짜  말도안되네  레나타가  리신 첫q맞아줘서  드븐살리고    드븐이 날라가는q 끊어줘서 레나타살리네 ㅋㅋㅋㅋㅋ  말도안된다",
+          "reply": "?",
+          "comment_time": "2년 전",
+          "reply_time": "7개월 전",
+          "time_diff_days": 520
+        },
+        {
+          "timestamp": 210,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "3:50 여긴진짜  말도안되네  레나타가  리신 첫q맞아줘서  드븐살리고    드븐이 날라가는q 끊어줘서 레나타살리네 ㅋㅋㅋㅋㅋ  말도안된다",
+          "reply": "그걸 본 너님도....",
+          "comment_time": "2년 전",
+          "reply_time": "7개월 전",
+          "time_diff_days": 520
+        },
+        {
+          "timestamp": 210,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "3:45 이게 진짜 개멋지네 뭐냐;",
+          "reply": "참서폿 ㄷ",
+          "comment_time": "2년 전(수정됨)",
+          "reply_time": "7개월 전",
+          "time_diff_days": 520
+        },
+        {
+          "timestamp": 210,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "4:27 올라프 미친펜타킬 ㄷㄷㄷㄷ",
+          "reply": "올라프 상남자네",
+          "comment_time": "2년 전",
+          "reply_time": "7개월 전",
+          "time_diff_days": 520
+        },
+        {
+          "timestamp": 210,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "2:25 이거는 진짜 ㅋㅋㅋㅋ충격이다 와...ㅆ",
+          "reply": "@우와-s9h  브실골이노?ㅋㅋ",
+          "comment_time": "2년 전",
+          "reply_time": "7개월 전",
+          "time_diff_days": 520
+        },
+        {
+          "timestamp": 210,
+          "source": "분노",
+          "target": "공포",
+          "comment": "범죄자들은 이마에 모두 낙인찍어라. 사기꾼,살인자,강간범 등등 모두 이마에 해당 죄목을 이마에 낙인 시키고 못가리게 하고 다녀야한다.",
+          "reply": "그렇게 된다면 더 무서운 세상이 올 수도 있음 눈에 뵈는거 없을테니 익명성이라도 있으니 그나마 몸사리겠지",
+          "comment_time": "1년 전",
+          "reply_time": "7개월 전",
+          "time_diff_days": 155
+        },
+        {
+          "timestamp": 210,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "존나 열받는거 저거 처벌만 하지 복구 안됨...개인적으로 저런 악질들은 더 과하게 때리거나 아님..교도소에서 나가서 일하는거 있음..일하고 번 돈을 무조건 피해자에게 주는걸로 해야함..즉 강제로 노동시키고 그돈 피해자에게 줘야함..안그럼 저새끼 나가서 또 그짓함...",
+          "reply": "그러연 또 훔쳐서 제3. 4의 피해자 발생할 확률이 높음",
+          "comment_time": "1년 전",
+          "reply_time": "7개월 전",
+          "time_diff_days": 155
+        },
+        {
+          "timestamp": 210,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "출소한지 넉달만에 또 ㅋ\n저거 평생가도 안고쳐진다",
+          "reply": "고칠 수 있어요! 살처분이 방법입니다!",
+          "comment_time": "1년 전",
+          "reply_time": "7개월 전",
+          "time_diff_days": 155
+        },
+        {
+          "timestamp": 210,
+          "source": "혐오",
+          "target": "공포",
+          "comment": "와 진짜 ㅋㅋㅋㄱ상상도 못한 범죄 진짜 영악하다",
+          "reply": "영악하지는 않지 ㅋㅋㅋ무조건 걸리는 범죄라서 멍청한거임",
+          "comment_time": "1년 전",
+          "reply_time": "7개월 전",
+          "time_diff_days": 155
+        },
+        {
+          "timestamp": 210,
+          "source": "혐오",
+          "target": "놀람",
+          "comment": "와 진짜 ㅋㅋㅋㄱ상상도 못한 범죄 진짜 영악하다",
+          "reply": "@Djdb2828  저가형으로 교체해서 조립 제대로하고 나갔으면 안걸림.",
+          "comment_time": "1년 전",
+          "reply_time": "7개월 전",
+          "time_diff_days": 155
+        },
+        {
+          "timestamp": 210,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "사람은 안변하다 \n처벌 강화 좀 해라",
+          "reply": "안변하는게아니라 변하는기어려운거예요 뇌가소성땜에",
+          "comment_time": "1년 전",
+          "reply_time": "7개월 전",
+          "time_diff_days": 155
+        }
+      ]
+    },
+    {
+      "timestamp": 240,
+      "events": [
+        {
+          "timestamp": 240,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "3:50 여긴진짜  말도안되네  레나타가  리신 첫q맞아줘서  드븐살리고    드븐이 날라가는q 끊어줘서 레나타살리네 ㅋㅋㅋㅋㅋ  말도안된다",
+          "reply": "말만 안했지 사실상 서로한테 프로포즈 한거나 무방함ㅇㅇ",
+          "comment_time": "2년 전",
+          "reply_time": "8개월 전",
+          "time_diff_days": 490
+        },
+        {
+          "timestamp": 240,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "1:32 이게 천상계 원딜이구나...",
+          "reply": "스킬 몇개를 피하는겨 1cm거리도 안되는데 와",
+          "comment_time": "2년 전",
+          "reply_time": "8개월 전",
+          "time_diff_days": 490
+        },
+        {
+          "timestamp": 240,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "9:11 이렐 진짜 감탄 나온다.....",
+          "reply": "어케 저렇게하지. . 인간인가",
+          "comment_time": "2년 전",
+          "reply_time": "8개월 전",
+          "time_diff_days": 490
+        },
+        {
+          "timestamp": 240,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "2:25 이거는 진짜 ㅋㅋㅋㅋ충격이다 와...ㅆ",
+          "reply": "솔방울 안타도 되는 건데 뭘 충격임",
+          "comment_time": "2년 전",
+          "reply_time": "8개월 전",
+          "time_diff_days": 490
+        },
+        {
+          "timestamp": 240,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "1:28 저는 여기가 제일 쇼크네요\n와, 애쉬로 어떻게 저 무빙을.... 플이나 이동기도 안 쓰고 심지어 실드 안 나온 거 보면 철갑궁 아니고 3타 소리 들어보면 크라켄인데 저걸?\n난 다른 화려한 것보단 저게 더 놀라움 ㄷㄷ",
+          "reply": "걍 천상계인듯. .",
+          "comment_time": "2년 전",
+          "reply_time": "8개월 전",
+          "time_diff_days": 490
+        },
+        {
+          "timestamp": 240,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "4달만에 범죄를 저지른거면 이건 갱생 불가입니다. 가중처벌 시키세요.",
+          "reply": "판사들이 쓰레기들이라 기대하기 힘들겁니다. 요즘엔 인도주의적이니 판사들이 널렸어요. 무조건 감형, 봐주기 가중 처벌하는 경우는 거의 못들어 봤어요. 교도소 수감인원 조절할려고 그러는건가?",
+          "comment_time": "1년 전",
+          "reply_time": "8개월 전",
+          "time_diff_days": 125
+        },
+        {
+          "timestamp": 240,
+          "source": "공포",
+          "target": "놀람",
+          "comment": "걸리면  감방가는데, 도둑질은 습관이다.",
+          "reply": "@블라디미르푸틴-m7w  갔다가 나온지 4개월만에 또 저지랄했다고 나오네요",
+          "comment_time": "1년 전",
+          "reply_time": "8개월 전",
+          "time_diff_days": 125
+        },
+        {
+          "timestamp": 240,
+          "source": "공포",
+          "target": "슬픔",
+          "comment": "걸리면  감방가는데, 도둑질은 습관이다.",
+          "reply": "감방 가도 편하게 있다 나오니 걸리면 한번 갔다오지하고 범죄 저지르는거죠 진짜 죽어도 다시가기싫게 만들어야지",
+          "comment_time": "1년 전",
+          "reply_time": "8개월 전(수정됨)",
+          "time_diff_days": 125
+        },
+        {
+          "timestamp": 240,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "범되자들은 일반인들과 생각하는 구조가 다릅니다.\n갱생으로 사회구성원이 된다는건 현실과 너무 다르고 또 다른 피해자만 남기는 것 같네요.",
+          "reply": "이거 진짜임. 생각하는 구조, 인식 능력이 완전 다름.",
+          "comment_time": "1년 전",
+          "reply_time": "8개월 전",
+          "time_diff_days": 125
+        },
+        {
+          "timestamp": 240,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "사람은 고쳐쓰는거 아니라는말이 진짜 맞다니까",
+          "reply": "이재명도 고쳐쓰지 말아야한단거지?ㅋ",
+          "comment_time": "11개월 전",
+          "reply_time": "8개월 전",
+          "time_diff_days": 90
+        }
+      ]
+    },
+    {
+      "timestamp": 270,
+      "events": [
+        {
+          "timestamp": 270,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "9:11 이렐 진짜 감탄 나온다.....",
+          "reply": "근데 저거 다름 챔프였음 댐감 없어서 걍 렉사이 케넨 콤보 처맞고 뒤짐 미니언 핑퐁이고 나발이고",
+          "comment_time": "2년 전",
+          "reply_time": "9개월 전",
+          "time_diff_days": 460
+        },
+        {
+          "timestamp": 270,
+          "source": "분노",
+          "target": "기대",
+          "comment": "범죄자들은 이마에 모두 낙인찍어라. 사기꾼,살인자,강간범 등등 모두 이마에 해당 죄목을 이마에 낙인 시키고 못가리게 하고 다녀야한다.",
+          "reply": "진짜 너무 공감합니다..",
+          "comment_time": "1년 전",
+          "reply_time": "9개월 전",
+          "time_diff_days": 95
+        },
+        {
+          "timestamp": 270,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "출소한지 넉달만에 또 ㅋ\n저거 평생가도 안고쳐진다",
+          "reply": "얼굴 잘주게 생겼네ㅎㅎ",
+          "comment_time": "1년 전",
+          "reply_time": "9개월 전",
+          "time_diff_days": 95
+        },
+        {
+          "timestamp": 270,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "저런건... 예전같으면 광산에라도 보내서 나라에 보탬이 되게 했는데, 이젠 감옥 가서 세금이나 축내고 나와서 또 남한테 피해나 주니... 핵폐기물 처리 이런데 쓸 순 없나?",
+          "reply": "@TheSuccessfulLife1115  다음엔 니가 당하고 다시 인권 얘기해줘봐바",
+          "comment_time": "1년 전",
+          "reply_time": "9개월 전",
+          "time_diff_days": 95
+        },
+        {
+          "timestamp": 270,
+          "source": "슬픔",
+          "target": "분노",
+          "comment": "구속+신상공개 대상 이라고 봅니다",
+          "reply": "사람 죽이는 애들도 신상공개 안하는데 뭔ㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "9개월 전",
+          "time_diff_days": 95
+        },
+        {
+          "timestamp": 270,
+          "source": "혐오",
+          "target": "놀람",
+          "comment": "와 진짜 ㅋㅋㅋㄱ상상도 못한 범죄 진짜 영악하다",
+          "reply": "카지야 장인도 상상못한! 빌런!!",
+          "comment_time": "1년 전",
+          "reply_time": "9개월 전",
+          "time_diff_days": 95
+        }
+      ]
+    },
+    {
+      "timestamp": 300,
+      "events": [
+        {
+          "timestamp": 300,
+          "source": "혐오",
+          "target": "기쁨",
+          "comment": "별놈의 도둑놈들도 많아 ㅋ",
+          "reply": "@gggg33333ee 뭐래 ㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 65
+        },
+        {
+          "timestamp": 300,
+          "source": "혐오",
+          "target": "기쁨",
+          "comment": "와 진짜 ㅋㅋㅋㄱ상상도 못한 범죄 진짜 영악하다",
+          "reply": "카즈야햄",
+          "comment_time": "1년 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 65
+        },
+        {
+          "timestamp": 300,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "이때가 재밌었는데 그립네",
+          "reply": "ㄹㅇㅋㅋ",
+          "comment_time": "4년 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1160
+        },
+        {
+          "timestamp": 300,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "이때가 재밌었는데 그립네",
+          "reply": "지금은 현질러들과 핵쟁이들땜에 진짜 힘듬 한30판해서 한번 일등함",
+          "comment_time": "4년 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1160
+        }
+      ]
+    },
+    {
+      "timestamp": 330,
+      "events": [
+        {
+          "timestamp": 330,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "내기준 가장 명장면 10:00  ”와 도주 루트 지린다 매드무비네 ㅋㅋ“\n 안심 하게 만드는 브금의 끝이 들려오면서 갑자기 렝가의 피오라로 트는 무빙과 함께 바뀌는 음악 \n편집부분에서 뭐 화려한거 이런걸 다떠나서 진짜 이런 부분이 제일 간지나는거 같음 \n음악이랑 카메라 화면만으로\n영화 한장면 같이 만들어버림 롤읽남 리스펙 ㄷㄷ",
+          "reply": "(마우스딸깍)",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "11개월 전",
+          "time_diff_days": 35
+        },
+        {
+          "timestamp": 330,
+          "source": "분노",
+          "target": "분노",
+          "comment": "재범자는 개선의 여지가 없다고 보고 엄벌에 처 해 더이상의 피해를 막아야 함. 가중처벌 강화만이 답이다",
+          "reply": "@user-99hgcx457hg 절도가 무기징역이 어찌나오냐? 좀 생각좀하고댓글들을써라\n아무리누범가중이라도 절도나 재산범죄는 10년미만이다",
+          "comment_time": "1년 전",
+          "reply_time": "11개월 전",
+          "time_diff_days": 35
+        },
+        {
+          "timestamp": 330,
+          "source": "분노",
+          "target": "분노",
+          "comment": "재범자는 개선의 여지가 없다고 보고 엄벌에 처 해 더이상의 피해를 막아야 함. 가중처벌 강화만이 답이다",
+          "reply": "@이길종-g6n  생각좀 하고 말해라\n재범에는 가중처벌해서 지금의 0년 이하의 징역 이런 제한 뚫을 수 있게 해야한다고 말하는거잖아",
+          "comment_time": "1년 전",
+          "reply_time": "11개월 전",
+          "time_diff_days": 35
+        },
+        {
+          "timestamp": 330,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "재범자는 개선의 여지가 없다고 보고 엄벌에 처 해 더이상의 피해를 막아야 함. 가중처벌 강화만이 답이다",
+          "reply": "@user-99hgcx457hg  그리고 우리나라는 교도소가게되면 징역형은 강제노역이라서 출엽한다 금고이상의헝은 출역을하게되있어서 법전읽어보고 댓글달서",
+          "comment_time": "1년 전",
+          "reply_time": "11개월 전",
+          "time_diff_days": 35
+        },
+        {
+          "timestamp": 330,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "재범자는 개선의 여지가 없다고 보고 엄벌에 처 해 더이상의 피해를 막아야 함. 가중처벌 강화만이 답이다",
+          "reply": "@user-99hgcx457hg  사형은 너무갔다",
+          "comment_time": "1년 전",
+          "reply_time": "11개월 전",
+          "time_diff_days": 35
+        },
+        {
+          "timestamp": 330,
+          "source": "분노",
+          "target": "기쁨",
+          "comment": "출소한지 넉달만에 또 ㅋ\n저거 평생가도 안고쳐진다",
+          "reply": "반복이지뭐 ㅋㅋㅋ 교소도살기 올매나 좋은데",
+          "comment_time": "1년 전",
+          "reply_time": "11개월 전",
+          "time_diff_days": 35
+        },
+        {
+          "timestamp": 330,
+          "source": "분노",
+          "target": "기쁨",
+          "comment": "교화가 안되는 범죄자들은 사형이 답이다...\n사회에 온통 위에서 부터 아래 까지 사기꾼에 범죄자 양아치만 득시글 거리냐?",
+          "reply": "사형 ㅋㅋㅋㅋㅋ",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "11개월 전",
+          "time_diff_days": 35
+        },
+        {
+          "timestamp": 330,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "이때가 재밌었는데 그립네",
+          "reply": "지금은..",
+          "comment_time": "4년 전",
+          "reply_time": "11개월 전",
+          "time_diff_days": 1130
+        }
+      ]
+    },
+    {
+      "timestamp": 365,
+      "events": [
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "3:50 여긴진짜  말도안되네  레나타가  리신 첫q맞아줘서  드븐살리고    드븐이 날라가는q 끊어줘서 레나타살리네 ㅋㅋㅋㅋㅋ  말도안된다",
+          "reply": "서로 반하겠다",
+          "comment_time": "2년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "3:50 여긴진짜  말도안되네  레나타가  리신 첫q맞아줘서  드븐살리고    드븐이 날라가는q 끊어줘서 레나타살리네 ㅋㅋㅋㅋㅋ  말도안된다",
+          "reply": "둘이 결혼해야함 ㄹㅇ",
+          "comment_time": "2년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "분노",
+          "comment": "3:50 여긴진짜  말도안되네  레나타가  리신 첫q맞아줘서  드븐살리고    드븐이 날라가는q 끊어줘서 레나타살리네 ㅋㅋㅋㅋㅋ  말도안된다",
+          "reply": "지렷다 ㄹㅇ..",
+          "comment_time": "2년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "6:37\n매드무비 주인공이 누군지 모르다가 그라가스 포커싱이랑 같이 이름뜨는거 개멋있네",
+          "reply": "이채널이 그런센스가 ㅈ됨",
+          "comment_time": "2년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "2:32  이게 레전드다",
+          "reply": "진짜 뭐냐..?",
+          "comment_time": "2년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "2:32  이게 레전드다",
+          "reply": "진짜 무슨일이 벌어진거임 ㅋㅋㅋㅋㅋ",
+          "comment_time": "2년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "4:10 와 서로 세이브 미친건가",
+          "reply": "ㄹㅇ 음파 막아주고 음파 끊어주고",
+          "comment_time": "2년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "4:10 와 서로 세이브 미친건가",
+          "reply": "ㄹㅇ",
+          "comment_time": "2년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "9:11 이렐 진짜 감탄 나온다.....",
+          "reply": "@getget4109 선입력 아님?",
+          "comment_time": "2년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "4:24 진짜 바이킹식 플레이다 씹상남자네",
+          "reply": "그러게 치감을 갔어야지..!!",
+          "comment_time": "2년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "4:24 진짜 바이킹식 플레이다 씹상남자네",
+          "reply": "갱맘 : 자 qr쓰고 w켜 이제 가서 평타e평타q평타e평타q평타e평타q평타e평타q평타e 이게 안돼?",
+          "comment_time": "2년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "1:06 아크샨이 끼요옷하면서 낙하중인 줄 알았는데 망토였네 ㅋㅋㅋㅋ",
+          "reply": "ㅋ 얼굴이랑 팔인줄",
+          "comment_time": "2년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "1:28 저는 여기가 제일 쇼크네요\n와, 애쉬로 어떻게 저 무빙을.... 플이나 이동기도 안 쓰고 심지어 실드 안 나온 거 보면 철갑궁 아니고 3타 소리 들어보면 크라켄인데 저걸?\n난 다른 화려한 것보단 저게 더 놀라움 ㄷㄷ",
+          "reply": "상대입장에서 할수있는 플레이를 다예측하면서함",
+          "comment_time": "2년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "2:20 미쳤네",
+          "reply": "근데 겉멋임",
+          "comment_time": "2년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "2:20 미쳤네",
+          "reply": "@MBVLC 넌 저 겉멋을 부리면서 킬각을 볼 수 있긴 하냐?ㅋㅋㅋ 무조건 까고보네 천상계인데",
+          "comment_time": "2년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 365,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "1:22 보고 와 개쩐다 했는데 숙련도 랩 보고 웃음 ㅋㅋㅋ",
+          "reply": "숙련도 아닌가?",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "1:22 보고 와 개쩐다 했는데 숙련도 랩 보고 웃음 ㅋㅋㅋ",
+          "reply": "@user-tr7hy7ur9x  아 맞네요 바꿀께요 :0",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "1:22 보고 와 개쩐다 했는데 숙련도 랩 보고 웃음 ㅋㅋㅋ",
+          "reply": "파랑정수 아까워서 안올린거일듯ㅋㅋ",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "1:22 보고 와 개쩐다 했는데 숙련도 랩 보고 웃음 ㅋㅋㅋ",
+          "reply": "요즘은 7렙 말고 5렙이 더 멋있음 더 희귀해서",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "항상 잘보고있습니다 화이팅!",
+          "reply": "@lolnam 형 요즘 뭐해\n영상좀 올려줘..",
+          "comment_time": "2년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 365,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "이거랑 비슷한 겜이 스팀에 'ENDZONE'이라고 있습니다ㅋㅋ. PC게임인 만큼 퀄리티가 이거보다 훨씬 높은, 그니까 완벽 상위호환 겜이라고 보시면 되요. 정말로 비슷하네요ㅋㅋ 자원 캐는거부터 시작해서 묘지 지어서 시체를 처리하는 거까지요ㅋㅋ 다만 차이점이라면 그래도 PC플랫폼인만큼 자원의 종류가 훨씬 다양합니다. 서로 다른 자원들로 전혀 다른 자원을 만든다거나, 자원들을 이용하여 다른 자원을 캘 도구를 만들거나요ㅋㅋ. 뭐 한 번쯤은 해볼만하지만 계속 즐기기엔 지루한 겜입니다.",
+          "reply": "그런거 할바에 돈좀더보태서 든든하고 뜨끈한 림월드를",
+          "comment_time": "3년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 730
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "그냥 무조건 구속 시켜라",
+          "reply": "구속해도 살다나와서 또 그럴듯",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "그냥 무조건 구속 시켜라",
+          "reply": "생각도 못한 신박한 범죄네.신박한범죄도 지능이 어느정도 되야 가능한건가보네",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "분노",
+          "comment": "그냥 무조건 구속 시켜라",
+          "reply": "초범 아니라 그렇지 초범이면 집유받으며 모텔들이 개인민사 걸어야되는데 저런애들은 배째라함 그냥 답없음 자연재해보다 더 무서움 법은 못 지켜주고",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "그냥 무조건 구속 시켜라",
+          "reply": "구속됐는데요",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "그냥 무조건 구속 시켜라",
+          "reply": "구속당해라너",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "분노",
+          "comment": "그냥 무조건 구속 시켜라",
+          "reply": "쓰레기는 소각장으로!",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "그냥 무조건 구속 시켜라",
+          "reply": "구속하면 머함 저런 스래기는 나와서 또 저즤롤할텐데 ㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "그냥 무조건 구속 시켜라",
+          "reply": "나오면 무조건 또함 돈 쉽게 벌지. 들어가도 밥 3끼 다줘. 이만한 재테크도 없음 ㅋㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "공포",
+          "comment": "그냥 무조건 구속 시켜라",
+          "reply": "경상도 일베남 이잖어 한잔해 스탑러커",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "기대",
+          "comment": "사람은 고쳐 쓰는게 아니란말이 괜히 있는 말이 아니구나",
+          "reply": "사람은 고쳐 쓸수 있다\n시간이 굉장히 오래걸릴뿐이지.",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "분노",
+          "comment": "사람은 고쳐 쓰는게 아니란말이 괜히 있는 말이 아니구나",
+          "reply": "고쳐쓰는거 아니라했다 니들이 말하는 고쳐쓰는놈들이 몇이나 있냐 밤죄자는 범죄자일뿐이야",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "분노",
+          "comment": "사람은 고쳐 쓰는게 아니란말이 괜히 있는 말이 아니구나",
+          "reply": "솔직히 1번이 어렵지 2번3번은 쉽다  개버릇남못준다",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "사람은 고쳐 쓰는게 아니란말이 괜히 있는 말이 아니구나",
+          "reply": "@minsaria1035  그치,, 고칠 수는 있겠지, 쓸수가 없는 나이가 되는게 문제겠지, 아님 죽을 때가 다 됐거나",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "사람은 고쳐 쓰는게 아니란말이 괜히 있는 말이 아니구나",
+          "reply": "@CastorpolluxS2 저 범죄자가 성격이 완성되는 시기인것 같음?\n도대체 어딜 봐서 그런 나이일 것이라 생각하는 거임?\n인격 형성은 보편적으로 성인 되기 전 에 다 되는 거 아님? 그리고 그 때 좋은 어른을 만났어도 저러지 않을 것 같음?",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "분노",
+          "comment": "사람은 고쳐 쓰는게 아니란말이 괜히 있는 말이 아니구나",
+          "reply": "고쳐쓰려면 삼청교육대가 있어야 고쳐쓸수 있을껀데",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "기대",
+          "comment": "사람은 고쳐 쓰는게 아니란말이 괜히 있는 말이 아니구나",
+          "reply": "@Saintpark83 교육학적으로 35까지는 인격이 형성되고 사고의 틀이 유연하다고 판단합니다.\n\n그래서 \"마흔살 부터는 그때까지의 살아온 인생이 얼굴에 보인다\" 이런 말이 있지요.\n\n그리고 자존감이 높아 자기 객관화가 잘되고 사고가 틀에 박혀있지 않으려고 의식적으로 노력하고 다양성을 존중하는 사람들은 나이상관없이 언제든 변화 할 수 있습니다.\n\n 선입견이란 함정에 빠져 가능성을 제한하면 식견을 넓히기 힘들고 성장하기 힘듭니다. \n\"저게 가능할것 같음?ㅈㄹㄴ\" 이런 마인드보다 \"음 , 그럴 수도 있겠네~\"라는 생각을 가지신다면 좀 더 발전하는 사람이 되실 수 있을겁니다.",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "사람은 고쳐 쓰는게 아니란말이 괜히 있는 말이 아니구나",
+          "reply": "@이지윤  교육학적으로 35세까지 인격이 형성되고 사고의 틀이 유연하다고 판단하는 것은 어디까지나 본인 판단인 거죠? 그 학문의 이론으로 주장하는 것이지 실제 인격형성과 어떠한 유연성의 형태로 사고의 틀이 바뀌었는가는 증명된 것이 없습니다. 법칙이라면 인정하겠습니다. 그리고 이론과 실제가 전혀 다르다는 것은 살아보면 알겁니다. 35살이 되어서까지 인격 형성이 되어가는 중이라면...글쎄요...?\n\n나이 마흔살은 불혹이라 합니다. \n어떤 일에 정신을 빼앗겨 갈팡질팡하는\n일이나 판단이 흐려지는 일이 없게 되었음을 의미합니다. 정신적으로 유혹에 흔들리지 않고 성숙해 지는 시기를 말하는데, 그때까지 인격형성이 안 되어있으면 불혹이 아니라 불능,불통이 될 수 있다는 것은 살아보면 알겁니다. \n\n높은 자존감, 자기객관화, 틀에 박혀있지 않는 사고, 다양성 존중, 모두 동의 합니다.\n노력하는 사람은 변화의 폭도 더 크겠죠.\n그런데 저 사건의 당사자(범죄자)의 어디에서 자존감과 객관화와 사고방식과 다양함를 찾을 수 있어서 변화를 이야기 하는 겁니까? 범죄자를 변화의 대상으로 미화하지 마세요.\n\n그리고 발전하는 사람이 되라고 조언같은 충고, 충고 같은 조언을 했는데..ㅋㅎㅎ\n저 영상의 사건을 보고 무슨 선입견의 함정에 빠져서 어떤 가능성을 제한하고 좁은 식견으로 얘길해서 성장을 운운 했는지 참으로 궁금합니다.\n\n'사람 고쳐쓰는거 아니다' 라는 말이 오래전 부터 괜히 있는게 아닙니다. \n더 한 것도 있죠? 사람 갑자기 변하면 죽는다, 머리 검은 짐승은 거두는 게 아니다 등등.\n오랜 세월동안 많은 사람들의 경험으로 축적되어 온 인간의 본성에 대한 말과 문장들은 그냥 있는 게 아닙니다.\n\n영상 속 범죄자를 보고, '쉽게 고쳐 질 사람이 아니다' 라고 말하는 것과 '음..저럴 수도 있지' 라고 말하는 것 중 어느 말이 좀 더 현실적일까요?\n전과자에게 '음...또 그럴 수도 있지' 하는 것과\n'사람 고쳐 쓰는 거 아니다' 라고 하는 것 중에 뭐가 더 인간적일까요?\n\n인격형성이요? 성인이 된 후의 인격은 형성이 아니라 주변환경, 현재상태, 인간관계 등 으로 변화하는 겁니다.\n저 전과자에게는 부족한 형성과 변화도 없는 '고쳐쓰는 거 아니다' 에 해당되는 인간일 뿐이고, 그렇게 이 문장에 적용되어져 사람들은 말하는겁니다\n \n본인은 다르게 느낄 수 있겠죠.\n그럼 난 다르게 느꼈다 라고 이야기 하면 됩니다.\n어줍잖게 적용대상도 아닌 문제에 다양성과 가능성, 변화와 노력을 말하지 마시고,\n\n생각이 다르니 존중해야 한다면서 오히려 본인의 선입견과 틀에 갇힌 생각으로 남을 판단해서 발전과 성장을 논하는 우를 범하지 마세요.",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "출소 4개월만에 또 저 짓거리 한거 보면, 머릿속엔 범죄로 쉽게 벌 생각만 가득 차 있다는거지. \n다시 나와도 또 도둑질 하러 다니겠네. ㅉㅉ",
+          "reply": "근데 돈쉽게벌면안되나요 힘들게 버는게 좋은건가요…",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "출소 4개월만에 또 저 짓거리 한거 보면, 머릿속엔 범죄로 쉽게 벌 생각만 가득 차 있다는거지. \n다시 나와도 또 도둑질 하러 다니겠네. ㅉㅉ",
+          "reply": "범죄로 쉽게",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "출소 4개월만에 또 저 짓거리 한거 보면, 머릿속엔 범죄로 쉽게 벌 생각만 가득 차 있다는거지. \n다시 나와도 또 도둑질 하러 다니겠네. ㅉㅉ",
+          "reply": "@uio86a  그럼 정직하게 돈 버는 사람들 다 호구임? 왜 정직하게 돈을 벌라고 사람들이 일을 하는데? 본인 말대로 쉽게 돈 벌 수 있는 방법은 생각해보면 많겠지 근데 그게 도덕성에 어긋나니까 안하는거잖음 그걸 질문이라고;",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "출소 4개월만에 또 저 짓거리 한거 보면, 머릿속엔 범죄로 쉽게 벌 생각만 가득 차 있다는거지. \n다시 나와도 또 도둑질 하러 다니겠네. ㅉㅉ",
+          "reply": "@uio86a  생각 좀 하고 말하자",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "출소 4개월만에 또 저 짓거리 한거 보면, 머릿속엔 범죄로 쉽게 벌 생각만 가득 차 있다는거지. \n다시 나와도 또 도둑질 하러 다니겠네. ㅉㅉ",
+          "reply": "@KkkK-xw4hp  이상하게생각하시네…쉽게벌면 안정직하게버는건가요…",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "출소 4개월만에 또 저 짓거리 한거 보면, 머릿속엔 범죄로 쉽게 벌 생각만 가득 차 있다는거지. \n다시 나와도 또 도둑질 하러 다니겠네. ㅉㅉ",
+          "reply": "우리나라 교도방식이 잘 못됐다는 증거",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "출소 4개월만에 또 저 짓거리 한거 보면, 머릿속엔 범죄로 쉽게 벌 생각만 가득 차 있다는거지. \n다시 나와도 또 도둑질 하러 다니겠네. ㅉㅉ",
+          "reply": "@uio86a 쉽게 버는거랑 남의 돈 등쳐먹으면서 사기치고 도둑질 해가면서 벌어가는게 문제인거죠 자기 재산도 아닌데 가져가는건데",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "출소 4개월만에 또 저 짓거리 한거 보면, 머릿속엔 범죄로 쉽게 벌 생각만 가득 차 있다는거지. \n다시 나와도 또 도둑질 하러 다니겠네. ㅉㅉ",
+          "reply": "@uio86a  쉽게 벌던 말던 상관없는데\n다른 사람이 피해를 입으면 안되는거지,,\n다른 사람이 피해를 입지않는다면\n쉽게 벌던 어렵게 벌던 탓할 사람은 없다는것,,",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "혐오",
+          "comment": "출소 4개월만에 또 저 짓거리 한거 보면, 머릿속엔 범죄로 쉽게 벌 생각만 가득 차 있다는거지. \n다시 나와도 또 도둑질 하러 다니겠네. ㅉㅉ",
+          "reply": "연쇄살인마 그놈도 시작은 상습 절도였음~",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "기대",
+          "comment": "범죄자들은 이마에 모두 낙인찍어라. 사기꾼,살인자,강간범 등등 모두 이마에 해당 죄목을 이마에 낙인 시키고 못가리게 하고 다녀야한다.",
+          "reply": "이거 아이디어 좋다...",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "분노",
+          "comment": "재범자는 개선의 여지가 없다고 보고 엄벌에 처 해 더이상의 피해를 막아야 함. 가중처벌 강화만이 답이다",
+          "reply": "ㅇㄱㄹㅇ\n3번째 잡힐때부터는 아예 무기징역이나 사형으로 응징해야함\n무기징역도 공짜가 아니라 노역으로 평생 굴려야하고",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "공포",
+          "target": "슬픔",
+          "comment": "걸리면  감방가는데, 도둑질은 습관이다.",
+          "reply": "걸려도 감방 안가니 습관이 된거지. 한극 판사늠들 몰라?",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "공포",
+          "target": "놀람",
+          "comment": "걸리면  감방가는데, 도둑질은 습관이다.",
+          "reply": "@블라디미르푸틴-m7w 징역살다 나왔다는데 뉴스 안보고 댓글다네",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "공포",
+          "target": "공포",
+          "comment": "걸리면  감방가는데, 도둑질은 습관이다.",
+          "reply": "감방 가는것도 습관입니다.",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "공포",
+          "target": "분노",
+          "comment": "걸리면  감방가는데, 도둑질은 습관이다.",
+          "reply": "사회나오자마자 또범죄",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "와 신박한넘이네 그냥 흠치는넘은 많이 봤는데 갈아껴주는넘은 첨보네 ㅋㅋㅋㅋ",
+          "reply": "20대가 빵에서 나온지 얼마나 됐다고 또 훔치고. 꼴에 또 차는 몰고 다니네 ㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "와 신박한넘이네 그냥 흠치는넘은 많이 봤는데 갈아껴주는넘은 첨보네 ㅋㅋㅋㅋ",
+          "reply": "바꿔낀게 악질이네\n커지나안켜지나 정도만 점검하지 cpu 램 글카 하드까진 다 점검안하니",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "와 신박한넘이네 그냥 흠치는넘은 많이 봤는데 갈아껴주는넘은 첨보네 ㅋㅋㅋㅋ",
+          "reply": "그냥 훔치는 인간이 지능이 0이라면 갈이껴주기라도 한 인간은 지능 한 30은 되는거임 ㅋㅋㅋㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "와 신박한넘이네 그냥 흠치는넘은 많이 봤는데 갈아껴주는넘은 첨보네 ㅋㅋㅋㅋ",
+          "reply": "@jamielannister3721 에초에  안훔치는 넘이 젤 똑똑한거지ㅋ 요즘은 어차피 다 잡히는데",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "와 신박한넘이네 그냥 흠치는넘은 많이 봤는데 갈아껴주는넘은 첨보네 ㅋㅋㅋㅋ",
+          "reply": "@노노노-p8k ㅋㅋㅋ그래픽 카드 교체되면 컴퓨터 로그에 시간 다 남음 \n그러면 cctv확인 대조하면 바로 잡힐 듯\n운 좋게 주인이 한참 몰라서 cctv는 지워지는거 말고는 ㅋㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "와 신박한넘이네 그냥 흠치는넘은 많이 봤는데 갈아껴주는넘은 첨보네 ㅋㅋㅋㅋ",
+          "reply": "바꿔낀게 더 악질인거임",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "와 신박한넘이네 그냥 흠치는넘은 많이 봤는데 갈아껴주는넘은 첨보네 ㅋㅋㅋㅋ",
+          "reply": "ㅋㅋㅋㅋㅋ 앜ㅋㅋㅋ 대단하네요",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "와 신박한넘이네 그냥 흠치는넘은 많이 봤는데 갈아껴주는넘은 첨보네 ㅋㅋㅋㅋ",
+          "reply": "@김진우-c6q 차도 훔쳐서 번호판 위조해서 다니는걸듯",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "와 신박한넘이네 그냥 흠치는넘은 많이 봤는데 갈아껴주는넘은 첨보네 ㅋㅋㅋㅋ",
+          "reply": "@김진우-c6q 쏘카 몰고다닐듯 ㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "와 신박한넘이네 그냥 흠치는넘은 많이 봤는데 갈아껴주는넘은 첨보네 ㅋㅋㅋㅋ",
+          "reply": "@노노노-p8k  다잡히긴요ㅋㅋ쟤는 재수없어서 잡힌거지 보통 객실점검 바로바로안하고 현금결제도많아서 추적못함. 더더욱 그래픽카드 바뀐지는 아예모름.  10명중 9명은 안잡히는거.",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "분노",
+          "comment": "저런건... 예전같으면 광산에라도 보내서 나라에 보탬이 되게 했는데, 이젠 감옥 가서 세금이나 축내고 나와서 또 남한테 피해나 주니... 핵폐기물 처리 이런데 쓸 순 없나?",
+          "reply": "범죄자도 사람이다 인권지켜라",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "저런건... 예전같으면 광산에라도 보내서 나라에 보탬이 되게 했는데, 이젠 감옥 가서 세금이나 축내고 나와서 또 남한테 피해나 주니... 핵폐기물 처리 이런데 쓸 순 없나?",
+          "reply": "@TheSuccessfulLife1115  그라제~ 범죄자도 사람이니 감옥에서 만화책도 읽고 티비도 보게해주고 플스도 시켜주고 밥도 한식 1등급요리사 붙혀서 해줘야하제~ 이런 휴가같은곳을 안갈이유가 있냐 이말이여~",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "저런건... 예전같으면 광산에라도 보내서 나라에 보탬이 되게 했는데, 이젠 감옥 가서 세금이나 축내고 나와서 또 남한테 피해나 주니... 핵폐기물 처리 이런데 쓸 순 없나?",
+          "reply": "징역 자체가 감옥에서 노역을 하는 형벌입니다.",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "저런건... 예전같으면 광산에라도 보내서 나라에 보탬이 되게 했는데, 이젠 감옥 가서 세금이나 축내고 나와서 또 남한테 피해나 주니... 핵폐기물 처리 이런데 쓸 순 없나?",
+          "reply": "인생 최대업적 :  이력서에 빨간줄그인거 ㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "도둑질하는 놈이 버젓이 차를가져갔노...꼬리가길면 잡히는법인데",
+          "reply": "차안가져가도 걸림 ㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "도둑질하는 놈이 버젓이 차를가져갔노...꼬리가길면 잡히는법인데",
+          "reply": "그런걸 계산할 지능이면 도둑질도 안함",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "도둑질하는 놈이 버젓이 차를가져갔노...꼬리가길면 잡히는법인데",
+          "reply": "멍청해서 감방에 갔다와도 나오면 또 훔치겠지 저번엔그래픽카드는걸렸으니까 그럼다른걸 훔쳐보자 라고 ......;;ㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "도둑질하는 놈이 버젓이 차를가져갔노...꼬리가길면 잡히는법인데",
+          "reply": "대포차 넘치고 남음\n강원랜드에 대포차로 변신할 차량\n아직 수두룩 깔려있음",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "교화가 안되는 범죄자들은 사형이 답이다...\n사회에 온통 위에서 부터 아래 까지 사기꾼에 범죄자 양아치만 득시글 거리냐?",
+          "reply": "너같이댓글쓰는놈도 통제하는건없을까",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "기대",
+          "comment": "교화가 안되는 범죄자들은 사형이 답이다...\n사회에 온통 위에서 부터 아래 까지 사기꾼에 범죄자 양아치만 득시글 거리냐?",
+          "reply": "태형해야지",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "분노",
+          "comment": "구속+신상공개 대상 이라고 봅니다",
+          "reply": "개나소나 신상공개ㅋㅋ\n길가다 침뱉은것도 신상공개하세요~",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "구속+신상공개 대상 이라고 봅니다",
+          "reply": "너두 가져갔잖아",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "구속+신상공개 대상 이라고 봅니다",
+          "reply": "니가 뭔데?ㅋㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "분노",
+          "comment": "구속+신상공개 대상 이라고 봅니다",
+          "reply": "물론 다 신상공개해야지 근데 도둑질보단 살인.강간을 더 위주로 신상공개 해야함",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "혐오",
+          "target": "슬픔",
+          "comment": "별놈의 도둑놈들도 많아 ㅋ",
+          "reply": "그만큼 먹고살기 어렵다는 거지 사회가 취직도 안되고 일거리도 적고",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "요즘 게임pc 모텔방 들어가면 대부분 본체는 철판으로 꽁꽁싸메놨던데 \n저런애들 때문이었구나",
+          "reply": "본체 열쇠 달고 철판 ,\n아니면 마우스 패드 새거면  똑 같은거 비슷한거 교체\n마우스, 키보드도 마찬가지 \n재수 없으면 잼민이들 말 안 듣고 탕후루 1-2개 가져와서 나누어 먹다 키보드 ,패드 , 의자 다 흘림..",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "요즘 게임pc 모텔방 들어가면 대부분 본체는 철판으로 꽁꽁싸메놨던데 \n저런애들 때문이었구나",
+          "reply": "@킹세-h9j  잼민이들이 어케 모텔을 들감ㅋㅋㅋㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "요즘 게임pc 모텔방 들어가면 대부분 본체는 철판으로 꽁꽁싸메놨던데 \n저런애들 때문이었구나",
+          "reply": "모텔이.아니고 피시방 말하는거 ,ㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "요즘 게임pc 모텔방 들어가면 대부분 본체는 철판으로 꽁꽁싸메놨던데 \n저런애들 때문이었구나",
+          "reply": "@킹세-h9j 피시방 얘기가 여기서 왜나와 저기가 피시방이냐? 이런 피시방아",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "요즘 게임pc 모텔방 들어가면 대부분 본체는 철판으로 꽁꽁싸메놨던데 \n저런애들 때문이었구나",
+          "reply": "@gywesh 피씨방 말하는거 같은데용",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "나도 컴잘알이라 모텔가면 항상 저게 불안했는데 그동안 이런범죄가 없었다는게 신기할정도로 없었는데\n역시 컴퓨터 사양 좋아지자마자 범죄나오네 \n컴퓨터를 저런식으로 두면안되고 벽안으로 매립하거나 책상안으로 매립하는걸 추천드립니다\n4060이면 엄청좋은 글카ㅎ 나도 2070쓰는데..ㅎㅎ",
+          "reply": "호텔이라고 해도 4060은 ㅎㄷㄷ 하네요 ㅋㅋ",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "한심하네.\n그거 뭐 얼마나 된다고\n최저시급 받으면서 넷플릭스 보면서 치킨 뜯으면서 사는게 더 만족스럽겠다",
+          "reply": "님아 글카 비싸요",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "한심하네.\n그거 뭐 얼마나 된다고\n최저시급 받으면서 넷플릭스 보면서 치킨 뜯으면서 사는게 더 만족스럽겠다",
+          "reply": "글카 개당 60이라잖아여",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "한심하네.\n그거 뭐 얼마나 된다고\n최저시급 받으면서 넷플릭스 보면서 치킨 뜯으면서 사는게 더 만족스럽겠다",
+          "reply": "개당 60 한달이면 1천800인데 크죠",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "한심하네.\n그거 뭐 얼마나 된다고\n최저시급 받으면서 넷플릭스 보면서 치킨 뜯으면서 사는게 더 만족스럽겠다",
+          "reply": "@SleepingSounds-vs4bx  피해금액은 언제나 액면가 실제 훔쳐서 판 가격은 1/3정도 될려나~~~",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "한심하네.\n그거 뭐 얼마나 된다고\n최저시급 받으면서 넷플릭스 보면서 치킨 뜯으면서 사는게 더 만족스럽겠다",
+          "reply": "@연수정-r5f  모텔 숙박비랑 교체할  그래픽카드 교체하는비용은 왜뺌?",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "한심하네.\n그거 뭐 얼마나 된다고\n최저시급 받으면서 넷플릭스 보면서 치킨 뜯으면서 사는게 더 만족스럽겠다",
+          "reply": "인건비는?ㅋㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "한심하네.\n그거 뭐 얼마나 된다고\n최저시급 받으면서 넷플릭스 보면서 치킨 뜯으면서 사는게 더 만족스럽겠다",
+          "reply": "@Demon-pk8wz 그래픽카드 교체해주고 모텔 숙박비 해도 100 이상 남을수도있음 \n4070 super만해도 100 정도고 4070ti부터 최소100이고 4080부터는 150 이상도 하기때문에...\n4050도 아니고 4060만해도 4~50이상은 받으니까...",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "분노",
+          "comment": "한심하네.\n그거 뭐 얼마나 된다고\n최저시급 받으면서 넷플릭스 보면서 치킨 뜯으면서 사는게 더 만족스럽겠다",
+          "reply": "저런인간은 돈이 있고없고 를 떠나\n재범률 또 있을꺼다 출소한지 얼마 지나지도않아서 저런짓 한걸보면~\n\n그 어떤 범죄 는 봐주지않는게 맞고\n요즘 뭐 미덕이니 개소리씨부리고보는인간들\n\n지들이 한 잘못보단 처벌받는게 싫어서\n도피성 발언 으로 그럴싸하게 포장하는거임",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "공포",
+          "comment": "한심하네.\n그거 뭐 얼마나 된다고\n최저시급 받으면서 넷플릭스 보면서 치킨 뜯으면서 사는게 더 만족스럽겠다",
+          "reply": "그렇게 해도 천만원에 인생 ㅈ망한거임",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "저부품 중고로 산사람이 괴롭죠...매번 불려나가야하고..돈도 못받죠...........",
+          "reply": "아무상관없다 ㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "저부품 중고로 산사람이 괴롭죠...매번 불려나가야하고..돈도 못받죠...........",
+          "reply": "@나돼지마라  샀어?",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "저부품 중고로 산사람이 괴롭죠...매번 불려나가야하고..돈도 못받죠...........",
+          "reply": "@Rainday_Dust  안삿지 그냥 정품 사지 ㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "저부품 중고로 산사람이 괴롭죠...매번 불려나가야하고..돈도 못받죠...........",
+          "reply": "@나돼지마라  새거면 새거지 정품 타령은 뭐야?ㅋ\n중고는 정품이 아니란 소리로 들리네ㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "저부품 중고로 산사람이 괴롭죠...매번 불려나가야하고..돈도 못받죠...........",
+          "reply": "@user-ic2zy1gf6fffhfg  불려나가요...경험함.",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "공포",
+          "comment": "저부품 중고로 산사람이 괴롭죠...매번 불려나가야하고..돈도 못받죠...........",
+          "reply": "도난카드로 물건사면 은행에서 지급정지 마찬가지",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "분노",
+          "comment": "저부품 중고로 산사람이 괴롭죠...매번 불려나가야하고..돈도 못받죠...........",
+          "reply": "장물이라 문제가 있어요. 몰라서 사도 토해내야 합니다.",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "공포",
+          "comment": ".요새는 cctv에 추적할게 너무 많은데 ...\n1억에 감방가는것도 못할짓인데 천만원에 감방 가네 ㅠ",
+          "reply": "밥먹여줘 재워줘 놀아도되 ㅋㅋㅋ 노숙보단낫지 집없으면 감방가는게 현실",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "공포",
+          "comment": ".요새는 cctv에 추적할게 너무 많은데 ...\n1억에 감방가는것도 못할짓인데 천만원에 감방 가네 ㅠ",
+          "reply": "저러고 6~8개월 갔다가 오는거지 ㅋㅋ 감방가서 운동하고 밥먹고 하다 오는거",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "땀 흘려 일해서 떳떳하게 밥묵고 살어 시캬.",
+          "reply": "갈아끼느라 땀흘렸을듯",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "기쁨",
+          "comment": "땀 흘려 일해서 떳떳하게 밥묵고 살어 시캬.",
+          "reply": "@저스훙  땀 흘려 도둑질 ㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "땀 흘려 일해서 떳떳하게 밥묵고 살어 시캬.",
+          "reply": "부모가 돈이 많았으면 저런짓을 하지않아도 됐을텐데..",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "땀 흘려 일해서 떳떳하게 밥묵고 살어 시캬.",
+          "reply": "@minsaria1035  환경 영향도 잇겟지만 남한테 피해주는 행위니..",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 730,
+      "events": [
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "1:52 와 ㅋㅋㅋㅋ 당연히 살아가는게 끝인줄 알았는데..모르가나 아지르 딜 사이클 정확히 파악하고 저 피에서 킬각잡는게 소름이다 진짜 챌린저들 수준도 갈수록 올라가네",
+          "reply": "@정환-n5x  종구 인생최대업적 미니언3마리 봄",
+          "comment_time": "2년 전(수정됨)",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "1:52 와 ㅋㅋㅋㅋ 당연히 살아가는게 끝인줄 알았는데..모르가나 아지르 딜 사이클 정확히 파악하고 저 피에서 킬각잡는게 소름이다 진짜 챌린저들 수준도 갈수록 올라가네",
+          "reply": "@정환-n5x  당연히 본거라서 굳이 언급 안한게 아닐까?",
+          "comment_time": "2년 전(수정됨)",
+          "reply_time": "2년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "1:52 와 ㅋㅋㅋㅋ 당연히 살아가는게 끝인줄 알았는데..모르가나 아지르 딜 사이클 정확히 파악하고 저 피에서 킬각잡는게 소름이다 진짜 챌린저들 수준도 갈수록 올라가네",
+          "reply": "@정환-n5x  뭐라도 트집잡을라고 ㅋㅋ",
+          "comment_time": "2년 전(수정됨)",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "1:20 롤하면서 이런 킬각은 난생 처음보네 ㅅㅂ ㅋㅋㅋ",
+          "reply": "저걸 실전에서 어케했냐 ㅋㅋㅋ",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "9:42 와 아이디랑 딱맞게 콤보 쥑이네 ㅋㅋㅋㅋㅋㅋ",
+          "reply": "그라가스 쿨타임이 저렇게짧음? ㅋㅋㅋㅋㅋ 왜케 스킬 자주쓰는거같지",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "9:11 이렐 진짜 감탄 나온다.....",
+          "reply": "이거 빨리감기임? 와 지린다",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "9:11 이렐 진짜 감탄 나온다.....",
+          "reply": "@민재아님-i9w  저것보다 더빠른것도 있음 빨리감기 아님 ㅋㅋ",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "9:11 이렐 진짜 감탄 나온다.....",
+          "reply": "내가 저렇게하면 무조건 q쿨 돔 ㅋㅋ",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "9:11 이렐 진짜 감탄 나온다.....",
+          "reply": "ㅇㅇ 어떤 조건부에 발동되는건지는 자세히 모르겠는데\n진짜 한 프레임도 안끊기고 물처럼 q타는 경우들도 왕왕 있음",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "9:11 이렐 진짜 감탄 나온다.....",
+          "reply": "이렐킹이니까",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "4:24 진짜 바이킹식 플레이다 씹상남자네",
+          "reply": "왜 저 올라프만 18렙인걸까; 뭔가........ 적팀 무빙이 너무 부자연스러운데;",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "4:24 진짜 바이킹식 플레이다 씹상남자네",
+          "reply": "@RX---ec5rv  대충 보면 블루팀에서 올라프만 잘큰 상황이라 올라프 가 한번 죽으면 현상금, 옵젝 다 뺏기고 확 밀리는 상황인데 한번 실수로 죽어서 4용에 저기까지 밀린 상황인데 일단 성장만큼은 제일 잘 되어 있으니깐 1대5 밀고 들어가서 이긴거 처럼 보이는데? 딱히 부자연스러운거는 모르겠음 ㅋㅋ 걍 와 존나 잘한다 이뿐임",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "1:28 저는 여기가 제일 쇼크네요\n와, 애쉬로 어떻게 저 무빙을.... 플이나 이동기도 안 쓰고 심지어 실드 안 나온 거 보면 철갑궁 아니고 3타 소리 들어보면 크라켄인데 저걸?\n난 다른 화려한 것보단 저게 더 놀라움 ㄷㄷ",
+          "reply": "크라켄 맞는듯.. 저건 그냥 다 보고 피하는거지..",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "1:28 저는 여기가 제일 쇼크네요\n와, 애쉬로 어떻게 저 무빙을.... 플이나 이동기도 안 쓰고 심지어 실드 안 나온 거 보면 철갑궁 아니고 3타 소리 들어보면 크라켄인데 저걸?\n난 다른 화려한 것보단 저게 더 놀라움 ㄷㄷ",
+          "reply": "진짜 미친거같음....\n저건 솔직히 보고피하는게아니라 동시에 세명의 마음을 읽어야하는거아님?\n손은 그냥 본능대로\n눈은 4캐릭터를보고.. 나는 내 캐릭+적하나도 겨우보는데\n아니;; 보면 다 피함...진짜 미쳤음\n다른캐릭이면 모르겠는데 애쉬따위로;",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "4:13 와 진짜 하나라도 삑살나면 다죽는건데 콤비지리네..",
+          "reply": "”믿어라“",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "4:13 와 진짜 하나라도 삑살나면 다죽는건데 콤비지리네..",
+          "reply": "저거 유미였음 밥먹듯이 하능거",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "4:13 와 진짜 하나라도 삑살나면 다죽는건데 콤비지리네..",
+          "reply": "@삐똥이  유미는 점멸이 없는데?",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "4:13 와 진짜 하나라도 삑살나면 다죽는건데 콤비지리네..",
+          "reply": "@삐똥이  저게 레전드장면인이유는 리신큐를 플로 막아줘서가아님 그정도까지는 좀 티어내려도 볼수있을법한장면인데 둘다 죽어도 이상하지 않은상황에서 대담하게 죽을각오로 리신큐를 막아줫고 드레이븐은 그거에화답하듯 E로 리신큐를 끊었음..결국 둘다 살아남아서 리신도 잡고 생환...저정도 콤비는 진짜 천상계라하더라도 보기힘들장면인듯",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "4:13 와 진짜 하나라도 삑살나면 다죽는건데 콤비지리네..",
+          "reply": "@삐똥이  원딜 타서 밥을 먹겠지",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "4:13 와 진짜 하나라도 삑살나면 다죽는건데 콤비지리네..",
+          "reply": "@jhj1756  w로 타잇다가 내리는거 말하는거잖",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "놀람",
+          "target": "분노",
+          "comment": "9:43 마치 짜여진 각본마냥 물 흐르듯 진행되는 킬각",
+          "reply": "ㄹㅇ 개매끄러움ㅋㅋㅋ",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "4:08 레네타 세이브 미쳤다 ㅋㅋㅋ",
+          "reply": "드레이븐 세이브도 지립니다 ㄷㄷ",
+          "comment_time": "2년 전(수정됨)",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "4:08 레네타 세이브 미쳤다 ㅋㅋㅋ",
+          "reply": "세이브 주고받는게 ㄹㅇ 미침..",
+          "comment_time": "2년 전(수정됨)",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "2:20 렝가 솔방울 미쳤네 ㅋㅋㅋㅋㅋ",
+          "reply": "쓸모없잖아 ㅋㅋㅋ\n???: 하지만 멋졌죠?",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "편집기술이 장난아니네 ㄹㅇ",
+          "reply": "ㅇㅉ",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "기대",
+          "comment": "편집기술이 장난아니네 ㄹㅇ",
+          "reply": "기술보다도 센스가 더 좋은듯",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "편집기술이 장난아니네 ㄹㅇ",
+          "reply": "아니 1:00 연출뭐임?",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "편집기술이 장난아니네 ㄹㅇ",
+          "reply": "ㄹㅇ... 나도 다1이고 매드무비 나오는거 제목 다 지린다 뭐다 해도 대부분 잘했다기 보다는 상대가 못해서 나오는게 대부분이라 나도 할 수 있을거 같은게 대부분이고 식상하기도 해서 다 거기서 거기인데 이분은 게임 보러 오는게 아니라 편집 보러 오는듯. 연출 지린다 진짜 영화 시네마틱 보는거 같네. 아 근데 다보고 나니까 지리는거 몇 개 있긴 하네 ㅋㅋㅋ",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "편집기술이 장난아니네 ㄹㅇ",
+          "reply": "@SeojinH2  ㅈㄴ영화같아요 ㅋㅋㅋ",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "편집기술이 장난아니네 ㄹㅇ",
+          "reply": "@댕댕이-u8z  아... 예",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "편집기술이 장난아니네 ㄹㅇ",
+          "reply": "@댕댕이-u8z  ㅋㅋ븅",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "편집기술이 장난아니네 ㄹㅇ",
+          "reply": "@댕댕이-u8z  와 토나오네 이건 ㅋㅋㅋ",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "1:16 멋진데 천박함....",
+          "reply": "경박한것도 아니고 천박하다 해버리면 아크샨이 뭐가돼,,,",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "1:16 멋진데 천박함....",
+          "reply": "@hiddenpanzee  천박해져...",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "04:26 올라프 적중앙 뛰어갈때 소름돋네",
+          "reply": "ㄹㅇ 상상이나 했던",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "놀람",
+          "target": "분노",
+          "comment": "04:26 올라프 적중앙 뛰어갈때 소름돋네",
+          "reply": "ㄹㅇ너무 죽고싶어서 싸우는거 같음",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "아크샨 낭만 실력 미쳤네 ㅋㅋㅋㅋㅋ",
+          "reply": "\"신이 강림했다\"",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "아크샨 낭만 실력 미쳤네 ㅋㅋㅋㅋㅋ",
+          "reply": "등장할때 “신” 인줄",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기쁨",
+          "target": "분노",
+          "comment": "아크샨 낭만 실력 미쳤네 ㅋㅋㅋㅋㅋ",
+          "reply": "친애하는 친구들에게~ 그만 좀 죽어!~",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "와... 롤 플레이 9년차에 이런 영상을 오랜만에 접해보니, 진짜 프로의 영역을 우리같은 양민은 범접할 수 없다는 것을 새삼 느끼게되네요. 마치 제가 유도 아마추어로 활동할 당시에 프로의 벽을 못 넘겨본 것처럼 좌절감과 동시에 놀라움을 맛봤습니다. 덕분에",
+          "reply": "ㅋㅋ",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "와... 롤 플레이 9년차에 이런 영상을 오랜만에 접해보니, 진짜 프로의 영역을 우리같은 양민은 범접할 수 없다는 것을 새삼 느끼게되네요. 마치 제가 유도 아마추어로 활동할 당시에 프로의 벽을 못 넘겨본 것처럼 좌절감과 동시에 놀라움을 맛봤습니다. 덕분에",
+          "reply": "우리라고 얘기하진 말아주십쇼",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "와... 롤 플레이 9년차에 이런 영상을 오랜만에 접해보니, 진짜 프로의 영역을 우리같은 양민은 범접할 수 없다는 것을 새삼 느끼게되네요. 마치 제가 유도 아마추어로 활동할 당시에 프로의 벽을 못 넘겨본 것처럼 좌절감과 동시에 놀라움을 맛봤습니다. 덕분에",
+          "reply": "@가승-i1j  이런애들 특 어중간한 플래에서 자부심느낌ㅋㅋ",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "와... 롤 플레이 9년차에 이런 영상을 오랜만에 접해보니, 진짜 프로의 영역을 우리같은 양민은 범접할 수 없다는 것을 새삼 느끼게되네요. 마치 제가 유도 아마추어로 활동할 당시에 프로의 벽을 못 넘겨본 것처럼 좌절감과 동시에 놀라움을 맛봤습니다. 덕분에",
+          "reply": "@가승-i1j  ㅇㅈ",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "와... 롤 플레이 9년차에 이런 영상을 오랜만에 접해보니, 진짜 프로의 영역을 우리같은 양민은 범접할 수 없다는 것을 새삼 느끼게되네요. 마치 제가 유도 아마추어로 활동할 당시에 프로의 벽을 못 넘겨본 것처럼 좌절감과 동시에 놀라움을 맛봤습니다. 덕분에",
+          "reply": "@가승-i1j  님 티어디? 전 다이아 인데",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "기대",
+          "comment": "4:14 슈퍼 세이브\n4:27 더이상 물러설 수 없는 마지막 쌍둥이포탑에서 팀을 지키기위한 올라프의 용맹함\n5:22 생명력이 0이 될때까지 죽은것이 아니다 중요한 것은 꺾이지 않는 마음\n6:11 혼연일체 이렐리아의 찬란한 숙련도\n 술통 폭발은 이런 것이고 폭발은 예술이다 BOOOOOOOOOOOOM!!!!!!!!!!",
+          "reply": "올라프는 ㄹㅇ 전사네",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "4:14 슈퍼 세이브\n4:27 더이상 물러설 수 없는 마지막 쌍둥이포탑에서 팀을 지키기위한 올라프의 용맹함\n5:22 생명력이 0이 될때까지 죽은것이 아니다 중요한 것은 꺾이지 않는 마음\n6:11 혼연일체 이렐리아의 찬란한 숙련도\n 술통 폭발은 이런 것이고 폭발은 예술이다 BOOOOOOOOOOOOM!!!!!!!!!!",
+          "reply": "이게 올라프지 ㅋㅋ",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "4:14 슈퍼 세이브\n4:27 더이상 물러설 수 없는 마지막 쌍둥이포탑에서 팀을 지키기위한 올라프의 용맹함\n5:22 생명력이 0이 될때까지 죽은것이 아니다 중요한 것은 꺾이지 않는 마음\n6:11 혼연일체 이렐리아의 찬란한 숙련도\n 술통 폭발은 이런 것이고 폭발은 예술이다 BOOOOOOOOOOOOM!!!!!!!!!!",
+          "reply": "아니올라프 미친ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 올라프 와....",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "분노",
+          "comment": "4:14 슈퍼 세이브\n4:27 더이상 물러설 수 없는 마지막 쌍둥이포탑에서 팀을 지키기위한 올라프의 용맹함\n5:22 생명력이 0이 될때까지 죽은것이 아니다 중요한 것은 꺾이지 않는 마음\n6:11 혼연일체 이렐리아의 찬란한 숙련도\n 술통 폭발은 이런 것이고 폭발은 예술이다 BOOOOOOOOOOOOM!!!!!!!!!!",
+          "reply": "개오글거려",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "4:14 슈퍼 세이브\n4:27 더이상 물러설 수 없는 마지막 쌍둥이포탑에서 팀을 지키기위한 올라프의 용맹함\n5:22 생명력이 0이 될때까지 죽은것이 아니다 중요한 것은 꺾이지 않는 마음\n6:11 혼연일체 이렐리아의 찬란한 숙련도\n 술통 폭발은 이런 것이고 폭발은 예술이다 BOOOOOOOOOOOOM!!!!!!!!!!",
+          "reply": "카타도 쌉지렸는데 카타 어디갓어",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "4:14 슈퍼 세이브\n4:27 더이상 물러설 수 없는 마지막 쌍둥이포탑에서 팀을 지키기위한 올라프의 용맹함\n5:22 생명력이 0이 될때까지 죽은것이 아니다 중요한 것은 꺾이지 않는 마음\n6:11 혼연일체 이렐리아의 찬란한 숙련도\n 술통 폭발은 이런 것이고 폭발은 예술이다 BOOOOOOOOOOOOM!!!!!!!!!!",
+          "reply": "찐..",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "4:14 슈퍼 세이브\n4:27 더이상 물러설 수 없는 마지막 쌍둥이포탑에서 팀을 지키기위한 올라프의 용맹함\n5:22 생명력이 0이 될때까지 죽은것이 아니다 중요한 것은 꺾이지 않는 마음\n6:11 혼연일체 이렐리아의 찬란한 숙련도\n 술통 폭발은 이런 것이고 폭발은 예술이다 BOOOOOOOOOOOOM!!!!!!!!!!",
+          "reply": "올라프..진짜 공포다..",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "항상 잘보고있습니다 화이팅!",
+          "reply": "감사합니다! 더 열심히 하겠습니다!",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "4:10 레나타가 점멸로 리신 Q맞아주고... 리신 Q 들어올 때 드레이븐이 E로 막아주고...레전드ㄷㄷ",
+          "reply": "이게 레전드다 ㄹㅇ... 서로를 믿기에 서로를 살리는 플레이를 한거지 뇌지컬도 미친거 같음",
+          "comment_time": "2년 전(수정됨)",
+          "reply_time": "2년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "4:10 레나타가 점멸로 리신 Q맞아주고... 리신 Q 들어올 때 드레이븐이 E로 막아주고...레전드ㄷㄷ",
+          "reply": "카르마 아니고 레나타 아잉교",
+          "comment_time": "2년 전(수정됨)",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "4:10 레나타가 점멸로 리신 Q맞아주고... 리신 Q 들어올 때 드레이븐이 E로 막아주고...레전드ㄷㄷ",
+          "reply": "@어-x3e  그러게요?ㅋㅋ수정완료",
+          "comment_time": "2년 전(수정됨)",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "4:10 레나타가 점멸로 리신 Q맞아주고... 리신 Q 들어올 때 드레이븐이 E로 막아주고...레전드ㄷㄷ",
+          "reply": "입롤 그잡채",
+          "comment_time": "2년 전(수정됨)",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 730,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "이거랑 비슷한 겜이 스팀에 'ENDZONE'이라고 있습니다ㅋㅋ. PC게임인 만큼 퀄리티가 이거보다 훨씬 높은, 그니까 완벽 상위호환 겜이라고 보시면 되요. 정말로 비슷하네요ㅋㅋ 자원 캐는거부터 시작해서 묘지 지어서 시체를 처리하는 거까지요ㅋㅋ 다만 차이점이라면 그래도 PC플랫폼인만큼 자원의 종류가 훨씬 다양합니다. 서로 다른 자원들로 전혀 다른 자원을 만든다거나, 자원들을 이용하여 다른 자원을 캘 도구를 만들거나요ㅋㅋ. 뭐 한 번쯤은 해볼만하지만 계속 즐기기엔 지루한 겜입니다.",
+          "reply": "pc게임이 모바일보다 퀄 좋은건 당연한거잖아요 ㅋㅋㅋ",
+          "comment_time": "3년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "기억 다 지우고\n영상 처음부터 정주행하고 싶게 만들어요.",
+          "reply": "@stupid_bro  네?",
+          "comment_time": "3년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 730,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "이때가 재밌었는데 그립네",
+          "reply": "인정 이때 밍모만 하루종일 봄",
+          "comment_time": "4년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 730
+        },
+        {
+          "timestamp": 730,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "와 추억이다",
+          "reply": "ㄹㅇ",
+          "comment_time": "2년 전",
+          "reply_time": "2년 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 1095,
+      "events": [
+        {
+          "timestamp": 1095,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "저 진짜 안지 얼마 안됐는데 리뷰에 빠지게 하시는 능력이 ㄷㄷ함",
+          "reply": "저도 갑자기 알고리즘으로 알게됐는데 빠져나갈수 없어요",
+          "comment_time": "3년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1095,
+          "source": "기대",
+          "target": "기대",
+          "comment": "이런 게임을 찾고 있었는데...앞으로도 숨어있는 재미난 게임소개 많이 부탁드려요.잘보고 갑니다 ㅎㅎ",
+          "reply": "스팀에 이거랑 비슷한 ENDZONE이라고 있어요ㅋㅋ 퀄리티는 이 겜보다 훨씬 높으니 한 번 해보시는거 추천드립니다.",
+          "comment_time": "4년 전(수정됨)",
+          "reply_time": "3년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 1095,
+          "source": "기대",
+          "target": "기대",
+          "comment": "이런 게임을 찾고 있었는데...앞으로도 숨어있는 재미난 게임소개 많이 부탁드려요.잘보고 갑니다 ㅎㅎ",
+          "reply": "와 저도 찾던건데 감사합니다",
+          "comment_time": "4년 전(수정됨)",
+          "reply_time": "3년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "이거랑 비슷한 겜이 스팀에 'ENDZONE'이라고 있습니다ㅋㅋ. PC게임인 만큼 퀄리티가 이거보다 훨씬 높은, 그니까 완벽 상위호환 겜이라고 보시면 되요. 정말로 비슷하네요ㅋㅋ 자원 캐는거부터 시작해서 묘지 지어서 시체를 처리하는 거까지요ㅋㅋ 다만 차이점이라면 그래도 PC플랫폼인만큼 자원의 종류가 훨씬 다양합니다. 서로 다른 자원들로 전혀 다른 자원을 만든다거나, 자원들을 이용하여 다른 자원을 캘 도구를 만들거나요ㅋㅋ. 뭐 한 번쯤은 해볼만하지만 계속 즐기기엔 지루한 겜입니다.",
+          "reply": "오",
+          "comment_time": "3년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "이거랑 비슷한 겜이 스팀에 'ENDZONE'이라고 있습니다ㅋㅋ. PC게임인 만큼 퀄리티가 이거보다 훨씬 높은, 그니까 완벽 상위호환 겜이라고 보시면 되요. 정말로 비슷하네요ㅋㅋ 자원 캐는거부터 시작해서 묘지 지어서 시체를 처리하는 거까지요ㅋㅋ 다만 차이점이라면 그래도 PC플랫폼인만큼 자원의 종류가 훨씬 다양합니다. 서로 다른 자원들로 전혀 다른 자원을 만든다거나, 자원들을 이용하여 다른 자원을 캘 도구를 만들거나요ㅋㅋ. 뭐 한 번쯤은 해볼만하지만 계속 즐기기엔 지루한 겜입니다.",
+          "reply": "프로스트펑크도 비슷한거 같은데...",
+          "comment_time": "3년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "이거랑 비슷한 겜이 스팀에 'ENDZONE'이라고 있습니다ㅋㅋ. PC게임인 만큼 퀄리티가 이거보다 훨씬 높은, 그니까 완벽 상위호환 겜이라고 보시면 되요. 정말로 비슷하네요ㅋㅋ 자원 캐는거부터 시작해서 묘지 지어서 시체를 처리하는 거까지요ㅋㅋ 다만 차이점이라면 그래도 PC플랫폼인만큼 자원의 종류가 훨씬 다양합니다. 서로 다른 자원들로 전혀 다른 자원을 만든다거나, 자원들을 이용하여 다른 자원을 캘 도구를 만들거나요ㅋㅋ. 뭐 한 번쯤은 해볼만하지만 계속 즐기기엔 지루한 겜입니다.",
+          "reply": "@ooolll9785  ㄹㅇㅋㅋ 6시 칼퇴까지 완벽함",
+          "comment_time": "3년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "ㅋㅋ 진짜 이분 게임잘한다 ㅋㅋㅋㅋ",
+          "reply": "판자님ㅎㅎ",
+          "comment_time": "3년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1095,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "나무는 뭘로 캐나요? 철은 어떻게 분해하나요?",
+          "reply": "나무 터치하고 일할사람 숫자 올려주면 자동으로 캡니다. 철도 마찬가지고요. 철분해는 연구를 통해서 철분해하는 건물 연구하고  건설해야합니다 : ) 시간이 좀 걸릴거에요",
+          "comment_time": "3년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1095,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "자원 캐는 속도가 너무 느린데 방법이 없나요... 자원이 항상 너무 부족한데 성장은 느리고",
+          "reply": "길게 보고 해야하는 게임이라 성장이 느릴거에요 : )",
+          "comment_time": "3년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1095,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "전기는 커녕.. 버그걸려서 진행이 안되네요...\n텐트 건물 분해에서 멈춰있고\n새건물 건축도 안하고\n16명주민이 있는데 일하는 주민 12명이면 4명의 잉여가 건축해야하는데 절대안합니다\n영상이 생각나 다시보니... 번개가 상당히 많으시네요 \n으...",
+          "reply": "메인메뉴 갔다가 다시 로드하는걸로 해결...",
+          "comment_time": "3년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1095,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "전기는 커녕.. 버그걸려서 진행이 안되네요...\n텐트 건물 분해에서 멈춰있고\n새건물 건축도 안하고\n16명주민이 있는데 일하는 주민 12명이면 4명의 잉여가 건축해야하는데 절대안합니다\n영상이 생각나 다시보니... 번개가 상당히 많으시네요 \n으...",
+          "reply": "무과금으로 해보는데 헤볼만한 것 같습니다\n폰 켜두고 다른걸 하시는 분이라면 틈나는대로 광고보기 하는것도 좋을것 같고요\n광고는 50여회 봤는데 더 못보네요 하루제한 있는 것 같습니다\n\n판자와 도구를 만드는 건물을 지었는데 효율이 엉망입니더\n목재3에 철5개를 사용하여 도구?2를 얻는데\n이 비용이면 번개소모해서 직접 도구를얻는게 더 낫습니다(2배효율)\n판자는 그나마 쓸만하지만 모래와 도구가 추가적으로 투여되는게 조금 아쉽습니다\n\n차라리 과금을 하고 번개(캐시)를 사용하여 물,식량(요리되지 않은),판자,도구를 얻는게 속시원합니다\n무과금 1일차인데 전기테크까지 아직 못가봤습니다\n처음부터 다시하면 하루안에 가능할 것 같네요\n현재 주민 18명 강아지1마리\n테크트리 레벨3마스터",
+          "comment_time": "3년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1095,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "전기는 커녕.. 버그걸려서 진행이 안되네요...\n텐트 건물 분해에서 멈춰있고\n새건물 건축도 안하고\n16명주민이 있는데 일하는 주민 12명이면 4명의 잉여가 건축해야하는데 절대안합니다\n영상이 생각나 다시보니... 번개가 상당히 많으시네요 \n으...",
+          "reply": "@FLASHkor  존경스럽네요  ...",
+          "comment_time": "3년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "이거보고오랜만에 프리파이어 깔아서일등했다",
+          "reply": "이때 프리파이어 ㅈㄴ 꿀잼이었는데",
+          "comment_time": "4년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "이거보고오랜만에 프리파이어 깔아서일등했다",
+          "reply": "님 프파아이디 뭐임? 같이하실 저 잘함 프파 4년차",
+          "comment_time": "4년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "이거보고오랜만에 프리파이어 깔아서일등했다",
+          "reply": "@꾹이-t4e  저 YT-핼디 입니다",
+          "comment_time": "4년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "이거보고오랜만에 프리파이어 깔아서일등했다",
+          "reply": "네",
+          "comment_time": "4년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "이거보고오랜만에 프리파이어 깔아서일등했다",
+          "reply": "같이하죠",
+          "comment_time": "4년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "이거보고오랜만에 프리파이어 깔아서일등했다",
+          "reply": "보냈습니다",
+          "comment_time": "4년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "이거보고오랜만에 프리파이어 깔아서일등했다",
+          "reply": "저가 잼민이어서 핼디보다 못할수도 있어요",
+          "comment_time": "4년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "이거보고오랜만에 프리파이어 깔아서일등했다",
+          "reply": "전화번호가 뭐죠?",
+          "comment_time": "4년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "이거보고오랜만에 프리파이어 깔아서일등했다",
+          "reply": "@꾹이-t4e  저도 같이 할 수 있을까요?",
+          "comment_time": "4년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "이거보고오랜만에 프리파이어 깔아서일등했다",
+          "reply": "닉네임 갓벙규 입니다",
+          "comment_time": "4년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "이때가 재밌었는데 그립네",
+          "reply": "ㅈㄴ추억이네",
+          "comment_time": "4년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "프파 ㅈㄴ 재밌는데",
+          "reply": "옛날엔 재밌었음 지금은 망겜임",
+          "comment_time": "3년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "프파 ㅈㄴ 재밌는데",
+          "reply": "@nostalgic6225  ㄹㅇ 예전생각하고 들어갔더니 P2W 다됨...기믹 추가된건 참신해서 좋았는데",
+          "comment_time": "3년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1095,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "프파 ㅈㄴ 재밌는데",
+          "reply": "ㅠ",
+          "comment_time": "3년 전",
+          "reply_time": "3년 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 1460,
+      "events": [
+        {
+          "timestamp": 1460,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "이때가 재밌었는데 그립네",
+          "reply": "ㅋㅋㅋㅋㅇㅈ",
+          "comment_time": "4년 전",
+          "reply_time": "4년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1460,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "이때가 재밌었는데 그립네",
+          "reply": "실시간이네",
+          "comment_time": "4년 전",
+          "reply_time": "4년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1460,
+          "source": "신뢰",
+          "target": "슬픔",
+          "comment": "밍모닌ㅋㅋㅋㅋㅋ큐ㅠㅠㅠㅠㅠ넘조아요",
+          "reply": "@샴푸-f6o  ?",
+          "comment_time": "7년 전",
+          "reply_time": "4년 전",
+          "time_diff_days": 1095
+        },
+        {
+          "timestamp": 1460,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "나 UAV 처음 에 레드존같은 건 줄ㅋㅋㅋ",
+          "reply": "ㅋ",
+          "comment_time": "7년 전",
+          "reply_time": "4년 전",
+          "time_diff_days": 1095
+        }
+      ]
+    },
+    {
+      "timestamp": 2190,
+      "events": [
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "펜타 모바일 레전드 다해본결과 밸런스 존나좋음 그리고 AOS장르는 롤이 최초가아님 양산형 그래픽이라고 하는데 난 처음볼때부터 준수하다 생각함 딱히 큰 문제는 없음 있다하면 매칭",
+          "reply": "정보 감사합니다 :D",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "펜타 모바일 레전드 다해본결과 밸런스 존나좋음 그리고 AOS장르는 롤이 최초가아님 양산형 그래픽이라고 하는데 난 처음볼때부터 준수하다 생각함 딱히 큰 문제는 없음 있다하면 매칭",
+          "reply": "도타가 또....",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "펜타 모바일 레전드 다해본결과 밸런스 존나좋음 그리고 AOS장르는 롤이 최초가아님 양산형 그래픽이라고 하는데 난 처음볼때부터 준수하다 생각함 딱히 큰 문제는 없음 있다하면 매칭",
+          "reply": "매칭 씹인정...맨날 2분이상걸림",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "펜타 모바일 레전드 다해본결과 밸런스 존나좋음 그리고 AOS장르는 롤이 최초가아님 양산형 그래픽이라고 하는데 난 처음볼때부터 준수하다 생각함 딱히 큰 문제는 없음 있다하면 매칭",
+          "reply": "누가 최고라 했냐 최초라 했지",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "펜타 모바일 레전드 다해본결과 밸런스 존나좋음 그리고 AOS장르는 롤이 최초가아님 양산형 그래픽이라고 하는데 난 처음볼때부터 준수하다 생각함 딱히 큰 문제는 없음 있다하면 매칭",
+          "reply": "아 베인글로리 모르시나 보네요\nhttps://youtu.be/UnAVTmg5DEU 놀랍게도 이게 모바일 겜입니다.\n원래 pc겜으로 출시하려다 모바일로 냈다고 하네요 2014년작입니다 나온지 4년이나 됐는데\n아직도 원탑 그래픽이네요ㅋㅋ",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "펜타 모바일 레전드 다해본결과 밸런스 존나좋음 그리고 AOS장르는 롤이 최초가아님 양산형 그래픽이라고 하는데 난 처음볼때부터 준수하다 생각함 딱히 큰 문제는 없음 있다하면 매칭",
+          "reply": "@서울구독자  펜타스톰이 헤이안쿄보다는 더 좋은 게임이라 생각함 솔직히 이거 최적화 지려요 헤이한쿄는 앞서 나온것처럼 원거리 캐릭터가 너무 유리합니다 근데 펜타스톰은 제가 1500판 유저로서 사기캐가 있다는데 그게 진짜막 엄청강하다 1대 5도 잡는다 란 캐릭터가 있다라고 하는데 저는 그냥 짜증나는 캐릭터 정도 생각하거든요 그리고 잘하면 그런거 다 씹어먹을수 있어요 그리고 이게임은 정당성이 없다고 생각해요 제작회사인 넷이즈는 라이엇 게임즈와의 연관이 있는것도 아니라서 하기에 다 꺼려지네요",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "펜타 모바일 레전드 다해본결과 밸런스 존나좋음 그리고 AOS장르는 롤이 최초가아님 양산형 그래픽이라고 하는데 난 처음볼때부터 준수하다 생각함 딱히 큰 문제는 없음 있다하면 매칭",
+          "reply": "@서울구독자  인간적으로 도타2가 시공보다는 괜찮지...",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "펜타 모바일 레전드 다해본결과 밸런스 존나좋음 그리고 AOS장르는 롤이 최초가아님 양산형 그래픽이라고 하는데 난 처음볼때부터 준수하다 생각함 딱히 큰 문제는 없음 있다하면 매칭",
+          "reply": "@서울구독자  모레랑 펜타는 비교불가이지ㅋㅋ. 둘다 ㅈ망겜인데",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "기대",
+          "comment": "펜타 모바일 레전드 다해본결과 밸런스 존나좋음 그리고 AOS장르는 롤이 최초가아님 양산형 그래픽이라고 하는데 난 처음볼때부터 준수하다 생각함 딱히 큰 문제는 없음 있다하면 매칭",
+          "reply": "@서울구독자  모레 랭커,펜타도 해봐서 아는데 둘다 그지 같음 모레는 미드라인전 개념증발...펜타 밸은 뭐 말안해도 되죠?",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "펜타 모바일 레전드 다해본결과 밸런스 존나좋음 그리고 AOS장르는 롤이 최초가아님 양산형 그래픽이라고 하는데 난 처음볼때부터 준수하다 생각함 딱히 큰 문제는 없음 있다하면 매칭",
+          "reply": "헤이안쿄 매칭 10초안에 잡히는건 나뿐?",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "한국 음양사는 카카오때문에 망한거ㅋㅋ\n중국섭 플레이중인데 이거만큼 흥한겜이 없어요ㅋㅋ",
+          "reply": "ㅆㅇㅈ",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "공포",
+          "comment": "한국 음양사는 카카오때문에 망한거ㅋㅋ\n중국섭 플레이중인데 이거만큼 흥한겜이 없어요ㅋㅋ",
+          "reply": "그건 개소리임 식신육성에 어려움이나 운빨 어혼 등 망할 이유가 있어서 망한거지 무슨 중국에서 흥하면 전부 갓겜임?",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "한국 음양사는 카카오때문에 망한거ㅋㅋ\n중국섭 플레이중인데 이거만큼 흥한겜이 없어요ㅋㅋ",
+          "reply": "@err2427   중국에서 흥해서 갓겜이라는게 아니라 충분히 좋은게임 카카오의 운영으로 망쳤다는말입니다..",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "한국 음양사는 카카오때문에 망한거ㅋㅋ\n중국섭 플레이중인데 이거만큼 흥한겜이 없어요ㅋㅋ",
+          "reply": "@leerin2842  식신육성에 어려움 운빨 어혼 파밍이 카카오가 만든데 아닌데 먼 소리야 그냥 음양사 문제 아님?",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "한국 음양사는 카카오때문에 망한거ㅋㅋ\n중국섭 플레이중인데 이거만큼 흥한겜이 없어요ㅋㅋ",
+          "reply": "@err2427  그건 노가다게임의 특성이라 어쩔수없는거 \n음양사 카카오의 과도한 과금유도, 유저기만질 이거 때문에 망한거야...",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "한국 음양사는 카카오때문에 망한거ㅋㅋ\n중국섭 플레이중인데 이거만큼 흥한겜이 없어요ㅋㅋ",
+          "reply": "다른 서버들 잘만 돌아가고 흥했는데 한섭만 왜 망했겠냐....",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "한국 음양사는 카카오때문에 망한거ㅋㅋ\n중국섭 플레이중인데 이거만큼 흥한겜이 없어요ㅋㅋ",
+          "reply": "@err2427  식신육성은 초반만 버티면 충분히 해볼만하고 어혼파밍도 카미자목 만드니까 그닥 힘들지도 않더라",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "한국 음양사는 카카오때문에 망한거ㅋㅋ\n중국섭 플레이중인데 이거만큼 흥한겜이 없어요ㅋㅋ",
+          "reply": "심지어 지금은 자동시스템까지 내줘서 엄청 편해졌는데 이걸 힘들다고하면 이 겜이 그냥 안맞는거지",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "한국 음양사는 카카오때문에 망한거ㅋㅋ\n중국섭 플레이중인데 이거만큼 흥한겜이 없어요ㅋㅋ",
+          "reply": "@leerin2842  카카오에 개입이 없다고는 못하는데 카카오 혼자 한짓은 아니지 음양사 갓겜이라는거 흥행 말고 머 있음? 흥행으로면 리니지m이 우리나라 일따봉",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "한국 음양사는 카카오때문에 망한거ㅋㅋ\n중국섭 플레이중인데 이거만큼 흥한겜이 없어요ㅋㅋ",
+          "reply": "턴제로 돌아가고 행동력 증가라는 독특한 시스템 변별력과 변수를 모두갖춘 대전등 괜찮은게임의 요소를 많이 갖췄는데 카카오에서 버그관리 소홀, 누가 봐도 과금유도인 신규식신도입타이밍, 문의에 대한 무성의 매크로 답변 이런게 주 유저의 탈주요소가 된거지",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "이 게임의 과학은 시바견.",
+          "reply": "시바견 엄청쎄요 ㅋㅋ",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "이 게임의 과학은 시바견.",
+          "reply": "그냥 쓸줄 모르는거임 천상계에서도 사기라 불리는데...",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "이 게임의 과학은 시바견.",
+          "reply": "개쌔던데",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "놀람",
+          "target": "분노",
+          "comment": "이 게임의 과학은 시바견.",
+          "reply": "응아니야 개사기야",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "이 게임의 과학은 시바견.",
+          "reply": "그니까 과학이라 불리는거임",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "이 게임의 과학은 시바견.",
+          "reply": "난이도가 어려워서 그렇지 개좋음",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "이 게임의 과학은 시바견.",
+          "reply": "긍께",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "이 게임의 과학은 시바견.",
+          "reply": "시바견 1ㄷ4로 삐까뜸",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "이 게임의 과학은 시바견.",
+          "reply": "난이도 어렵고 개쌔니까 과학아닐까요...근데 모바일겜이라 그렇게 못할 수는 없을듯ㅋㅋ",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "이 게임의 과학은 시바견.",
+          "reply": "@user-uc5tr7so3f  \n그건 상대가 못...",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "캐릭터가 어쩔수 없는게 둘다 원작 헤이안쿄 모티브라서;;\n그리고 이누야사, 셋쇼마루는 요괴이기 때문에 그거 때문에 콜라보 한거 같구요, 이후에도 요괴를 모티브로 한 애니 캐릭터는 나올거 같습니다.(둘다 3주 뒤에 출시한다고함)",
+          "reply": "이누야샤,셋쇼마루 내년출시",
+          "comment_time": "6년 전(수정됨)",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "기대",
+          "comment": "와 이 분 방송 처음 보는데 정말 장점과 단점만 말하시고 일부로 영상만 길게 만드는 다른 사람이랑 아예 달라요 정말 팩트만 말하고 빨라서 좋네요\n이 분 많이 뜨길 바라겠습니다\n파이팅!!~~",
+          "reply": "와우 앞으로 더 노력하겠습니다 ㄷㄷ",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "근접이 후반에 안좋,,? 너무 겉만 보신건 아닌가 싶네요\n후반에도 근접이 충분히 활약할수 있는 게임이라고 생각되는데요.",
+          "reply": "팩트님의 좋은생각 감사드립니다 :D",
+          "comment_time": "6년 전(수정됨)",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "근접이 후반에 안좋,,? 너무 겉만 보신건 아닌가 싶네요\n후반에도 근접이 충분히 활약할수 있는 게임이라고 생각되는데요.",
+          "reply": "@jijonjose  근접 딜템만 사면 당연히 녹죠 탱장비 반 딜장비 반하면 증말로다가 편해요",
+          "comment_time": "6년 전(수정됨)",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "근접이 후반에 안좋,,? 너무 겉만 보신건 아닌가 싶네요\n후반에도 근접이 충분히 활약할수 있는 게임이라고 생각되는데요.",
+          "reply": "이누가미도 근접인데 후반전갈수록 점점쎄져서 20킬은기본임(망하면 시...ㅂ...읍읍)",
+          "comment_time": "6년 전(수정됨)",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "근접이 후반에 안좋,,? 너무 겉만 보신건 아닌가 싶네요\n후반에도 근접이 충분히 활약할수 있는 게임이라고 생각되는데요.",
+          "reply": "특히 시바견같은얘들 후반오면 ㄹㅇ 기도메타 해야됨 탱커면 상관없는데 딜러면 진심 심장졸이면서 \"아아 홀리쉣 오오 시바견이다\"하면서 떨고있음 후반에 근접캐도 좋아요",
+          "comment_time": "6년 전(수정됨)",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "근접이 후반에 안좋,,? 너무 겉만 보신건 아닌가 싶네요\n후반에도 근접이 충분히 활약할수 있는 게임이라고 생각되는데요.",
+          "reply": "@할라-v5t  전 주캐가 요도히메인데요 초반이든 후반이든 학살하고 다니는뎁쇼",
+          "comment_time": "6년 전(수정됨)",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "근접이 후반에 안좋,,? 너무 겉만 보신건 아닌가 싶네요\n후반에도 근접이 충분히 활약할수 있는 게임이라고 생각되는데요.",
+          "reply": "랭플레정도까지올른사람으로써말해드리면",
+          "comment_time": "6년 전(수정됨)",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "근접이 후반에 안좋,,? 너무 겉만 보신건 아닌가 싶네요\n후반에도 근접이 충분히 활약할수 있는 게임이라고 생각되는데요.",
+          "reply": "초중반 근접겜",
+          "comment_time": "6년 전(수정됨)",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "근접이 후반에 안좋,,? 너무 겉만 보신건 아닌가 싶네요\n후반에도 근접이 충분히 활약할수 있는 게임이라고 생각되는데요.",
+          "reply": "중 후반 원딜겜",
+          "comment_time": "6년 전(수정됨)",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "근접이 후반에 안좋,,? 너무 겉만 보신건 아닌가 싶네요\n후반에도 근접이 충분히 활약할수 있는 게임이라고 생각되는데요.",
+          "reply": "초 중 극후반 마법사겜",
+          "comment_time": "6년 전(수정됨)",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "근접이 후반에 안좋,,? 너무 겉만 보신건 아닌가 싶네요\n후반에도 근접이 충분히 활약할수 있는 게임이라고 생각되는데요.",
+          "reply": "서폿초반겜",
+          "comment_time": "6년 전(수정됨)",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "4:28 람머스냐? ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "스킬구성도 비슷해서 람머스긴해요 ㅋㅋ\n아니 람머스+렉사이 짬뽕..",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "4:28 람머스냐? ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "구른다",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기쁨",
+          "target": "분노",
+          "comment": "4:28 람머스냐? ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "바쿠라고 꿈먹는 요괴인데 도발이아니라 수면 거는 놈이에요 계수가 양심이 진짜 꿈이랑 같이 먹었는지 없음",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "4:28 람머스냐? ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "@이세라죽음 무슨뜻인지 이해를 못했습니다.",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "4:28 람머스냐? ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "궁이 케인",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "이 겜 자체가 음양사 만든 넷이즈에서 자사 음양사IP가지고 AOS만든거에요. 초반부는 정정이 필요할듯",
+          "reply": "초반부 어느 부분에서 정정이 필요할까요? 재활용했다고 설명했는데",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "이 겜 자체가 음양사 만든 넷이즈에서 자사 음양사IP가지고 AOS만든거에요. 초반부는 정정이 필요할듯",
+          "reply": "누가 좋아요 표시해서 지금봣네요. \n자사 IP활용하는건 게임업계에서 흔한일인데 그게 왜 단점으로  지적되었는지 모르겠네요. \n이점은 게임특징이나 소개쪽으로 빼야하지 않을까 싶어요\n재활용이라고 말하길래 무단도용이라고 인식한거 같았는데 답글보면 그렇게 인식한 것같지도 않고..",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "이 겜 자체가 음양사 만든 넷이즈에서 자사 음양사IP가지고 AOS만든거에요. 초반부는 정정이 필요할듯",
+          "reply": "@김동헌-g4q  동헌님의 말씀 참고하겠습니다 좋은 의견 감사해욧",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "괨찮아요...모바일 레전드는 op챔 나오면 또 op나오고 게속 나오고 그 뒤 사람들의 기억에 잊혀질 때 쯤에 완전너프 하지만 그땐 op가 엄청많은 op로 op를 막는 벨붕형 밸런스 패치입니다(캐릭 만들때 말고 밸런스패치도 어떤지)\n결론\n\n\n\n\n\n\n\n\n헤이안쿄가 더 밸런스(?)가 좋다(?)",
+          "reply": "꺨끔한 결론 굿",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "리뷰 잘보고 구독하고가요 ㅎㅎ",
+          "reply": "넹 감사합니다 :D",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "오랜만에 진지한 리뷰 잘 봤습니다 ㅎㅎ 안그래도 시작한지 3일정도 되었는데 ㅎㅎ 좋은 리뷰 올려주셔서 감사합니다 ㅎㅎ",
+          "reply": "옹 감사합니다 :D\n고수분이시군요 ㄷㄷ",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "설명하는거개꿀잼이고\n진짜빨리빨리말하니진짜개좋다.\n이채널다신본다.(찡긋)",
+          "reply": "오 감사합니다 아이디 어려우신분",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "설명하는거개꿀잼이고\n진짜빨리빨리말하니진짜개좋다.\n이채널다신본다.(찡긋)",
+          "reply": "지존조세 ㅋㅋ넵",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "저는 아니라고 생각합니다 모바일 타겜 하시던 분들은 다 밸런스 좋다고 합니다 그냥 핸드폰 게임을 컴퓨터 게임하고 비교하시면 안되구요 지금 다른 타게임 하고 다르게 밸런스와 핑도 안 튄다고 칭찬 받고 있습니다 다른 게임도 해보고 모바일 게임을 피시 게임하고 비교 안하셨으면 좋겠습니다 핸드폰 게임을 많이 해보시면 아실거 같습니다 또 다른 게임들과 다르게 게임 속도가 느린편이구요 맵도 좀 넓다고 생각합니다 다른 타겜들은 안살자들이 강력한 챔피언들이 있어 원딜들이 쉽게 녹아 원딜을 좋아하는 사람들은 하지 못하는 일이 있었지만 헤이안쿄는 원딜이나 소소한 전투가 짧게 끝나지 않고 오래 장기간 지속 전투 하는 느낌입니다 원딜이 바로 녹지 않는다는 것도 좋다고 생각하구요",
+          "reply": "좋은 의견 감사합니다!",
+          "comment_time": "6년 전(수정됨)",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "저는 아니라고 생각합니다 모바일 타겜 하시던 분들은 다 밸런스 좋다고 합니다 그냥 핸드폰 게임을 컴퓨터 게임하고 비교하시면 안되구요 지금 다른 타게임 하고 다르게 밸런스와 핑도 안 튄다고 칭찬 받고 있습니다 다른 게임도 해보고 모바일 게임을 피시 게임하고 비교 안하셨으면 좋겠습니다 핸드폰 게임을 많이 해보시면 아실거 같습니다 또 다른 게임들과 다르게 게임 속도가 느린편이구요 맵도 좀 넓다고 생각합니다 다른 타겜들은 안살자들이 강력한 챔피언들이 있어 원딜들이 쉽게 녹아 원딜을 좋아하는 사람들은 하지 못하는 일이 있었지만 헤이안쿄는 원딜이나 소소한 전투가 짧게 끝나지 않고 오래 장기간 지속 전투 하는 느낌입니다 원딜이 바로 녹지 않는다는 것도 좋다고 생각하구요",
+          "reply": "원딜을 하는건 돟지만 원딜'밖에' \n어다는게 문제임",
+          "comment_time": "6년 전(수정됨)",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "저는 아니라고 생각합니다 모바일 타겜 하시던 분들은 다 밸런스 좋다고 합니다 그냥 핸드폰 게임을 컴퓨터 게임하고 비교하시면 안되구요 지금 다른 타게임 하고 다르게 밸런스와 핑도 안 튄다고 칭찬 받고 있습니다 다른 게임도 해보고 모바일 게임을 피시 게임하고 비교 안하셨으면 좋겠습니다 핸드폰 게임을 많이 해보시면 아실거 같습니다 또 다른 게임들과 다르게 게임 속도가 느린편이구요 맵도 좀 넓다고 생각합니다 다른 타겜들은 안살자들이 강력한 챔피언들이 있어 원딜들이 쉽게 녹아 원딜을 좋아하는 사람들은 하지 못하는 일이 있었지만 헤이안쿄는 원딜이나 소소한 전투가 짧게 끝나지 않고 오래 장기간 지속 전투 하는 느낌입니다 원딜이 바로 녹지 않는다는 것도 좋다고 생각하구요",
+          "reply": "ㅇㅈ",
+          "comment_time": "6년 전(수정됨)",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "신뢰",
+          "comment": "첨보는데 아주맛깔나게 설명하시고 리뷰도 괜찮네요 좋아요 구독 박고 갑니다",
+          "reply": "옹 감사합니다 아직 모자르지만 말이죠 ㅠ_ㅡ",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "원딜 무적게임 아니에요 애초에 원딜 여러명 나오면 게임 무조건 터지고 조합 맞춰야하는건 롤이랑 같습니다 거기에 원딜들 ap나 암살근접에게 물리면 노답인것도 롤이랑 같아요",
+          "reply": "오호 그렇군여 :D",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "원딜 무적게임 아니에요 애초에 원딜 여러명 나오면 게임 무조건 터지고 조합 맞춰야하는건 롤이랑 같습니다 거기에 원딜들 ap나 암살근접에게 물리면 노답인것도 롤이랑 같아요",
+          "reply": "@jijonjose  공카에 저격 올라왔네요.. 밸런스란게 겉핥기론 알 수 없는 부분인데 ㅠㅠ",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "지존조세형... 진짜 흥해라!!! 너무 재미있어요!!",
+          "reply": "갑자기 개뜬금없다!!\n재미요소 하나도 없는데??",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "이거 즐기고 있는 유저가 정리함...\n핑이 터질때도 있지만 타 aos모바일보다는 훨씬 괜찮고, 밸런스가 안맞는게 사거리가 좋은 캐릭이 사기라고 하시던데 원딜이 비교적 쉬운건 맞지만 근딜 중에 더 사기가 많음(값싼캐 중에서도 있음, 예를 들어 \"이누가미\" 시바견인데 ㄹㅇ 개XX임 ㅋㅋ 근데 이걸 하는 리유가 뭐냐? 캐릭터 스킬 도합이 굉장이 신기해서 즐기기 좋음, 나는 렉 안걸리던데 아마 SD카드로 저장용량 옮겨서 그런거 같음.",
+          "reply": "넹 감사합니다 :D",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "이거 즐기고 있는 유저가 정리함...\n핑이 터질때도 있지만 타 aos모바일보다는 훨씬 괜찮고, 밸런스가 안맞는게 사거리가 좋은 캐릭이 사기라고 하시던데 원딜이 비교적 쉬운건 맞지만 근딜 중에 더 사기가 많음(값싼캐 중에서도 있음, 예를 들어 \"이누가미\" 시바견인데 ㄹㅇ 개XX임 ㅋㅋ 근데 이걸 하는 리유가 뭐냐? 캐릭터 스킬 도합이 굉장이 신기해서 즐기기 좋음, 나는 렉 안걸리던데 아마 SD카드로 저장용량 옮겨서 그런거 같음.",
+          "reply": "그냥 폰이나 핑이 좋은거쥐요 뭐",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "이거 즐기고 있는 유저가 정리함...\n핑이 터질때도 있지만 타 aos모바일보다는 훨씬 괜찮고, 밸런스가 안맞는게 사거리가 좋은 캐릭이 사기라고 하시던데 원딜이 비교적 쉬운건 맞지만 근딜 중에 더 사기가 많음(값싼캐 중에서도 있음, 예를 들어 \"이누가미\" 시바견인데 ㄹㅇ 개XX임 ㅋㅋ 근데 이걸 하는 리유가 뭐냐? 캐릭터 스킬 도합이 굉장이 신기해서 즐기기 좋음, 나는 렉 안걸리던데 아마 SD카드로 저장용량 옮겨서 그런거 같음.",
+          "reply": "ㅇㅈㅇㅈ",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "기대",
+          "comment": "크으으으 조세형 아이미쓰유!",
+          "reply": "다음부턴 다시빵빵쓰형해줄게!!",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "크으으으 조세형 아이미쓰유!",
+          "reply": "??????? 나 이 댓글과 답글 이해 못했어!!",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "기대",
+          "comment": "크으으으 조세형 아이미쓰유!",
+          "reply": "조세형 으로 첨 들어봤자너 다음부턴 다시 빵빵쓰형이다 그리웠어형 ㅜ",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "크으으으 조세형 아이미쓰유!",
+          "reply": "나 이거 만드는데 2틀걸렸어 게임 너무 많이해가지고..",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "신뢰",
+          "comment": "크으으으 조세형 아이미쓰유!",
+          "reply": "형 고생했졍..ㅜ 흥하자형",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "개인적이지만 폰이 노트8이라 그런지 뜨겁지도 않았고 렉도 없어서 애용하는 게임입니다. 원거리가 좋다 하시는데 오히려 폭딜나오는 근딜은 원거리 갖고 노는 경우가 많습니다. (네코마타, 골녀 등 스킬로 붙고 평타에 스킬한개 쓰면 몸 약한 법사나 원딜은 녹더라구요.) 오히려 방 식신, 즉 탱커가 필요없는 게임이라는게 별로긴 하지만요.  (탱템둘러도 딜러가 너무 쌔서 녹는다는 ㅠㅠ)",
+          "reply": "감사합니다 :D",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "신뢰",
+          "target": "슬픔",
+          "comment": "개인적이지만 폰이 노트8이라 그런지 뜨겁지도 않았고 렉도 없어서 애용하는 게임입니다. 원거리가 좋다 하시는데 오히려 폭딜나오는 근딜은 원거리 갖고 노는 경우가 많습니다. (네코마타, 골녀 등 스킬로 붙고 평타에 스킬한개 쓰면 몸 약한 법사나 원딜은 녹더라구요.) 오히려 방 식신, 즉 탱커가 필요없는 게임이라는게 별로긴 하지만요.  (탱템둘러도 딜러가 너무 쌔서 녹는다는 ㅠㅠ)",
+          "reply": "동감 펜타스톰 모바일레전드 두게임다 정점티어 찍었는데 제일 벨런스 안맞는건 모바일레전드라 생각함",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "신뢰",
+          "target": "슬픔",
+          "comment": "개인적이지만 폰이 노트8이라 그런지 뜨겁지도 않았고 렉도 없어서 애용하는 게임입니다. 원거리가 좋다 하시는데 오히려 폭딜나오는 근딜은 원거리 갖고 노는 경우가 많습니다. (네코마타, 골녀 등 스킬로 붙고 평타에 스킬한개 쓰면 몸 약한 법사나 원딜은 녹더라구요.) 오히려 방 식신, 즉 탱커가 필요없는 게임이라는게 별로긴 하지만요.  (탱템둘러도 딜러가 너무 쌔서 녹는다는 ㅠㅠ)",
+          "reply": "최원석 모바일레전드 즐겨했는데 신캐 나오면서 밸런스 망해가는거같아 접음..ㅠㅠ",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "신뢰",
+          "target": "기대",
+          "comment": "개인적이지만 폰이 노트8이라 그런지 뜨겁지도 않았고 렉도 없어서 애용하는 게임입니다. 원거리가 좋다 하시는데 오히려 폭딜나오는 근딜은 원거리 갖고 노는 경우가 많습니다. (네코마타, 골녀 등 스킬로 붙고 평타에 스킬한개 쓰면 몸 약한 법사나 원딜은 녹더라구요.) 오히려 방 식신, 즉 탱커가 필요없는 게임이라는게 별로긴 하지만요.  (탱템둘러도 딜러가 너무 쌔서 녹는다는 ㅠㅠ)",
+          "reply": "우미보즈 하셈ㅋㅋㅋ 힐량으로 밀어붙힘",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "제대로 안느껴보셨구나!\n이츠마데 해보십쇼;\n근접이 더 사기였구나 하게 됩니당\n\nS8+ 고화질 60프레임 까지 돌린다면 완전 갓겜이라 인정 하실겁니다 ^^ :)",
+          "reply": "현재 천상계 이츠마데 장인입니다 이츠마데 해보십쇼",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "MOBA 게임충으로서 정말 잘알아듣게 리뷰해주시네요...",
+          "reply": "저도 MOBA충이라 눈에 들어온게 좀 많았네요 :D",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "현재150판 정도 했는데 상위 랭크로 갈수록 정글 탑유저가 많아요. 딱히 원딜 게임은 아닙니다. 오히려 봇 원딜이 어려워서 적은편 입니다.\n\n단점중 2개가 오류네요?\n\n원딜 게임이다 = 나는 이 게임을 제대로 해보지 않았지만 그냥 신작게임이니 설렁설렁 해보고 대충 리뷰하겠다.",
+          "reply": "좋은 의견 감사합니다\n단점에 관하여 리뷰 오류가 있었던점 죄송합니다",
+          "comment_time": "6년 전(수정됨)",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "현재150판 정도 했는데 상위 랭크로 갈수록 정글 탑유저가 많아요. 딱히 원딜 게임은 아닙니다. 오히려 봇 원딜이 어려워서 적은편 입니다.\n\n단점중 2개가 오류네요?\n\n원딜 게임이다 = 나는 이 게임을 제대로 해보지 않았지만 그냥 신작게임이니 설렁설렁 해보고 대충 리뷰하겠다.",
+          "reply": "원딜이 좀 어중간하죠.\n딜이 미치게 쎈것도 아니고, 생존력이 그리 높은것도 아니고.\n그렇다고 의미없냐니 한타에서 살아있으면 가장 큰 골치덩이고..",
+          "comment_time": "6년 전(수정됨)",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "오늘 처음 보고 가는데 조용히 구독 박고갑니다...",
+          "reply": "구독은 시끄럽게 하셔도 정말 감사하죠 하하",
+          "comment_time": "6년 전(수정됨)",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "그거암? 펜타는 나탈리아같은경우 1렙때부터 1스가 무슨 미호 템 2개샀을때의 딜이고 모바일 레전드 같은경우는 란슬롯을 너프를 제대로 먹여야하는데 ㅈㄴ 안먹임...하지만 이게임은 저 게임들보다는 밸런스가 제일 잘맞음..범위가 넓어도 피할수도 잇고..1렙때부터 미친딜을 뿜어내는 놈도 없어서 좋음",
+          "reply": "@먄-p9w  이거 ㅇㅈ하는게 솔직히 나탈1스가 기절이고 2스가 슬로우 및 기절이라해도 미호가 즉발기에 속도빨라서 미호가 더 좋은듯 거기다 미호는 이동기까지 있어서...",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "그거암? 펜타는 나탈리아같은경우 1렙때부터 1스가 무슨 미호 템 2개샀을때의 딜이고 모바일 레전드 같은경우는 란슬롯을 너프를 제대로 먹여야하는데 ㅈㄴ 안먹임...하지만 이게임은 저 게임들보다는 밸런스가 제일 잘맞음..범위가 넓어도 피할수도 잇고..1렙때부터 미친딜을 뿜어내는 놈도 없어서 좋음",
+          "reply": "랜슬 너프 이미 줜나 먹엿고 현재 문제인건 셀레나 키미 이런 놈들임",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "그거암? 펜타는 나탈리아같은경우 1렙때부터 1스가 무슨 미호 템 2개샀을때의 딜이고 모바일 레전드 같은경우는 란슬롯을 너프를 제대로 먹여야하는데 ㅈㄴ 안먹임...하지만 이게임은 저 게임들보다는 밸런스가 제일 잘맞음..범위가 넓어도 피할수도 잇고..1렙때부터 미친딜을 뿜어내는 놈도 없어서 좋음",
+          "reply": "@루비초밥  아 이거 인정합니다....",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "그거암? 펜타는 나탈리아같은경우 1렙때부터 1스가 무슨 미호 템 2개샀을때의 딜이고 모바일 레전드 같은경우는 란슬롯을 너프를 제대로 먹여야하는데 ㅈㄴ 안먹임...하지만 이게임은 저 게임들보다는 밸런스가 제일 잘맞음..범위가 넓어도 피할수도 잇고..1렙때부터 미친딜을 뿜어내는 놈도 없어서 좋음",
+          "reply": "미호 출시하고 다이아찍고 너프먹고 모레가서 전설찍고 슬럼프와서 때려쳐서 뭐 다시 할지 모르겠어요 추천좀",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "그거암? 펜타는 나탈리아같은경우 1렙때부터 1스가 무슨 미호 템 2개샀을때의 딜이고 모바일 레전드 같은경우는 란슬롯을 너프를 제대로 먹여야하는데 ㅈㄴ 안먹임...하지만 이게임은 저 게임들보다는 밸런스가 제일 잘맞음..범위가 넓어도 피할수도 잇고..1렙때부터 미친딜을 뿜어내는 놈도 없어서 좋음",
+          "reply": "나탈은 다 맞춰야 하자너...나탈 1스 다 맞아주니...",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "그거암? 펜타는 나탈리아같은경우 1렙때부터 1스가 무슨 미호 템 2개샀을때의 딜이고 모바일 레전드 같은경우는 란슬롯을 너프를 제대로 먹여야하는데 ㅈㄴ 안먹임...하지만 이게임은 저 게임들보다는 밸런스가 제일 잘맞음..범위가 넓어도 피할수도 잇고..1렙때부터 미친딜을 뿜어내는 놈도 없어서 좋음",
+          "reply": "펜타가 그래도 모레랑 헤이안쿄보단 밸런스 잘 맞는 것 같은데 ㅇㅇ 애들마다 고유의 특성이 있고 나탈과 미호의 1렙에서의 딜 차이는 펜타 좀 해보셨다면 납득이 가실텐데",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "그거암? 펜타는 나탈리아같은경우 1렙때부터 1스가 무슨 미호 템 2개샀을때의 딜이고 모바일 레전드 같은경우는 란슬롯을 너프를 제대로 먹여야하는데 ㅈㄴ 안먹임...하지만 이게임은 저 게임들보다는 밸런스가 제일 잘맞음..범위가 넓어도 피할수도 잇고..1렙때부터 미친딜을 뿜어내는 놈도 없어서 좋음",
+          "reply": "렌슬롯은 평범한 수준인데..\n키미같은 더러운ㅅㅋ만 빼면 대부분 상대법만 알면 할만하지않든가..\n그렇게 따지면 후반 레슬리 아이리텔만큼 사기가 어딨다고... 원딜이 암살도 안당하고 적 혼자서 다잡쥬",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "그거암? 펜타는 나탈리아같은경우 1렙때부터 1스가 무슨 미호 템 2개샀을때의 딜이고 모바일 레전드 같은경우는 란슬롯을 너프를 제대로 먹여야하는데 ㅈㄴ 안먹임...하지만 이게임은 저 게임들보다는 밸런스가 제일 잘맞음..범위가 넓어도 피할수도 잇고..1렙때부터 미친딜을 뿜어내는 놈도 없어서 좋음",
+          "reply": "펜타갓겜",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "그거암? 펜타는 나탈리아같은경우 1렙때부터 1스가 무슨 미호 템 2개샀을때의 딜이고 모바일 레전드 같은경우는 란슬롯을 너프를 제대로 먹여야하는데 ㅈㄴ 안먹임...하지만 이게임은 저 게임들보다는 밸런스가 제일 잘맞음..범위가 넓어도 피할수도 잇고..1렙때부터 미친딜을 뿜어내는 놈도 없어서 좋음",
+          "reply": "벤의 존재 이유",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "그거암? 펜타는 나탈리아같은경우 1렙때부터 1스가 무슨 미호 템 2개샀을때의 딜이고 모바일 레전드 같은경우는 란슬롯을 너프를 제대로 먹여야하는데 ㅈㄴ 안먹임...하지만 이게임은 저 게임들보다는 밸런스가 제일 잘맞음..범위가 넓어도 피할수도 잇고..1렙때부터 미친딜을 뿜어내는 놈도 없어서 좋음",
+          "reply": "멘레이키 딜 아픈데..",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "시원시원하게 깔끔한 리뷰에 구독누르고 갑니다 편집실력도 상당하시네요! 멋있어요ㅎ",
+          "reply": "앗.. 감사합니다 하하",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "마이는 언제나 고통받는 캐릭터",
+          "reply": "예시로 딱좋은 캐릭!",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "기대",
+          "comment": "이렇게 말 잘 하는 사람이 1400명밖에 안 되는 믿기지 않네요. 좋아요와 구독 누르고 갑니다. 잘보고갑니다",
+          "reply": "아고 감사합니다 이번영상에 밸런스논란이 좀 있는데 좋게봐주시니 고마워요",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "만든지 얼마되지 않아서 밸런스가 잘맞는거지 모바일 레전드보셈 초반에 벨런스 잘맞다가 캐릭터 많아지면서 망해가고 있잖슴 1년정도 지나봐야 알수있을듯",
+          "reply": "오호.. ㄷㄷ",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "만든지 얼마되지 않아서 밸런스가 잘맞는거지 모바일 레전드보셈 초반에 벨런스 잘맞다가 캐릭터 많아지면서 망해가고 있잖슴 1년정도 지나봐야 알수있을듯",
+          "reply": "@6n23rklp  제가 해보지 않아서 모르겠지만 초반부터 반말하지 말하지 말아주세요 인기 끌은지 얼마되지 않아서 잘 몰랏습니다",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "팩트만 집어서 요약 잘하시네요 구독했습니다!",
+          "reply": "감사합니다!!",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "10분정도 지나면 근접캐릭이 힘을 못쓴다는데 거짓말입니다. 근접캐릭 위주로 사용해본결과 접근 가능하고 원거리캐릭 잡는데 전혀 문제가 없습니다.",
+          "reply": "그렇군요!",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "10분정도 지나면 근접캐릭이 힘을 못쓴다는데 거짓말입니다. 근접캐릭 위주로 사용해본결과 접근 가능하고 원거리캐릭 잡는데 전혀 문제가 없습니다.",
+          "reply": "ㅋㅋ 10분 지나면 근접캐릭 미쳐날뒤는게 천지인데 ㅋㅋ",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "10분정도 지나면 근접캐릭이 힘을 못쓴다는데 거짓말입니다. 근접캐릭 위주로 사용해본결과 접근 가능하고 원거리캐릭 잡는데 전혀 문제가 없습니다.",
+          "reply": "정정이 필요합니다.\n원거리캐릭 잡는데 문제 있습니다.\n원거리캐릭이 고통스러워합니다.\n붙으면 플써도 뒤져요.",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "10분정도 지나면 근접캐릭이 힘을 못쓴다는데 거짓말입니다. 근접캐릭 위주로 사용해본결과 접근 가능하고 원거리캐릭 잡는데 전혀 문제가 없습니다.",
+          "reply": "ㅋㅋㅋ 무슨 소리임 후반가면 갈수록 원딜이 쌔지는데 접근자체가 힘듬",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "10분정도 지나면 근접캐릭이 힘을 못쓴다는데 거짓말입니다. 근접캐릭 위주로 사용해본결과 접근 가능하고 원거리캐릭 잡는데 전혀 문제가 없습니다.",
+          "reply": "@pico1618  이누야샤:? 원딜? 그게뭐죠? 돌진기로 들가서 패시브 3타에 에어본날리는거면 디지든데",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "공포",
+          "comment": "10분정도 지나면 근접캐릭이 힘을 못쓴다는데 거짓말입니다. 근접캐릭 위주로 사용해본결과 접근 가능하고 원거리캐릭 잡는데 전혀 문제가 없습니다.",
+          "reply": "@pico1618  후반가면 원딜 잡는 근딜:이누야샤 요도히메 이 둘 엄청 나오는데 후반에 원딜러만 노리는 싸이코가 이누, 요도히메하면 원딜러 겜 끝날때까지 암것도 못해요",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "10분정도 지나면 근접캐릭이 힘을 못쓴다는데 거짓말입니다. 근접캐릭 위주로 사용해본결과 접근 가능하고 원거리캐릭 잡는데 전혀 문제가 없습니다.",
+          "reply": "@RoseMariTea 원딜 옆에 안 붙어 있는 서폿이 안 지켜줘서 그런 거예여",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "10분정도 지나면 근접캐릭이 힘을 못쓴다는데 거짓말입니다. 근접캐릭 위주로 사용해본결과 접근 가능하고 원거리캐릭 잡는데 전혀 문제가 없습니다.",
+          "reply": "@RoseMariTea  원딜을 물려고 들어가는걸 다른 적팀원들이 그냥 보고있을리가 없지요",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "10분정도 지나면 근접캐릭이 힘을 못쓴다는데 거짓말입니다. 근접캐릭 위주로 사용해본결과 접근 가능하고 원거리캐릭 잡는데 전혀 문제가 없습니다.",
+          "reply": "@pico1618  이누야샤와 요도히메는 전사로 되어있지만 준 암살자입니다. 이누야샤 장인은 탱템 1~2개 후반에가고 딜템을 초반에 가기때문에 충분히 원딜짜르고 뺄 수 있어요 그리고 요도히메 이누야샤는 한타이니쉬 걸기 좋은 식신입니다.",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "10분정도 지나면 근접캐릭이 힘을 못쓴다는데 거짓말입니다. 근접캐릭 위주로 사용해본결과 접근 가능하고 원거리캐릭 잡는데 전혀 문제가 없습니다.",
+          "reply": "@RoseMariTea  호오 그렇군요 :)",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "신뢰",
+          "target": "슬픔",
+          "comment": "오늘도 열일하는 밍모님의 미모☆",
+          "reply": "또릉๑•‿•๑ 통해 공개됐다 등 다양한",
+          "comment_time": "7년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 365
+        },
+        {
+          "timestamp": 2190,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "한번보고 팬됐음^.^",
+          "reply": "이진철",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "한번보고 팬됐음^.^",
+          "reply": "1등은어러워ㅠㅠ",
+          "comment_time": "6년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2190,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "... smg탄버리고 ar탄좀... 많이불편",
+          "reply": "자기 마음이지 니가 뭔상관 ㅋㅌ",
+          "comment_time": "7년 전",
+          "reply_time": "6년 전",
+          "time_diff_days": 365
+        }
+      ]
+    },
+    {
+      "timestamp": 2555,
+      "events": [
+        {
+          "timestamp": 2555,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "오늘도 열일하는 밍모님의 미모☆",
+          "reply": "또릉๑•‿•๑ 드립인가욬ㅋㅋㅋ",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "오늘도 열일하는 밍모님의 미모☆",
+          "reply": "지니[아이유] ㅋㅋ ㅇㅈ",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "오늘도 열일하는 밍모님의 미모☆",
+          "reply": "지니[아이유] 의도치 않은 드립ㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "신뢰",
+          "target": "신뢰",
+          "comment": "오늘도 열일하는 밍모님의 미모☆",
+          "reply": "상큼발랄보빈띄 크흠......ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "오늘도 열일하는 밍모님의 미모☆",
+          "reply": "ㅋ",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "오늘도 열일하는 밍모님의 미모☆",
+          "reply": ".ㅅㅊㄴ",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "오늘도 열일하는 밍모님의 미모☆",
+          "reply": "또릉๑•‿•๑",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "오늘도 열일하는 밍모님의 미모☆",
+          "reply": "또릉๑•‿•๑ ㅑㅑㅑ",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "신뢰",
+          "target": "기대",
+          "comment": "오늘도 열일하는 밍모님의 미모☆",
+          "reply": "또릉๑•‿•๑ 프사 희얼사 바꿔주세요",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "그로자 쓰자 그로자!",
+          "reply": "《》 짭 ㅡ 조 ㅡ 쿠 ㅡ 불 ㅡㅡ 편",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "그로자 쓰자 그로자!",
+          "reply": "그래!!그로자!!(아재만 이해할수있음 난 이해함) \n\n\n\n\n도근도근하네요 ㅎ",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "그로자 쓰자 그로자!",
+          "reply": "보-----------황",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "그로자 쓰자 그로자!",
+          "reply": "보개미 형이 그로자 쓸까? 응 그로자 드립함ㅋㅋ",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "그로자 쓰자 그로자!",
+          "reply": "타유투버 채널에서 우리 개미형 언급하면 짭임 고로 님 짭조쿠 이 최미르스띤 shake it  아",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "기대",
+          "target": "기대",
+          "comment": "그로자 쓰자 그로자!",
+          "reply": "계정9마리  동무 가조쿠닷!",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "그로자 쓰자 그로자!",
+          "reply": "유튜브레임 응응 그로자!!",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "기대",
+          "target": "기대",
+          "comment": "그로자 쓰자 그로자!",
+          "reply": "유튜브레임 그로자 쓸까?  \n응 그로자 ^^",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "밍모님! 혹시 밍모늼도 틴트 바르싀나요....요즘 밍모님 입뚤이 핑쿠핑쿠\n한거 같아서....혹시 바르시면\n어디건지 알 수 있을까요?\n\n\n\n\n\n\n\n\n\n아니...뭐 제가 바른다고 이뻐지는건\n아니지만......어디건지 알수있을까요?\n\n\n\n\n\n\n\n\n\n아니....뭐 색깔이 이뻐서지.....\n그래서 어디건지 알 수 있을까요?\n\n\n\n\n\n\n\n\n\n안바르신다면 밍모님 입뚤 색이나\n입뚤좀 제게 파시는게...어떠실지...",
+          "reply": "다04미 ㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "7년 전(수정됨)",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "밍모님! 혹시 밍모늼도 틴트 바르싀나요....요즘 밍모님 입뚤이 핑쿠핑쿠\n한거 같아서....혹시 바르시면\n어디건지 알 수 있을까요?\n\n\n\n\n\n\n\n\n\n아니...뭐 제가 바른다고 이뻐지는건\n아니지만......어디건지 알수있을까요?\n\n\n\n\n\n\n\n\n\n아니....뭐 색깔이 이뻐서지.....\n그래서 어디건지 알 수 있을까요?\n\n\n\n\n\n\n\n\n\n안바르신다면 밍모님 입뚤 색이나\n입뚤좀 제게 파시는게...어떠실지...",
+          "reply": "다04미 ㄷ",
+          "comment_time": "7년 전(수정됨)",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "밍모님! 혹시 밍모늼도 틴트 바르싀나요....요즘 밍모님 입뚤이 핑쿠핑쿠\n한거 같아서....혹시 바르시면\n어디건지 알 수 있을까요?\n\n\n\n\n\n\n\n\n\n아니...뭐 제가 바른다고 이뻐지는건\n아니지만......어디건지 알수있을까요?\n\n\n\n\n\n\n\n\n\n아니....뭐 색깔이 이뻐서지.....\n그래서 어디건지 알 수 있을까요?\n\n\n\n\n\n\n\n\n\n안바르신다면 밍모님 입뚤 색이나\n입뚤좀 제게 파시는게...어떠실지...",
+          "reply": "다04미 아 개기여ㅋㅋㅋ",
+          "comment_time": "7년 전(수정됨)",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "밍모님! 혹시 밍모늼도 틴트 바르싀나요....요즘 밍모님 입뚤이 핑쿠핑쿠\n한거 같아서....혹시 바르시면\n어디건지 알 수 있을까요?\n\n\n\n\n\n\n\n\n\n아니...뭐 제가 바른다고 이뻐지는건\n아니지만......어디건지 알수있을까요?\n\n\n\n\n\n\n\n\n\n아니....뭐 색깔이 이뻐서지.....\n그래서 어디건지 알 수 있을까요?\n\n\n\n\n\n\n\n\n\n안바르신다면 밍모님 입뚤 색이나\n입뚤좀 제게 파시는게...어떠실지...",
+          "reply": "윤꼬뇽 뀽..???",
+          "comment_time": "7년 전(수정됨)",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "밍모님! 혹시 밍모늼도 틴트 바르싀나요....요즘 밍모님 입뚤이 핑쿠핑쿠\n한거 같아서....혹시 바르시면\n어디건지 알 수 있을까요?\n\n\n\n\n\n\n\n\n\n아니...뭐 제가 바른다고 이뻐지는건\n아니지만......어디건지 알수있을까요?\n\n\n\n\n\n\n\n\n\n아니....뭐 색깔이 이뻐서지.....\n그래서 어디건지 알 수 있을까요?\n\n\n\n\n\n\n\n\n\n안바르신다면 밍모님 입뚤 색이나\n입뚤좀 제게 파시는게...어떠실지...",
+          "reply": "다04미님",
+          "comment_time": "7년 전(수정됨)",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "밍모님! 혹시 밍모늼도 틴트 바르싀나요....요즘 밍모님 입뚤이 핑쿠핑쿠\n한거 같아서....혹시 바르시면\n어디건지 알 수 있을까요?\n\n\n\n\n\n\n\n\n\n아니...뭐 제가 바른다고 이뻐지는건\n아니지만......어디건지 알수있을까요?\n\n\n\n\n\n\n\n\n\n아니....뭐 색깔이 이뻐서지.....\n그래서 어디건지 알 수 있을까요?\n\n\n\n\n\n\n\n\n\n안바르신다면 밍모님 입뚤 색이나\n입뚤좀 제게 파시는게...어떠실지...",
+          "reply": "문철수 넴?",
+          "comment_time": "7년 전(수정됨)",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "소음기 개좋음",
+          "reply": "배해솔 총구소음줄여줌",
+          "comment_time": "7년 전(수정됨)",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "소음기 개좋음",
+          "reply": "배해솔 적을 소면 제 위치가 적한테 보이지 않아요",
+          "comment_time": "7년 전(수정됨)",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "소음기 개좋음",
+          "reply": "꽃율[워너원] 근데 뎀지 줄어드눈 감이 있어요",
+          "comment_time": "7년 전(수정됨)",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "소음기 개좋음",
+          "reply": "han-kyul jang ???",
+          "comment_time": "7년 전(수정됨)",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "... smg탄버리고 ar탄좀... 많이불편",
+          "reply": "앞글자 대문자로 쓰삼 많이불편",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "... smg탄버리고 ar탄좀... 많이불편",
+          "reply": "저런건 기본으로 해줘야시 프파에 실력자들이 얼마나많은데..",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "... smg탄버리고 ar탄좀... 많이불편",
+          "reply": "수tv 어쩔 밍모님 마음 뭐 니네 엄마한테 \"엄마 네 마음 이니까 다버려\" 그거 랑 똑같은거네",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "... smg탄버리고 ar탄좀... 많이불편",
+          "reply": "수tv 갈수록 님 댓글이 짜증나네",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "... smg탄버리고 ar탄좀... 많이불편",
+          "reply": "수tv 불편하면 ㄲㅈ",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "분노",
+          "target": "분노",
+          "comment": "프파하던 애들이 배그로 넘어와서 마체테보고 마셰티라고 하는거 좆나 꼴보기싫음",
+          "reply": "별게 다 꼴보기싫네 ㅋㅋㅋ",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "프파하던 애들이 배그로 넘어와서 마체테보고 마셰티라고 하는거 좆나 꼴보기싫음",
+          "reply": "최성빈 배그는 해봄? ㅋㅋ",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "분노",
+          "target": "기쁨",
+          "comment": "프파하던 애들이 배그로 넘어와서 마체테보고 마셰티라고 하는거 좆나 꼴보기싫음",
+          "reply": "건전한유투버 팩트 죠진다 ㅋㅋㅋ 초딩정의구현 부탁드려욤",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "프파하던 애들이 배그로 넘어와서 마체테보고 마셰티라고 하는거 좆나 꼴보기싫음",
+          "reply": "마체테 마세티라고도 부르는데\n둘다 정식명칭인데",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "분노",
+          "target": "공포",
+          "comment": "프파하던 애들이 배그로 넘어와서 마체테보고 마셰티라고 하는거 좆나 꼴보기싫음",
+          "reply": "황수현  인정  프파충 영알못 총알못",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "분노",
+          "target": "기쁨",
+          "comment": "프파하던 애들이 배그로 넘어와서 마체테보고 마셰티라고 하는거 좆나 꼴보기싫음",
+          "reply": "야나 카베하는데 친추보내 AWS5임",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "프파하던 애들이 배그로 넘어와서 마체테보고 마셰티라고 하는거 좆나 꼴보기싫음",
+          "reply": "김민성 카배야",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "프파하던 애들이 배그로 넘어와서 마체테보고 마셰티라고 하는거 좆나 꼴보기싫음",
+          "reply": "마체텐지 마셰티인지 나는 알필요가 없고 겨우 그딴걸로 불편하면 세상 사는데 많이 힘들겠네 ~ ㅋㅋ",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "프파하던 애들이 배그로 넘어와서 마체테보고 마셰티라고 하는거 좆나 꼴보기싫음",
+          "reply": "아 이건 진짜 ㅇㅈ",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2555,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "프파하던 애들이 배그로 넘어와서 마체테보고 마셰티라고 하는거 좆나 꼴보기싫음",
+          "reply": "정보밥",
+          "comment_time": "7년 전",
+          "reply_time": "7년 전",
+          "time_diff_days": 1
+        }
+      ]
+    }
+  ]
+}

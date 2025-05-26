@@ -1,32 +1,31 @@
-'use client'
+'use client';
 
 import Link from "next/link";
-import { useEffect, useState } from "react";
 
-export default function HomePage() {
-  const [files, setFiles] = useState<string[]>([]);
-
-  useEffect(() => {
-    fetch("/data/index.json")
-      .then((res) => res.json())
-      .then(setFiles)
-      .catch((err) => {
-        console.error("❌ index.json 로드 실패:", err);
-      });
-  }, []);
-
+export default function EmotionHomePage() {
   return (
-    <main className="p-6">
-      <h1 className="text-2xl font-bold mb-4">🧠 감정 전파 그래프 시각화</h1>
-      <ul className="list-disc pl-6 space-y-2">
-        {files.map((file) => (
-          <li key={file}>
-            <Link href={`/emotion/${file}`} className="text-blue-600 underline">
-              {file}
-            </Link>
-          </li>
-        ))}
-      </ul>
+    <main style={{ padding: 40 }}>
+      <h1 style={{ fontSize: 30, fontWeight: 700, marginBottom: 32 }}>
+        🧠 감정 전파 그래프 시각화
+      </h1>
+      <div style={{ display: "flex", gap: 30 }}>
+        <Link href="/content">
+          <button style={{
+            fontSize: 20, padding: "18px 44px", borderRadius: 14,
+            background: "#488bfc", color: "#fff", fontWeight: 700, border: "none", cursor: "pointer"
+          }}>
+            콘텐츠별 시각화
+          </button>
+        </Link>
+        <Link href="/thema">
+          <button style={{
+            fontSize: 20, padding: "18px 44px", borderRadius: 14,
+            background: "#ffbc42", color: "#333", fontWeight: 700, border: "none", cursor: "pointer"
+          }}>
+            테마별 시각화
+          </button>
+        </Link>
+      </div>
     </main>
   );
 }

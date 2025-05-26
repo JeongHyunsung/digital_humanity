@@ -1,0 +1,3576 @@
+{
+  "nodes": [
+    {
+      "id": "공포",
+      "label": "공포",
+      "group": "emotion"
+    },
+    {
+      "id": "기대",
+      "label": "기대",
+      "group": "emotion"
+    },
+    {
+      "id": "기쁨",
+      "label": "기쁨",
+      "group": "emotion"
+    },
+    {
+      "id": "놀람",
+      "label": "놀람",
+      "group": "emotion"
+    },
+    {
+      "id": "분노",
+      "label": "분노",
+      "group": "emotion"
+    },
+    {
+      "id": "슬픔",
+      "label": "슬픔",
+      "group": "emotion"
+    },
+    {
+      "id": "신뢰",
+      "label": "신뢰",
+      "group": "emotion"
+    },
+    {
+      "id": "혐오",
+      "label": "혐오",
+      "group": "emotion"
+    }
+  ],
+  "frames": [
+    {
+      "timestamp": 1,
+      "events": [
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "우주항행이 가능하고 지구를 한 순간에 무력화하는 emp도 갖춘 외계인 군단이 실제론 땅바닥 기어다니는 갑각류인 게 무슨 문제라도?",
+          "reply": "드라마보면 저 갑각류 외계벌레보고 우린 아직도 진짜 적을 못만났어 하는 부블이 있긴합니다",
+          "comment_time": "2일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "지금 볼 수 있는 곳이 없네요",
+          "reply": "아마존 프라임에있어요.",
+          "comment_time": "4개월 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 119
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "브레이킹 배드, 배터콜 사울 \n아 끝났다고 생각했는데 마지막 선물 영화 엘카미노 까지 완벽했어요",
+          "reply": "엘카미노 재밋나요?",
+          "comment_time": "3개월 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 89
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "역시 쿨한척 아무렇지도 않은 척이 제일 짜친다 ㅎㅎㅎ",
+          "reply": "문화가 다르니 어쩔수없는듯 한국인감성은 아닌득",
+          "comment_time": "3일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 2
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "침봉으로 찌르는데 일본 스럽다.. ㅋㅋ 한국 드라마는 절대 저런 전개 못나옴",
+          "reply": "진짜 담담하게 조용히 보다 노어이ㅋㅋㅋ",
+          "comment_time": "3일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 2
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "실제로 저 둘은 저 작품서 만나서 열애설없이 결혼했죠ㅋㅋ 타카하타 미즈키 배우는 사카쿠치 켄타로 배우랑 결혼전제 연애해서 결혼까지 할 줄알았는데 오카다 마사키 배우랑 결혼해서 사는거보면 인연은 진짜 따로  있나봐요ㅋㅋㅋㅋㅋ",
+          "reply": "미츠키 배우가 사카구치 켄타로 배우랑 나가노메이 배우가 친하게 사적으로 만나는거때문에 헤어졌다는 카더라가 있습니다. 처음에는 루머라고 여겼으나.. 나가노메이가 다나카케이랑 불륜이 터지면서.. 사실일 수도 있다 생각이 드네요.",
+          "comment_time": "3일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 2
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "여기 신병3 출연진 많이 나오노ㅋㅋㅋㅋ",
+          "reply": "언제 보신거야 방금 다 보고 왔는데ㄷㄷ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "풀영상 링크입니다!!\n티빙 : https://www.tving.com/contents/P001746392\n\n쿠팡플레이 : https://www.coupangplay.com/titles/eb6e23a2-9605-4614-b760-5ed1ae1b23df?type=TVSHOW&availability=SVOD&live=&channel=&rowId=page_search%3ARECENT_RELEASED%3A1746182492693%3Arecent_added&trackId=page_search%3ARECENT_RELEASED%3A1746182492693%3Arecent_added&src=page_search_grouping&sourceType=page_discover_title_detail%3Apage_search&supportLive=",
+          "reply": "6",
+          "comment_time": "2주 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 13
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "이런 드라마 다들 좋다고 해서 보면 시시했는데 이건 명작임. 연기, 스토리전개 둘다 최고.\n아직도 기억나는 대사 \"나무 낮게 판거 아냐\"",
+          "reply": "나무요?",
+          "comment_time": "5일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 4
+        },
+        {
+          "timestamp": 1,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "보고싶은데 설경구나와서 안봤네요",
+          "reply": "이런글 남기지 말죠?초딩인가",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "보고싶은데 설경구나와서 안봤네요",
+          "reply": "왜요? 개인적인 의견인데 송윤아 나오는것도 다 걸러요",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "역시 쿨한척 아무렇지도 않은 척이 제일 짜친다 ㅎㅎㅎ",
+          "reply": "문화가 다르니 어쩔수없는듯 한국인감성은 아닌득",
+          "comment_time": "3일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 2
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "침봉으로 찌르는데 일본 스럽다.. ㅋㅋ 한국 드라마는 절대 저런 전개 못나옴",
+          "reply": "진짜 담담하게 조용히 보다 노어이ㅋㅋㅋ",
+          "comment_time": "3일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 2
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "실제로 저 둘은 저 작품서 만나서 열애설없이 결혼했죠ㅋㅋ 타카하타 미즈키 배우는 사카쿠치 켄타로 배우랑 결혼전제 연애해서 결혼까지 할 줄알았는데 오카다 마사키 배우랑 결혼해서 사는거보면 인연은 진짜 따로  있나봐요ㅋㅋㅋㅋㅋ",
+          "reply": "미츠키 배우가 사카구치 켄타로 배우랑 나가노메이 배우가 친하게 사적으로 만나는거때문에 헤어졌다는 카더라가 있습니다. 처음에는 루머라고 여겼으나.. 나가노메이가 다나카케이랑 불륜이 터지면서.. 사실일 수도 있다 생각이 드네요.",
+          "comment_time": "3일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 2
+        }
+      ]
+    },
+    {
+      "timestamp": 2,
+      "events": [
+        {
+          "timestamp": 2,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "숨만잘쉬어지는구만  치~",
+          "reply": "앞글이 삭제됐구만 ~~ 감기 걸려서 숨도 못쉬고 봤음~~~",
+          "comment_time": "2일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "숨은 좀 쉬자",
+          "reply": "영화볼땐 숨은 않된다 형법 중간쯤 나오는  항목인데 모르셨구나 이제 알았으니 영화를 볼땐 숨은 않되요",
+          "comment_time": "2일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "숨은 좀 쉬자",
+          "reply": "@윤할방",
+          "comment_time": "2일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "왕좌의 게임이 진짜 최고였지만.... 마지막 시즌 때문에... ㅜㅜ... \n진짜 미드 시즌 기다리면서 본 유일한 작품인데..",
+          "reply": "왕겜은 원작이 전체 이야기의 60프로밖에 진행이 안되서 드라마가 공백을 못 매꿈",
+          "comment_time": "3개월 전",
+          "reply_time": "2일 전(수정됨)",
+          "time_diff_days": 88
+        },
+        {
+          "timestamp": 2,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "김쟌, Ji_a Lee, luke, ㅁㄴㅇㄹ, 우는새 님! 비밀친구(멤버십)가 돼주셔서 감사합니다!\n\n 신기누설의 비밀친구(멤버십)\n 결말까지 끝까지 다룬 영상, 미공개 영상, 선공개 영상 등등...",
+          "reply": "헐 이해불가데 저게현실",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "역시 쿨한척 아무렇지도 않은 척이 제일 짜친다 ㅎㅎㅎ",
+          "reply": "완전 잔잔한 아침 드라마 느낌 나네요 ㅋㅋㅋㅋ 분위기 좋음!",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "아무생각 없이 보다가 너무 놀라다가 점점 이럴수도 있겠다 싶은 내가 또라이 같다 ㅋㅋㅋ",
+          "reply": "이럴수도 있는게 현실이죠 ㅋㅋㅋ그게 사람 본성이니까",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "아무생각 없이 보다가 너무 놀라다가 점점 이럴수도 있겠다 싶은 내가 또라이 같다 ㅋㅋㅋ",
+          "reply": "ㅋㅋㅋ진심 문화와 주변인들ㅇ 중요함 ㅋㅋㅋ",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "부부관계  거부하면서    정상적인   결혼생활을  기대한다는  생각이  엉뚱하네요 ㅋㅋㅋ",
+          "reply": "그렇죠\n저 부부는 부부라기 보다 \n나를 사랑해줘\n내가 뭔 짓을 하거나 말거나 나만 예뻐해줘 집에 오면 심심하지 않게 이야기도 해주고 같이 밥 먹어 주고 투정받아줘\n등등 상대방이 자기 부모의 역할을 은연중에 기대하고 있는 것 같기도 합니다\n그러니\n부부라는 가정이라는 걸 생각하지 않고 사는 것 같은 사람들 같아요\n여자는 남편이 밤잠자리를 거절당해서 힘들어 하는 것 보고 밖에 나가서 딴여자하고 잠자리를 가져라 하는 걸 보면 여자가 \n소패 사패를 넘어서 어떤 뭔가 정신적 결함이 있는 사람 아닌지… \n저런 말을 듣는 남편의 기분을 전혀 이해하지 못하는  게 쿨하고 멋있게 보인다고 생각을 하는건지 … \n저걸 사회적인 문제점이라고 말한다는 것도 참",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "특이하네요... 나라가 다르면 생각하는게 이렇게나 다를 수 있군요... 잔잔한 막장 잘 봤습니다.",
+          "reply": "@박은정-u5q1e ㅋㅋㅋㅋㅋㅋ 잔잔한 막장 ㅋㅋ 맞네요..",
+          "comment_time": "2일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "정말 우리정서랑 안맞는건지 나랑 안맞는건지..보고 있자니 백만년이 흐른거같아요...",
+          "reply": "그냥 한국정서랑 안맞는거 같아여... 아님 일본이 성에관해선 확실히 한국보단 열려있어서 그런거같기도하고",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "재밌어요ㅋㅋㅋㅋ 전개가 신선함ㅋㅋ",
+          "reply": "안타까운 대댓이네",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "@bellelavieest4768  일본 남자랑 국제결혼하고 17년째 일본 거주중인데 확실히 한국보다 불륜에 오픈된건 맞아요... 애셋 딸린 유부녀인거 뻔히 아는데 들이대는 남자들 있었습니다. 심지어 남편 친구;;; 우리 남편한테도 뭐... 한국은 그래도 바람피는 사람들이 따로 있지 않나요?",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "@sung-heekim4772  헐 충격적이네요 그렇게 대놓고 ㄷㄷ",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "@sung-heekim4772 이분말이 정답인득 ㅋㅋㅋ",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "ㅋㅋ",
+          "reply": "ㅋㅋ",
+          "comment_time": "2일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "스토리  꽝. . .뭐  새로운건  없네. . .",
+          "reply": "ㅜㅜ",
+          "comment_time": "2일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "ㅋㅋ",
+          "reply": "ㅋㅋ",
+          "comment_time": "2일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "스토리  꽝. . .뭐  새로운건  없네. . .",
+          "reply": "ㅜㅜ",
+          "comment_time": "2일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "아니 이렇게 기가맥힌 드라마 리뷰에 조회수랑 댓글수가 왜이럼?",
+          "reply": "ㅇㅈ",
+          "comment_time": "6일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 4
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "목뒤에 문신은 뭔 뜻이여?",
+          "reply": "줄거리인데... \n그 복선을 빼먹은 줄거리인듯 합니다. \n원본보고 직접 찾으셔야 할 듯.",
+          "comment_time": "4일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 2
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "마지막에 경구형 살은거 맞죠?",
+          "reply": "네 작가님이 그렇게 말했어요",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "박은빈 연기는 좋은데 설경구한테 그냥 어린애가 발악하는느낌밖에 안드네",
+          "reply": "어린아이같은 면이 있는 캐릭이니까요",
+          "comment_time": "5일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 3
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "한석규가 이연기를 했어야 돼는데",
+          "reply": "맞네",
+          "comment_time": "5일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 3
+        },
+        {
+          "timestamp": 2,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "김쟌, Ji_a Lee, luke, ㅁㄴㅇㄹ, 우는새 님! 비밀친구(멤버십)가 돼주셔서 감사합니다!\n\n 신기누설의 비밀친구(멤버십)\n 결말까지 끝까지 다룬 영상, 미공개 영상, 선공개 영상 등등...",
+          "reply": "헐 이해불가데 저게현실",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "역시 쿨한척 아무렇지도 않은 척이 제일 짜친다 ㅎㅎㅎ",
+          "reply": "완전 잔잔한 아침 드라마 느낌 나네요 ㅋㅋㅋㅋ 분위기 좋음!",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "아무생각 없이 보다가 너무 놀라다가 점점 이럴수도 있겠다 싶은 내가 또라이 같다 ㅋㅋㅋ",
+          "reply": "이럴수도 있는게 현실이죠 ㅋㅋㅋ그게 사람 본성이니까",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "아무생각 없이 보다가 너무 놀라다가 점점 이럴수도 있겠다 싶은 내가 또라이 같다 ㅋㅋㅋ",
+          "reply": "ㅋㅋㅋ진심 문화와 주변인들ㅇ 중요함 ㅋㅋㅋ",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "부부관계  거부하면서    정상적인   결혼생활을  기대한다는  생각이  엉뚱하네요 ㅋㅋㅋ",
+          "reply": "그렇죠\n저 부부는 부부라기 보다 \n나를 사랑해줘\n내가 뭔 짓을 하거나 말거나 나만 예뻐해줘 집에 오면 심심하지 않게 이야기도 해주고 같이 밥 먹어 주고 투정받아줘\n등등 상대방이 자기 부모의 역할을 은연중에 기대하고 있는 것 같기도 합니다\n그러니\n부부라는 가정이라는 걸 생각하지 않고 사는 것 같은 사람들 같아요\n여자는 남편이 밤잠자리를 거절당해서 힘들어 하는 것 보고 밖에 나가서 딴여자하고 잠자리를 가져라 하는 걸 보면 여자가 \n소패 사패를 넘어서 어떤 뭔가 정신적 결함이 있는 사람 아닌지… \n저런 말을 듣는 남편의 기분을 전혀 이해하지 못하는  게 쿨하고 멋있게 보인다고 생각을 하는건지 … \n저걸 사회적인 문제점이라고 말한다는 것도 참",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "특이하네요... 나라가 다르면 생각하는게 이렇게나 다를 수 있군요... 잔잔한 막장 잘 봤습니다.",
+          "reply": "@박은정-u5q1e ㅋㅋㅋㅋㅋㅋ 잔잔한 막장 ㅋㅋ 맞네요..",
+          "comment_time": "2일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "정말 우리정서랑 안맞는건지 나랑 안맞는건지..보고 있자니 백만년이 흐른거같아요...",
+          "reply": "그냥 한국정서랑 안맞는거 같아여... 아님 일본이 성에관해선 확실히 한국보단 열려있어서 그런거같기도하고",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "재밌어요ㅋㅋㅋㅋ 전개가 신선함ㅋㅋ",
+          "reply": "안타까운 대댓이네",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "@bellelavieest4768  일본 남자랑 국제결혼하고 17년째 일본 거주중인데 확실히 한국보다 불륜에 오픈된건 맞아요... 애셋 딸린 유부녀인거 뻔히 아는데 들이대는 남자들 있었습니다. 심지어 남편 친구;;; 우리 남편한테도 뭐... 한국은 그래도 바람피는 사람들이 따로 있지 않나요?",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "@sung-heekim4772  헐 충격적이네요 그렇게 대놓고 ㄷㄷ",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "@sung-heekim4772 이분말이 정답인득 ㅋㅋㅋ",
+          "comment_time": "3일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 3,
+      "events": [
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "아무생각 없이 보다가 너무 놀라다가 점점 이럴수도 있겠다 싶은 내가 또라이 같다 ㅋㅋㅋ",
+          "reply": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ아 개웃곀",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "아무생각 없이 보다가 너무 놀라다가 점점 이럴수도 있겠다 싶은 내가 또라이 같다 ㅋㅋㅋ",
+          "reply": "그만큼 잘 만들었다는 뜻ㅋㅋ",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "침봉을 선물할때부터 쌔하더니ㅋㅋㅋㅋㅋ아 빵터졌ㅋ일드답다",
+          "reply": "ㅋㅋㅋㄹㅇㅋㅋㅋㅋㅋ갑자기 스릴러물됨",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "침봉을 선물할때부터 쌔하더니ㅋㅋㅋㅋㅋ아 빵터졌ㅋ일드답다",
+          "reply": "ㅈㄴ욱김시밬ㅋㅋㅋ",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "부부관계  거부하면서    정상적인   결혼생활을  기대한다는  생각이  엉뚱하네요 ㅋㅋㅋ",
+          "reply": "그니깐여",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "정말 우리정서랑 안맞는건지 나랑 안맞는건지..보고 있자니 백만년이 흐른거같아요...",
+          "reply": "제말이  ...저만 그런거 아니었네요",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "정말 우리정서랑 안맞는건지 나랑 안맞는건지..보고 있자니 백만년이 흐른거같아요...",
+          "reply": "기괴하고 잔혹한데\n조용하고 잔잔하게 미화시킨 게 정서에 맞다고 하면 사이코에 가까운 것이지요.",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "분노",
+          "comment": "정말 우리정서랑 안맞는건지 나랑 안맞는건지..보고 있자니 백만년이 흐른거같아요...",
+          "reply": "한국의 성에 대한 인식과 문화가 그런 폐쇄성이 있죠. 한국 문화에서 자란 사람들은 이 영화를 보며 자기랑 잘 맞는다고 생각할 수가 없을 거에요.\n\n이미 '인간이라면 보편적으로 이래야 하는 게 아니냐' 라고 정해놓은 연애 결혼 에 대한 바람직한 상이 있고, 그것과 맞지 않은 상황들에 대해서는  \"문란하다, 더럽다, 어떻게 그런 생각을 할 수가 있냐\" 라는,  그런 대화를 하는 것 조차 불경하다는 분위기가 만들어지죠. 한 예로 '일부다처제에 대해 어떻게 생각하냐' 와 같은 이야기만 나와도, 이에 대한 논리적인 대화보다는  무지성적인 인신공격이나, 더 나아가 그런 화두를 던진 사람이 남자인 경우에 '일부다처제되면 니가 결혼이나 할것같아?'와 같이 비방성 발언을 쏟아내는 사람도 많고요.\n\n전 딱히 어떤 방식을 더 옹호하거나 더 개방적인 성 문화로 바뀌어야한다 이런 주장을 하는 건 아닙니다. 다만 성 문화에 대해 기존과 조금이라도 달라보이는 주장만 나오면 일단 거부감부터 들고 대화조차 꺼내는 걸 금기시하는 한국의 이런 문화가, 자칫 '우리만 정상이고 이것과 다른 방식은 문란하거나 야만적이다'  라는 무조건적인 배척으로 가는 게 조금 걱정이 됩니다. 모두들 쉬쉬하더라도 결국은 음지에서 서서히 몸집을 불려나갈 것 같아서요..",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "정말 우리정서랑 안맞는건지 나랑 안맞는건지..보고 있자니 백만년이 흐른거같아요...",
+          "reply": "설정은 이해가 안갈 수도 있겠지만\n저렇게 솔직해지는것 조차 못하는 한국도 답답해요.",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "정말 우리정서랑 안맞는건지 나랑 안맞는건지..보고 있자니 백만년이 흐른거같아요...",
+          "reply": "@따뜻한레몬  \n따분 지루",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "일본인 진짜 그렇더라구요.",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "@skystar9594  그래서 좋은데요...",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "저도 너무 편안해서 좋았어요",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "기괴함",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "앞뒤가 다른 일본인",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "맨날 소리치고 울부짖는 광경만 나오는 한국드라마가 더 이상...",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "한국사람과일본사람은 감정을 표현하는 방식이 너무 틀린 민족입니다..",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "@skystar9594  그게 왜이상?",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "화내는 장면이 없는것보다 자신의 외도가 아무렇지 않은게 더 이상.. 상대는 쓰레기라 그렇다치고 자기도 스스럼없이 외도라니 참..",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "재밌어요ㅋㅋㅋㅋ 전개가 신선함ㅋㅋ",
+          "reply": "당신의 가정사가 되도 신선할 수 있겠지요.",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "공포",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "전혀 그러지 않을 거 같은 사람이 그러니까 더 무섭죠ㅠㅠ",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "저게 문화라고 하기에는 어렵지 않을까요. 글로리보고 그 정도 수준의 학폭이 한국에선 일반적이냐 하던 외국인들 말을 생각해보면 우리가 속하지 않은 외국이라는 타집단을 지나치게 일반화하는 거죠.",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "@shh4350  혼혈인데. 저런 불륜문화 굉장히  흔해요..한국이랑 다릅니다 ㅜㅜ",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "혐오",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "공감합니다. 많이 문란하기도 하고요\n일본남자는 진짜 무리",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "@111min5   한국이랑 다르다니...ㅎㅎㅎ\n한국을 잘 모르시나봐요 ㅠ\n먼 곳으로 여행간다는건 거진 바람이랍니다 ㅎ\n오빠라는 호칭도 거진 불륜커플끼리 쓰고요,\n오피라고 들어보셨나요, 돈많은 남자들이 (거진 유부남) 집구해주고 용돈주면서 여자 서포트하는건데..\n산에가서 손잡으면 90 퍼 불륜입니다...\n그래서 산밑에 모텔이 많죠? ㅎㅎ",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "어느나라나 불륜은 있는데 한국은 그래도 대부분의 사람이 음지에서 모르게하는데 일본은 뭐랄까...문화나 취향같은 느낌이있어요. 모든 사람이 그런건 아니긴 하지만요...",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "실제로 저 둘은 저 작품서 만나서 열애설없이 결혼했죠ㅋㅋ 타카하타 미즈키 배우는 사카쿠치 켄타로 배우랑 결혼전제 연애해서 결혼까지 할 줄알았는데 오카다 마사키 배우랑 결혼해서 사는거보면 인연은 진짜 따로  있나봐요ㅋㅋㅋㅋㅋ",
+          "reply": "그니까요ㅋㅋ 저도 열애설 전혀 없다가 갑자기 결혼 발표나와서 놀랐어요ㅋㅋ",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "실제로 저 둘은 저 작품서 만나서 열애설없이 결혼했죠ㅋㅋ 타카하타 미즈키 배우는 사카쿠치 켄타로 배우랑 결혼전제 연애해서 결혼까지 할 줄알았는데 오카다 마사키 배우랑 결혼해서 사는거보면 인연은 진짜 따로  있나봐요ㅋㅋㅋㅋㅋ",
+          "reply": "앜ㅋㅋㅋ 저도 이\n작품이구나??? 싶었어요 ㅋㅋㅋㅋㅋ",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "기대",
+          "target": "기대",
+          "comment": "둘다 연기미쳤고, 목소리 매력있는데. 와...설경구는 어쩜 저렇게 사람과 사람 연기케미가 빛나지? 목소리와 눈빛때문에 그런가? 누구와 연기해도 디폴트가 불안정한애증이 있다..임시완,김남길,천우희,전도연,박은빈...개인적으론 전도연, 임시완 연기캐미는 잊지못함. 물론 캐릭터자체(진지함과 똘끼, 잔인함과 나약함, 냉소와 유머 있는 캐릭터)가 매력있었지만 설경구가 아니면 저런 복잡한 위태로움을 씁쓸한미소로 다 표현할수 있을까?",
+          "reply": "님 댓글 진짜 완전 공감요!! 전도연, 임시완 진짜 너무 잘 어울렸어요. 설경구 배우 너무 좋음!",
+          "comment_time": "6일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 3
+        },
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "아무생각 없이 보다가 너무 놀라다가 점점 이럴수도 있겠다 싶은 내가 또라이 같다 ㅋㅋㅋ",
+          "reply": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ아 개웃곀",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "아무생각 없이 보다가 너무 놀라다가 점점 이럴수도 있겠다 싶은 내가 또라이 같다 ㅋㅋㅋ",
+          "reply": "그만큼 잘 만들었다는 뜻ㅋㅋ",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "침봉을 선물할때부터 쌔하더니ㅋㅋㅋㅋㅋ아 빵터졌ㅋ일드답다",
+          "reply": "ㅋㅋㅋㄹㅇㅋㅋㅋㅋㅋ갑자기 스릴러물됨",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "침봉을 선물할때부터 쌔하더니ㅋㅋㅋㅋㅋ아 빵터졌ㅋ일드답다",
+          "reply": "ㅈㄴ욱김시밬ㅋㅋㅋ",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "부부관계  거부하면서    정상적인   결혼생활을  기대한다는  생각이  엉뚱하네요 ㅋㅋㅋ",
+          "reply": "그니깐여",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "정말 우리정서랑 안맞는건지 나랑 안맞는건지..보고 있자니 백만년이 흐른거같아요...",
+          "reply": "제말이  ...저만 그런거 아니었네요",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "정말 우리정서랑 안맞는건지 나랑 안맞는건지..보고 있자니 백만년이 흐른거같아요...",
+          "reply": "기괴하고 잔혹한데\n조용하고 잔잔하게 미화시킨 게 정서에 맞다고 하면 사이코에 가까운 것이지요.",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "분노",
+          "comment": "정말 우리정서랑 안맞는건지 나랑 안맞는건지..보고 있자니 백만년이 흐른거같아요...",
+          "reply": "한국의 성에 대한 인식과 문화가 그런 폐쇄성이 있죠. 한국 문화에서 자란 사람들은 이 영화를 보며 자기랑 잘 맞는다고 생각할 수가 없을 거에요.\n\n이미 '인간이라면 보편적으로 이래야 하는 게 아니냐' 라고 정해놓은 연애 결혼 에 대한 바람직한 상이 있고, 그것과 맞지 않은 상황들에 대해서는  \"문란하다, 더럽다, 어떻게 그런 생각을 할 수가 있냐\" 라는,  그런 대화를 하는 것 조차 불경하다는 분위기가 만들어지죠. 한 예로 '일부다처제에 대해 어떻게 생각하냐' 와 같은 이야기만 나와도, 이에 대한 논리적인 대화보다는  무지성적인 인신공격이나, 더 나아가 그런 화두를 던진 사람이 남자인 경우에 '일부다처제되면 니가 결혼이나 할것같아?'와 같이 비방성 발언을 쏟아내는 사람도 많고요.\n\n전 딱히 어떤 방식을 더 옹호하거나 더 개방적인 성 문화로 바뀌어야한다 이런 주장을 하는 건 아닙니다. 다만 성 문화에 대해 기존과 조금이라도 달라보이는 주장만 나오면 일단 거부감부터 들고 대화조차 꺼내는 걸 금기시하는 한국의 이런 문화가, 자칫 '우리만 정상이고 이것과 다른 방식은 문란하거나 야만적이다'  라는 무조건적인 배척으로 가는 게 조금 걱정이 됩니다. 모두들 쉬쉬하더라도 결국은 음지에서 서서히 몸집을 불려나갈 것 같아서요..",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "정말 우리정서랑 안맞는건지 나랑 안맞는건지..보고 있자니 백만년이 흐른거같아요...",
+          "reply": "설정은 이해가 안갈 수도 있겠지만\n저렇게 솔직해지는것 조차 못하는 한국도 답답해요.",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "정말 우리정서랑 안맞는건지 나랑 안맞는건지..보고 있자니 백만년이 흐른거같아요...",
+          "reply": "@따뜻한레몬  \n따분 지루",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "일본인 진짜 그렇더라구요.",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "@skystar9594  그래서 좋은데요...",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "저도 너무 편안해서 좋았어요",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "기괴함",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "앞뒤가 다른 일본인",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "맨날 소리치고 울부짖는 광경만 나오는 한국드라마가 더 이상...",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "한국사람과일본사람은 감정을 표현하는 방식이 너무 틀린 민족입니다..",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "@skystar9594  그게 왜이상?",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "화내는 장면이 하나도 안나오고 모든걸 조곤조곤 말하는게 정말 이상...",
+          "reply": "화내는 장면이 없는것보다 자신의 외도가 아무렇지 않은게 더 이상.. 상대는 쓰레기라 그렇다치고 자기도 스스럼없이 외도라니 참..",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "재밌어요ㅋㅋㅋㅋ 전개가 신선함ㅋㅋ",
+          "reply": "당신의 가정사가 되도 신선할 수 있겠지요.",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "공포",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "전혀 그러지 않을 거 같은 사람이 그러니까 더 무섭죠ㅠㅠ",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "저게 문화라고 하기에는 어렵지 않을까요. 글로리보고 그 정도 수준의 학폭이 한국에선 일반적이냐 하던 외국인들 말을 생각해보면 우리가 속하지 않은 외국이라는 타집단을 지나치게 일반화하는 거죠.",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "@shh4350  혼혈인데. 저런 불륜문화 굉장히  흔해요..한국이랑 다릅니다 ㅜㅜ",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "혐오",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "공감합니다. 많이 문란하기도 하고요\n일본남자는 진짜 무리",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "@111min5   한국이랑 다르다니...ㅎㅎㅎ\n한국을 잘 모르시나봐요 ㅠ\n먼 곳으로 여행간다는건 거진 바람이랍니다 ㅎ\n오빠라는 호칭도 거진 불륜커플끼리 쓰고요,\n오피라고 들어보셨나요, 돈많은 남자들이 (거진 유부남) 집구해주고 용돈주면서 여자 서포트하는건데..\n산에가서 손잡으면 90 퍼 불륜입니다...\n그래서 산밑에 모텔이 많죠? ㅎㅎ",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "침봉은 너무 쇼킹하고 소름끼쳤어요. 조용하고 얌전하다는 일본 여성들 가끔 저런 비슷한 이야기 들을때면 너무 무섭더라구요.",
+          "reply": "어느나라나 불륜은 있는데 한국은 그래도 대부분의 사람이 음지에서 모르게하는데 일본은 뭐랄까...문화나 취향같은 느낌이있어요. 모든 사람이 그런건 아니긴 하지만요...",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "실제로 저 둘은 저 작품서 만나서 열애설없이 결혼했죠ㅋㅋ 타카하타 미즈키 배우는 사카쿠치 켄타로 배우랑 결혼전제 연애해서 결혼까지 할 줄알았는데 오카다 마사키 배우랑 결혼해서 사는거보면 인연은 진짜 따로  있나봐요ㅋㅋㅋㅋㅋ",
+          "reply": "그니까요ㅋㅋ 저도 열애설 전혀 없다가 갑자기 결혼 발표나와서 놀랐어요ㅋㅋ",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 3,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "실제로 저 둘은 저 작품서 만나서 열애설없이 결혼했죠ㅋㅋ 타카하타 미즈키 배우는 사카쿠치 켄타로 배우랑 결혼전제 연애해서 결혼까지 할 줄알았는데 오카다 마사키 배우랑 결혼해서 사는거보면 인연은 진짜 따로  있나봐요ㅋㅋㅋㅋㅋ",
+          "reply": "앜ㅋㅋㅋ 저도 이\n작품이구나??? 싶었어요 ㅋㅋㅋㅋㅋ",
+          "comment_time": "3일 전",
+          "reply_time": "3일 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 4,
+      "events": [
+        {
+          "timestamp": 4,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "역시 미래를 보는 자가 되려면 미술은 필수네요",
+          "reply": "ㅋㅋ, 그러게요 저는 미래를 봐도 그림이 거의 뭐 유치원수준이라 ㅋㅋㅋㅋ 웃기겠어요",
+          "comment_time": "13일 전",
+          "reply_time": "4일 전",
+          "time_diff_days": 9
+        },
+        {
+          "timestamp": 4,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "역시 미래를 보는 자가 되려면 미술은 필수네요",
+          "reply": "ㅋㅋ, 그러게요 저는 미래를 봐도 그림이 거의 뭐 유치원수준이라 ㅋㅋㅋㅋ 웃기겠어요",
+          "comment_time": "13일 전",
+          "reply_time": "4일 전",
+          "time_diff_days": 9
+        },
+        {
+          "timestamp": 4,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "웅영우 같이 어리숙하고 순한 캐릭터 하다가 바로 정반대의 캐릭터 고르는 것도 대단하지만 둘 다 소화할 수 있는 저 연기력이 진짜 미쳤다.... 미친 박은빈...;;;",
+          "reply": "진짜 아이유보다 박은빈이 대상후보였어야했음,,, 아이유안티아님",
+          "comment_time": "6일 전",
+          "reply_time": "4일 전",
+          "time_diff_days": 2
+        },
+        {
+          "timestamp": 4,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "연기에 대가 설경구님과 신인 천재 박은빈님과의 멋진 작품입니다",
+          "reply": "@내일아침은있을까  맞아요 ㅋㅋ 박은빈 무슨 작품 하더라도 같이 나온 중년배우들보다 웬만해서 한참 선배예요 ㅋㅋ",
+          "comment_time": "5일 전",
+          "reply_time": "4일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 4,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "1:36:34  여기서 왜 화내는 거에여? 회사 나너주는 거 아니에여?",
+          "reply": "1. 손자가 본인 일을 망침 (협박까지 함)\n2. 부추긴 사람이 진도준 아빠라고 생각\n3. 부추긴 이유가 회사 얻고싶어서라고 생각 (이때 회사 일에 관여 안하겠다고 약속한걸 어겼다고 여김)\n4. 그래서 이거 먹고 떨어져라 하면서 재단 몇개 던져줌\n5. 아들 입장에선 안그래도 지금까지 서운했는데 멋대로 오해한걸로 이거 먹고 떨어지라 하는걸 보고 이렇게도 자식을 모르나 하고 서운함 폭발함",
+          "comment_time": "2개월 전",
+          "reply_time": "4일 전",
+          "time_diff_days": 56
+        }
+      ]
+    },
+    {
+      "timestamp": 5,
+      "events": [
+        {
+          "timestamp": 5,
+          "source": "기대",
+          "target": "기대",
+          "comment": "영상 자체가 고급지네요. 불필요한 bgm도 없고 편집도 깔끔하고 조명도 좋고 배경도 좋고 두분 목소리톤이나 텐션도 좋고 즐겨보겠습니다.",
+          "reply": "그러니깐요. 이런 육박자가 맞기 힘든데 제작진의 숨은 노력이 영상에 은은히 다 빛나네요",
+          "comment_time": "1개월 전",
+          "reply_time": "5일 전",
+          "time_diff_days": 25
+        },
+        {
+          "timestamp": 5,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "브레이킹 베드, 워킹데드, 프리즌브레이크도 재밌긴했지만 내인생 최고의 미드는 덱스터.\n정주행하는동안 행복했다!",
+          "reply": "@코코코코아-v9c   장기 시리즈에서 개연성 떨어지는 부분이 없는 작품은 사실 없다시피 함 대 흥행 작품 중에 왕겜이 대표적 예시지 시즌8 온갖 오류들... 그저 브레이킹 배드가 그 어려운 걸 성공시켰을뿐...",
+          "comment_time": "3개월 전",
+          "reply_time": "5일 전",
+          "time_diff_days": 85
+        },
+        {
+          "timestamp": 5,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "왜 이리 잼난걸 이제알았으까요~\n덕분에 감사합니다~~",
+          "reply": "감사합니다!!",
+          "comment_time": "5일 전",
+          "reply_time": "5일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 5,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "도저히 집중해서 볼 수가 없네.\n말도 안되는 우연과 억지 설정으로 범벅이 되어서. 도저히 집중할 수가 없네.",
+          "reply": "ㅜㅜ",
+          "comment_time": "6일 전",
+          "reply_time": "5일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 5,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "왜 이리 잼난걸 이제알았으까요~\n덕분에 감사합니다~~",
+          "reply": "감사합니다!!",
+          "comment_time": "5일 전",
+          "reply_time": "5일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 5,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "도저히 집중해서 볼 수가 없네.\n말도 안되는 우연과 억지 설정으로 범벅이 되어서. 도저히 집중할 수가 없네.",
+          "reply": "ㅜㅜ",
+          "comment_time": "6일 전",
+          "reply_time": "5일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 5,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "연기에 대가 설경구님과 신인 천재 박은빈님과의 멋진 작품입니다",
+          "reply": "박은빈 경력이 얼만데 신인이래",
+          "comment_time": "5일 전",
+          "reply_time": "5일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 5,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "연기에 대가 설경구님과 신인 천재 박은빈님과의 멋진 작품입니다",
+          "reply": "@에델-m6z  네 찾아보니 ....어마어마 하시더라구요 ㅎㅎ....아동서부터 시작했더라구요 제가 몰랐네요~",
+          "comment_time": "5일 전",
+          "reply_time": "5일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 5,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "진도준역에 임시완도 나쁘지 않았을 듯.",
+          "reply": "너 ..임시완이지!?",
+          "comment_time": "3개월 전",
+          "reply_time": "5일 전",
+          "time_diff_days": 85
+        }
+      ]
+    },
+    {
+      "timestamp": 6,
+      "events": [
+        {
+          "timestamp": 6,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "아니 이렇게 기가맥힌 드라마 리뷰에 조회수랑 댓글수가 왜이럼?",
+          "reply": "알고리즘을 못탔네",
+          "comment_time": "6일 전",
+          "reply_time": "6일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 6,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "아니 이렇게 기가맥힌 드라마 리뷰에 조회수랑 댓글수가 왜이럼?",
+          "reply": "디즈니라",
+          "comment_time": "6일 전",
+          "reply_time": "6일 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 8,
+      "events": [
+        {
+          "timestamp": 8,
+          "source": "기대",
+          "target": "기대",
+          "comment": "영상 자체가 고급지네요. 불필요한 bgm도 없고 편집도 깔끔하고 조명도 좋고 배경도 좋고 두분 목소리톤이나 텐션도 좋고 즐겨보겠습니다.",
+          "reply": "진짜 영상이 너무 좋다... 왜 좋은지 잘알려줘서 제대로 인지했음. .ㄱㅅㄱㅅ",
+          "comment_time": "1개월 전",
+          "reply_time": "8일 전",
+          "time_diff_days": 22
+        },
+        {
+          "timestamp": 8,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "서강준 진짜 존나 잘생겼다 ㅋㅋ",
+          "reply": "옛날 미남계보를 잇는 외모임 장동건 원빈 고수 같은 진한상 미남 반면 차은우는 예쁜 잘생김으로 대표적인 미남상 둘다 ㅈㄴ잘생김",
+          "comment_time": "2주 전",
+          "reply_time": "8일 전",
+          "time_diff_days": 6
+        },
+        {
+          "timestamp": 8,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "2시간동안 축복이끝이없구나 ㅠㅠ존잘 진짜",
+          "reply": "와 진짜 개웃기네 ㅋㅋㅋㅋ 기대 안 했는데 ㅋㅋ",
+          "comment_time": "8일 전",
+          "reply_time": "8일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 8,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "행보관님~~~여기 나왔드래요?",
+          "reply": "시즌1 중대장님도 나옴ㅋ",
+          "comment_time": "2주 전",
+          "reply_time": "8일 전",
+          "time_diff_days": 6
+        },
+        {
+          "timestamp": 8,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "동우 학창시절땐 ㅋㅋㅋ 일진이었네?",
+          "reply": "중대장,행보관,똥우 다 나오네ㅋ",
+          "comment_time": "11일 전",
+          "reply_time": "8일 전",
+          "time_diff_days": 3
+        },
+        {
+          "timestamp": 8,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "넷플릭스등 아무리 잼난 뭐뭐가 나와도  유툽 편집본으로 만족하던 나였는데...  티빙이라고??  티빙이라고????\n근데  제목좀 써놔주세요 아쫌",
+          "reply": "유괴의 날",
+          "comment_time": "8일 전(수정됨)",
+          "reply_time": "8일 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 9,
+      "events": [
+        {
+          "timestamp": 9,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "와 서강준 대박 잘 생겼다..",
+          "reply": "서강준 얼굴 천재, 진기주 귀여움 끝판왕이었지 암튼ㅋㅋ 재밌게 봤어!",
+          "comment_time": "2주 전",
+          "reply_time": "9일 전",
+          "time_diff_days": 5
+        }
+      ]
+    },
+    {
+      "timestamp": 10,
+      "events": [
+        {
+          "timestamp": 10,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "편집을 엄청 잘한걸까,,? 이런 재밌는 드라마가 있었다고?",
+          "reply": "네 드라마도 재밌어요\n드라마 기다리며 봤거든요~",
+          "comment_time": "13일 전",
+          "reply_time": "10일 전",
+          "time_diff_days": 3
+        }
+      ]
+    },
+    {
+      "timestamp": 11,
+      "events": [
+        {
+          "timestamp": 11,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "헐 이런 재맜는 드라마가 있었군요!!",
+          "reply": "꿀잼입니다!!",
+          "comment_time": "11일 전",
+          "reply_time": "11일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 11,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "재미있게 잘 봄 ㅎ",
+          "reply": "꿀잼이죠",
+          "comment_time": "12일 전",
+          "reply_time": "11일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 11,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "헐 이런 재맜는 드라마가 있었군요!!",
+          "reply": "꿀잼입니다!!",
+          "comment_time": "11일 전",
+          "reply_time": "11일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 11,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "재미있게 잘 봄 ㅎ",
+          "reply": "꿀잼이죠",
+          "comment_time": "12일 전",
+          "reply_time": "11일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 11,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "기억 잃었다고 반말하는 능지의 작가 그리고 아이큐200  이상인 아이? 그냥 어른 스러운 아이 작가가 아이큐200  이상의 사람을 상상으로 만들었는데 완젼 아니올시다",
+          "reply": "드라마든 드라마로 보시요",
+          "comment_time": "2주 전(수정됨)",
+          "reply_time": "11일 전",
+          "time_diff_days": 3
+        }
+      ]
+    },
+    {
+      "timestamp": 12,
+      "events": [
+        {
+          "timestamp": 12,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "역시 미래를 보는 자가 되려면 미술은 필수네요",
+          "reply": "ㅋㅋㅋㅋ",
+          "comment_time": "13일 전",
+          "reply_time": "12일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 12,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "ㅋㅋㅋㅋㅋㅋㅋ비? 내마음솓에 비가 내린다~~~~",
+          "reply": "ㅋㅋ ㅠㅠ",
+          "comment_time": "13일 전",
+          "reply_time": "12일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 12,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "서강준 진짜 존나 잘생겼다 ㅋㅋ",
+          "reply": "ㅇㅈ입니다!",
+          "comment_time": "2주 전",
+          "reply_time": "12일 전",
+          "time_diff_days": 2
+        },
+        {
+          "timestamp": 12,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "역시 미래를 보는 자가 되려면 미술은 필수네요",
+          "reply": "ㅋㅋㅋㅋ",
+          "comment_time": "13일 전",
+          "reply_time": "12일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 12,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "ㅋㅋㅋㅋㅋㅋㅋ비? 내마음솓에 비가 내린다~~~~",
+          "reply": "ㅋㅋ ㅠㅠ",
+          "comment_time": "13일 전",
+          "reply_time": "12일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 12,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "기억 잃었다고 반말하는 능지의 작가 그리고 아이큐200  이상인 아이? 그냥 어른 스러운 아이 작가가 아이큐200  이상의 사람을 상상으로 만들었는데 완젼 아니올시다",
+          "reply": "무슨말인가요?",
+          "comment_time": "2주 전(수정됨)",
+          "reply_time": "12일 전",
+          "time_diff_days": 2
+        },
+        {
+          "timestamp": 12,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "기억 잃었다고 반말하는 능지의 작가 그리고 아이큐200  이상인 아이? 그냥 어른 스러운 아이 작가가 아이큐200  이상의 사람을 상상으로 만들었는데 완젼 아니올시다",
+          "reply": "직접 쓰시죠",
+          "comment_time": "2주 전(수정됨)",
+          "reply_time": "12일 전",
+          "time_diff_days": 2
+        },
+        {
+          "timestamp": 12,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "기억 잃었다고 반말하는 능지의 작가 그리고 아이큐200  이상인 아이? 그냥 어른 스러운 아이 작가가 아이큐200  이상의 사람을 상상으로 만들었는데 완젼 아니올시다",
+          "reply": "@으르릉왈왈으르릉왈왈  쓰면 드라마로 써주시게요?",
+          "comment_time": "2주 전(수정됨)",
+          "reply_time": "12일 전",
+          "time_diff_days": 2
+        }
+      ]
+    },
+    {
+      "timestamp": 13,
+      "events": [
+        {
+          "timestamp": 13,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "서강준 진짜 존나 잘생겼다 ㅋㅋ",
+          "reply": "감사합니다",
+          "comment_time": "2주 전",
+          "reply_time": "13일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 13,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "서강준 잘생의 축복이 끝이없네 진기주님도 너무 귀엽고 잘어울림요",
+          "reply": "너무나도 좋아욬ㅋㅋㄴㄴ",
+          "comment_time": "2주 전",
+          "reply_time": "13일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 13,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "편집을 엄청 잘한걸까,,? 이런 재밌는 드라마가 있었다고?",
+          "reply": "성향만 맞으면 실제로 재미있어요. \n저도 다른 요약본 보고 찾아봤다가 스킵 없이 끝까지 잘 봤습니다.\n꼬맹이가 연기를 매우 잘합니다. \n앞으로 기대주.",
+          "comment_time": "13일 전",
+          "reply_time": "13일 전(수정됨)",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 14,
+      "events": [
+        {
+          "timestamp": 14,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "와..재밌네요\n시간가는줄모르고 봤습니다",
+          "reply": "꿀잼입니다.",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "공포",
+          "target": "놀람",
+          "comment": "조희철이.....\n형아가 조희대구만..",
+          "reply": "어?나도 그생각 했는데  \n이름이 조희대랑 비슷하네 하면서\nㅎㅎㅎ",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "안녕하세요 ~ 드라마 톡! 입니다\n오늘도 재미있게 시청 해 주셔서 감사합니다 !\n구독과 좋아요는 채널에 큰 힘이 되니 많은 참여 부탁드립니다 ~ \n\n해당영상의 풀버전은 아래링크를 통해 시청하실 수 있습니다.\nMBC : \n웨이브 : \n티빙 :",
+          "reply": "감사합니다",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "서강준 진짜 존나 잘생겼다 ㅋㅋ",
+          "reply": "ㅇㅈ",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "서강준 진짜 존나 잘생겼다 ㅋㅋ",
+          "reply": "남자인데 반할거같아요",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "기대",
+          "target": "신뢰",
+          "comment": "서강준 진짜 존나 잘생겼다 ㅋㅋ",
+          "reply": "나도 차은우 서강준 이 둘이 존나잘생김",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "서강준 진짜 존나 잘생겼다 ㅋㅋ",
+          "reply": "내가더",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "서강준 진짜 존나 잘생겼다 ㅋㅋ",
+          "reply": "강준이 수방사 후배노 ㅋ",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "서강준 진짜 존나 잘생겼다 ㅋㅋ",
+          "reply": "진짜 개웃기다 ㅋㅋ",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "서강준 진짜 존나 잘생겼다 ㅋㅋ",
+          "reply": "고수 장동건 정우성 원빈 급",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "보다가 서강준 너무 멋있어서 요약본멈추고 100년만에 드라마 봅니다 ㅋㅋㅋ 재밌네요 덕분에 좋은 드라마 알았어요",
+          "reply": "혹시 ..연세가..?",
+          "comment_time": "2주 전(수정됨)",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "행보관님~~~여기 나왔드래요?",
+          "reply": "똥우도 나와 ㅋㅋ",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "배우상이 따로있음 ㄷㄷ",
+          "reply": "정확히는 주연 배우상 이겠조",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "금괴 반납이말이되나 바로 내꺼 개꿀딱이 현실이다",
+          "reply": "꿀꺽하면 국보법 위반으로 사형인데??ㅋㅋㅋ",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "작가님이 휘문 출신인가",
+          "reply": "ㄴㄴ 투사부일체",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "와..재밌네요\n시간가는줄모르고 봤습니다",
+          "reply": "꿀잼입니다.",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "공포",
+          "target": "놀람",
+          "comment": "조희철이.....\n형아가 조희대구만..",
+          "reply": "어?나도 그생각 했는데  \n이름이 조희대랑 비슷하네 하면서\nㅎㅎㅎ",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 14,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "이렇게 마무리를 지었어야 했다.  내가 이제서야 손자가 된건가요? 하고 뒤돌아 서는 장면에서\n마지막회를 만들었다면 시즌2 나와라 웰메이드 드라마다 라고 호평을 했을 텐데.",
+          "reply": "원작소설하고 만화분량보면 진짜 만들파트 엄청많은데 ㅋㅋㅋㅋ",
+          "comment_time": "4개월 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 106
+        },
+        {
+          "timestamp": 14,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "엥 변우석이네?",
+          "reply": "28분쯤",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 21,
+      "events": [
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "기대",
+          "comment": "브레이킹배드처럼 마지막화까지 완벽한 미드는 처음봄.. 가면 갈수록 손에 땀을 쥐게 하는 최고의 작품임. 반면 왕좌의게임은 중반부까진 압도적인데 가면 갈수록 손에 땀이 없어지는 아쉬운 작품ㅠ",
+          "reply": "시즌3부터는 진짜 크리스탈에 중독된것처럼 보게됨",
+          "comment_time": "3개월 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 69
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "기대",
+          "comment": "시즌 3 안나오나",
+          "reply": "나오는거 확정일걸요? 순서대로면 2026년에 나올듯요",
+          "comment_time": "4주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 7
+        },
+        {
+          "timestamp": 21,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "님아2도좀",
+          "reply": "님아 는 좀.. \n부탁해도 모자랄판에..\n이분이 영상 올려서 재밌게 봤으면 모를까..",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "님아2도좀",
+          "reply": "@korea-hyunjaking  예?ㅋㅋㅋㅋㅋ잘보고 얘기하는건데 혼자이상한핀트에 긁히셨네",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 30,
+      "events": [
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "기대",
+          "comment": "브레이킹배드처럼 마지막화까지 완벽한 미드는 처음봄.. 가면 갈수록 손에 땀을 쥐게 하는 최고의 작품임. 반면 왕좌의게임은 중반부까진 압도적인데 가면 갈수록 손에 땀이 없어지는 아쉬운 작품ㅠ",
+          "reply": "저두 브배 시즌1 보다가 멈춘지 한참 지나서 봤는데요 시즌2부터 스토리 진짜 최고에요 제가 봤던 최고의 미드순위를 뒤엎을 정도에요 추천드립니다.",
+          "comment_time": "3개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 60
+        },
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "브레이킹 배드, 정말정말 좋아하지만 빠가 까를 만드는건 인정이요 ㅋㅋ 충분히 훌륭한데 너무 유일신처럼 된 분위기가 있죠. \n저는 그림, 원스어폰어타임, 슈퍼내추럴, 한니발, 덱스터, 하우스, 셜록, 빅뱅이론, 영쉘든, 굿플레이스, 언브레이커블 키미슈미트, 삼체, 웬즈데이, 퀸스갬빗, 기묘한이야기, 베이비 레인디어, 셜록, 닥터후 등등 진짜 좋아하는 드라마도 많고 시즌이 많이 지나며 아쉬웠던 작품들도 있지만 너무 사랑하는 작품이 많아서 최애꼽기 힘든 느낌이에요 ㅎㅎ\n말씀 나누신 작품들도 80%정도는 봤는데 공감하며 재미있게 시청했어요!! \n라오어 한국 정발 존버합니당.,,",
+          "reply": "@JSOOORI 허 저두요 시즌1 꾸역꾸역 디봤는데 ㅜㅜㅜ 그 즐거움을 못느낌..",
+          "comment_time": "3개월 전(수정됨)",
+          "reply_time": "1개월 전",
+          "time_diff_days": 60
+        },
+        {
+          "timestamp": 30,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "어? 정은지 엄마 동시간대 천변에서도 여자주인공 엄마로 나왔지 않나?",
+          "reply": "맞아요 부자 사모님 ㅋㅋ",
+          "comment_time": "3개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 60
+        },
+        {
+          "timestamp": 30,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "TV 외에도 영상 매체가 홍수인 세상인데, 꼭 TV동시간대 경쟁 탓일까요",
+          "reply": "아직까진 방송사간 드라마 경쟁은 남아있죠 ㅋㅋㅋ \nott가 발전했다쳐도 그 ott에서도 방송사 드라마가 방영되니",
+          "comment_time": "1년 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 335
+        },
+        {
+          "timestamp": 30,
+          "source": "신뢰",
+          "target": "놀람",
+          "comment": "추워유 눈좀 그만 ..왔으면 좋겠어유",
+          "reply": "와~~~ 오늘 4월 13일~~ 우박에 눈에 태풍같은 강풍에~~ 난리남요~~~@@",
+          "comment_time": "3개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 60
+        },
+        {
+          "timestamp": 30,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "우리는 여기까지를 결말이라 부르기로 했어요",
+          "reply": "결말 전까지만 돌려 봅니다! 이 드라마 너무 중독성 있어서 한 번 시작하면 끝까지 봐야겠어요. 16화만 빼고 다 보셨다니, 정말 궁금하네요. 어떤 이야기가 펼쳐질지",
+          "comment_time": "4개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 90
+        },
+        {
+          "timestamp": 30,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "이성민님 연기 뭐지.. 볼 때마다 지리는데..",
+          "reply": "@syunh3325 엥?ㅋㅋㅋㅋㅋ",
+          "comment_time": "3개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 60
+        },
+        {
+          "timestamp": 30,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "18:20 어우.. 티파니 연기보고 난 무슨 뮤지컬 보는줄 알았네\n티파니가 대사를 하는데 계속 티파니 안잡아주는것도 다 이유가 있는듯..",
+          "reply": "외국인컨셉이고 원래 그런 과장된 캐릭턴줄 알았는데. \n대사하는데 잡고 안잡고까지 따지는거보니까 사견이 많이 들어간 평가인듯",
+          "comment_time": "1개월 전(수정됨)",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "이걸로 재벌집 막내아들 본 사람이 승자다",
+          "reply": "그게 바로 나야~\n뚜비두밥",
+          "comment_time": "4개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 90
+        },
+        {
+          "timestamp": 30,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "드라마제목이 뭔지?",
+          "reply": "아랫집 남의아들",
+          "comment_time": "4개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 90
+        }
+      ]
+    },
+    {
+      "timestamp": 60,
+      "events": [
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "넥플릭스 초창기에 있었는데, 지금은 못보게 되서 아쉬운 명작이죠~.",
+          "reply": "그러게...올려주지 다 내려버렸네요.",
+          "comment_time": "8개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 180
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "브레이킹 베드, 워킹데드, 프리즌브레이크도 재밌긴했지만 내인생 최고의 미드는 덱스터.\n정주행하는동안 행복했다!",
+          "reply": "덱스터는 갑자기 흑인 팀장 죽는 거에서 개연성 너무 떨어지던데?",
+          "comment_time": "3개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "기대",
+          "comment": "브레이킹배드처럼 마지막화까지 완벽한 미드는 처음봄.. 가면 갈수록 손에 땀을 쥐게 하는 최고의 작품임. 반면 왕좌의게임은 중반부까진 압도적인데 가면 갈수록 손에 땀이 없어지는 아쉬운 작품ㅠ",
+          "reply": "시즌 5때 절정이 터지죠. 마지막화는 진짜.. 보고 전율이 돋은 영상물은 처음임.",
+          "comment_time": "3개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 60,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "브레이킹 배드, 정말정말 좋아하지만 빠가 까를 만드는건 인정이요 ㅋㅋ 충분히 훌륭한데 너무 유일신처럼 된 분위기가 있죠. \n저는 그림, 원스어폰어타임, 슈퍼내추럴, 한니발, 덱스터, 하우스, 셜록, 빅뱅이론, 영쉘든, 굿플레이스, 언브레이커블 키미슈미트, 삼체, 웬즈데이, 퀸스갬빗, 기묘한이야기, 베이비 레인디어, 셜록, 닥터후 등등 진짜 좋아하는 드라마도 많고 시즌이 많이 지나며 아쉬웠던 작품들도 있지만 너무 사랑하는 작품이 많아서 최애꼽기 힘든 느낌이에요 ㅎㅎ\n말씀 나누신 작품들도 80%정도는 봤는데 공감하며 재미있게 시청했어요!! \n라오어 한국 정발 존버합니당.,,",
+          "reply": "진짜 꾹꾹참고 기묘한 이야기 봤는데.. 이게 어디서 재미가 있는 것인지 모르겠어요ㅠ 비판은 아닙니다... 재미는 상대적이니까요.. 많이 보진 못했지만 삼체는 시즌2 기다리고 있어요 ㅎ",
+          "comment_time": "3개월 전(수정됨)",
+          "reply_time": "2개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 60,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "브레이킹 배드, 정말정말 좋아하지만 빠가 까를 만드는건 인정이요 ㅋㅋ 충분히 훌륭한데 너무 유일신처럼 된 분위기가 있죠. \n저는 그림, 원스어폰어타임, 슈퍼내추럴, 한니발, 덱스터, 하우스, 셜록, 빅뱅이론, 영쉘든, 굿플레이스, 언브레이커블 키미슈미트, 삼체, 웬즈데이, 퀸스갬빗, 기묘한이야기, 베이비 레인디어, 셜록, 닥터후 등등 진짜 좋아하는 드라마도 많고 시즌이 많이 지나며 아쉬웠던 작품들도 있지만 너무 사랑하는 작품이 많아서 최애꼽기 힘든 느낌이에요 ㅎㅎ\n말씀 나누신 작품들도 80%정도는 봤는데 공감하며 재미있게 시청했어요!! \n라오어 한국 정발 존버합니당.,,",
+          "reply": "엘리트들은 취급안하나요? 미드본게 별로없어서ㅋㅋ",
+          "comment_time": "3개월 전(수정됨)",
+          "reply_time": "2개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "저도 존박 씨처럼 베터 콜 사울을 브레이킹 배드보다 더 좋아해요ㅋㅋ \n브레이킹 배드는 죽음을 앞둔 인간이 걷잡을 수 없이 타락하는 이야기라면, 베터 콜 사울은 마치 아이가 장난으로 던진 돌에 개구리가 맞아 죽는 이야기 같달까요. 극 전반에 조소 어린 아이러니가 깔려있었던 것 같아요. 또 브레이킹 배드보다 상대적으로 현실적이고 작은 규모의 상황 덕에 각각의 캐릭터가 돋보였고요. 브레이킹 배드에서 많은 사랑을 받은 캐릭터들에게 더 풍성한 서사를 부여함으로써 캐릭터의 매력을 최대치로 끌어올렸다는 점도 좋았어요. 결정적으로 월터 화이트와 달리 지미 맥길은 마지막까지 결코 미워할 수 없는, 아주 매력적인 모습으로 극에서 퇴장했다는 점이 베터 콜 사울에게 더 마음이 가는 이유가 아닐까 싶어요. 브레이킹 배드 시즌 5는 의도적으로 월터 화이트를 구역질 나는 악인으로 묘사해서… 재밌게 보면서도 마음 한 구석이 불편했던 기억이 있네요ㅋㅋㅋ",
+          "reply": "@sounddesigner_yhk1061  진짜공감",
+          "comment_time": "3개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "우와아 이이경 잘생겼다니까",
+          "reply": "눈이 발바닥에 달렸나?",
+          "comment_time": "3개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 60,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "추워유 눈좀 그만 ..왔으면 좋겠어유",
+          "reply": "여기는 눈이 그리운데. ㅎㅎㅎㅎ 보고싶다 눈",
+          "comment_time": "3개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 60,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "주무관이면 진급없는 공무원이잖아...",
+          "reply": "그럼뭐여 무기계약직 같은 거여??",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "주무관이면 진급없는 공무원이잖아...",
+          "reply": "6급이하 공무원임..주무관이면 어뗘 이쁘면됐지...그리고 시장 꼬투리 잡혀서 특별승진 시켜줄거라봄....",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "이성민이 하드캐리했던 작품.",
+          "reply": "이성민하고 어린도준이 나올 때가 제일 재밌었음",
+          "comment_time": "4개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 60
+        },
+        {
+          "timestamp": 60,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "이성민님 연기 뭐지.. 볼 때마다 지리는데..",
+          "reply": "배우 본인도 방송에서 지리시는데요?",
+          "comment_time": "3개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "조중반까지 몰입도는 진짜좋았음 진짜대작이다싶었는데\n작가가똥싸고싶었나봄\n결말을 깽판쳐놔ㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "으이잉잉... 배가 묵직해져써,,,,뿌웅~ 뿡~뿍뿍~푸드득 푸드드득",
+          "comment_time": "4개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 60
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "마지막 회가 없었다면 이 드라마는 완벽했을 것이다",
+          "reply": "감독판으로 트럭이피하거나 내려서 피하는걸로 도준이의 반격으로 마무리 하면 ㅋ",
+          "comment_time": "4개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 60
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "진양철이 제일 불쌍함..ㅠ 자신을 죽이려한 마누라, 무능력한 장남, 생각없는 차남, 엉망진창 딸, 기어오르는 사위, 양아치 장손.",
+          "reply": "하지만 자신과 꼭 빼닮은 막내손자를 얻었죠. 극의 오른 사람은 자신의 의지와 능력을 이어 받는 후계자가 있다는거 자체가 큰 만족일듯 ^^",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "어린 도준이가 입은 카라로 된 니트는 뭐라고 부르나요? 10:04",
+          "reply": "숄카라 니트요",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "무슨 광고가 5분마다 나와 ㅡㅡ",
+          "reply": "프리미엄 결제~ㄱㄱㄱ",
+          "comment_time": "4개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 60
+        }
+      ]
+    },
+    {
+      "timestamp": 90,
+      "events": [
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "브레이킹배드처럼 마지막화까지 완벽한 미드는 처음봄.. 가면 갈수록 손에 땀을 쥐게 하는 최고의 작품임. 반면 왕좌의게임은 중반부까진 압도적인데 가면 갈수록 손에 땀이 없어지는 아쉬운 작품ㅠ",
+          "reply": "난 브레이킹 배드 2화보고 멈췄는데..진짜 이게 뭐가잼있다는건지 도무지 이해가안감",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "브레이킹배드처럼 마지막화까지 완벽한 미드는 처음봄.. 가면 갈수록 손에 땀을 쥐게 하는 최고의 작품임. 반면 왕좌의게임은 중반부까진 압도적인데 가면 갈수록 손에 땀이 없어지는 아쉬운 작품ㅠ",
+          "reply": "@user-raudinis_jini  취향 존중합니다.  처음부터 막 스펙터클한거 좋아하시면 앞부분은 조금 루즈하게 느껴질 수도 있어요.  저는 빌드업 쌓는걸 좋아해서ㅠ소재도 흥미로워서 처음부터 재밌게 봤네요ㅎ",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "브레이킹배드처럼 마지막화까지 완벽한 미드는 처음봄.. 가면 갈수록 손에 땀을 쥐게 하는 최고의 작품임. 반면 왕좌의게임은 중반부까진 압도적인데 가면 갈수록 손에 땀이 없어지는 아쉬운 작품ㅠ",
+          "reply": "@ 취향차이맞는듯요...반면 프리즌브레이크는 숨도안쉬고 시즌1그냥 연타로다봤어요",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "브레이킹배드처럼 마지막화까지 완벽한 미드는 처음봄.. 가면 갈수록 손에 땀을 쥐게 하는 최고의 작품임. 반면 왕좌의게임은 중반부까진 압도적인데 가면 갈수록 손에 땀이 없어지는 아쉬운 작품ㅠ",
+          "reply": "@user-raudinis_jini  저는 3번 실패하고 4번째 억지로 참고보다 5화부터인가 미친듯이 시리즈 다몰아본 기억이..",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "기대",
+          "comment": "브레이킹배드처럼 마지막화까지 완벽한 미드는 처음봄.. 가면 갈수록 손에 땀을 쥐게 하는 최고의 작품임. 반면 왕좌의게임은 중반부까진 압도적인데 가면 갈수록 손에 땀이 없어지는 아쉬운 작품ㅠ",
+          "reply": "@발렌타인-m5y  음..인생은 아름다워같은 스타일인듯하네요..초반 90분간 엄청 지루하다가 막판 30분에 엄청난 감동을주는...한번 저도 참고 인내하며 봐볼께요 ㅎㅎ",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "브레이킹배드 요즘 보고 있는 미든데 너무 재밌어요ㅠㅠㅠㅠㅠㅠ몰입감 최고!",
+          "reply": "전 시즌3 까지 보고 리타이어. 진빠지는 것도 있고 다시 시작 하기엔 엄두도 안남.",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "브레이킹배드 요즘 보고 있는 미든데 너무 재밌어요ㅠㅠㅠㅠㅠㅠ몰입감 최고!",
+          "reply": "배터콜 사울 추천",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "기대",
+          "comment": "브레이킹배드 요즘 보고 있는 미든데 너무 재밌어요ㅠㅠㅠㅠㅠㅠ몰입감 최고!",
+          "reply": "브배 이제 봐요? 와..너무 부럽다 ㅠㅠ",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "브레이킹배드 요즘 보고 있는 미든데 너무 재밌어요ㅠㅠㅠㅠㅠㅠ몰입감 최고!",
+          "reply": "부럽네요..",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "기대",
+          "comment": "저도 존박 씨처럼 베터 콜 사울을 브레이킹 배드보다 더 좋아해요ㅋㅋ \n브레이킹 배드는 죽음을 앞둔 인간이 걷잡을 수 없이 타락하는 이야기라면, 베터 콜 사울은 마치 아이가 장난으로 던진 돌에 개구리가 맞아 죽는 이야기 같달까요. 극 전반에 조소 어린 아이러니가 깔려있었던 것 같아요. 또 브레이킹 배드보다 상대적으로 현실적이고 작은 규모의 상황 덕에 각각의 캐릭터가 돋보였고요. 브레이킹 배드에서 많은 사랑을 받은 캐릭터들에게 더 풍성한 서사를 부여함으로써 캐릭터의 매력을 최대치로 끌어올렸다는 점도 좋았어요. 결정적으로 월터 화이트와 달리 지미 맥길은 마지막까지 결코 미워할 수 없는, 아주 매력적인 모습으로 극에서 퇴장했다는 점이 베터 콜 사울에게 더 마음이 가는 이유가 아닐까 싶어요. 브레이킹 배드 시즌 5는 의도적으로 월터 화이트를 구역질 나는 악인으로 묘사해서… 재밌게 보면서도 마음 한 구석이 불편했던 기억이 있네요ㅋㅋㅋ",
+          "reply": "킴 웩슬러... 이 세상 모든 이야기의 여캐들 중 GOAT",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "저도 존박 씨처럼 베터 콜 사울을 브레이킹 배드보다 더 좋아해요ㅋㅋ \n브레이킹 배드는 죽음을 앞둔 인간이 걷잡을 수 없이 타락하는 이야기라면, 베터 콜 사울은 마치 아이가 장난으로 던진 돌에 개구리가 맞아 죽는 이야기 같달까요. 극 전반에 조소 어린 아이러니가 깔려있었던 것 같아요. 또 브레이킹 배드보다 상대적으로 현실적이고 작은 규모의 상황 덕에 각각의 캐릭터가 돋보였고요. 브레이킹 배드에서 많은 사랑을 받은 캐릭터들에게 더 풍성한 서사를 부여함으로써 캐릭터의 매력을 최대치로 끌어올렸다는 점도 좋았어요. 결정적으로 월터 화이트와 달리 지미 맥길은 마지막까지 결코 미워할 수 없는, 아주 매력적인 모습으로 극에서 퇴장했다는 점이 베터 콜 사울에게 더 마음이 가는 이유가 아닐까 싶어요. 브레이킹 배드 시즌 5는 의도적으로 월터 화이트를 구역질 나는 악인으로 묘사해서… 재밌게 보면서도 마음 한 구석이 불편했던 기억이 있네요ㅋㅋㅋ",
+          "reply": "나도 베러콜 사울 개재밌게 봄",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "기대",
+          "comment": "저도 존박 씨처럼 베터 콜 사울을 브레이킹 배드보다 더 좋아해요ㅋㅋ \n브레이킹 배드는 죽음을 앞둔 인간이 걷잡을 수 없이 타락하는 이야기라면, 베터 콜 사울은 마치 아이가 장난으로 던진 돌에 개구리가 맞아 죽는 이야기 같달까요. 극 전반에 조소 어린 아이러니가 깔려있었던 것 같아요. 또 브레이킹 배드보다 상대적으로 현실적이고 작은 규모의 상황 덕에 각각의 캐릭터가 돋보였고요. 브레이킹 배드에서 많은 사랑을 받은 캐릭터들에게 더 풍성한 서사를 부여함으로써 캐릭터의 매력을 최대치로 끌어올렸다는 점도 좋았어요. 결정적으로 월터 화이트와 달리 지미 맥길은 마지막까지 결코 미워할 수 없는, 아주 매력적인 모습으로 극에서 퇴장했다는 점이 베터 콜 사울에게 더 마음이 가는 이유가 아닐까 싶어요. 브레이킹 배드 시즌 5는 의도적으로 월터 화이트를 구역질 나는 악인으로 묘사해서… 재밌게 보면서도 마음 한 구석이 불편했던 기억이 있네요ㅋㅋㅋ",
+          "reply": "나는 스핀오프 작품을 이정도 완성도있게 만드는것에 진짜 경악을 안할수 없었음. 이미 완벽한 작품의 스핀오프를 만드는거 자체도 엄처나게 프레셔가 강했을텐데, 스핀오프작품자체도 명작반열에 올린점. 이미 있는이야기의 사전이야기로 복선을 수백개 만든점 진짜 빈스길리건은 천재임...아니 만재임...",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "신뢰",
+          "comment": "저도 존박 씨처럼 베터 콜 사울을 브레이킹 배드보다 더 좋아해요ㅋㅋ \n브레이킹 배드는 죽음을 앞둔 인간이 걷잡을 수 없이 타락하는 이야기라면, 베터 콜 사울은 마치 아이가 장난으로 던진 돌에 개구리가 맞아 죽는 이야기 같달까요. 극 전반에 조소 어린 아이러니가 깔려있었던 것 같아요. 또 브레이킹 배드보다 상대적으로 현실적이고 작은 규모의 상황 덕에 각각의 캐릭터가 돋보였고요. 브레이킹 배드에서 많은 사랑을 받은 캐릭터들에게 더 풍성한 서사를 부여함으로써 캐릭터의 매력을 최대치로 끌어올렸다는 점도 좋았어요. 결정적으로 월터 화이트와 달리 지미 맥길은 마지막까지 결코 미워할 수 없는, 아주 매력적인 모습으로 극에서 퇴장했다는 점이 베터 콜 사울에게 더 마음이 가는 이유가 아닐까 싶어요. 브레이킹 배드 시즌 5는 의도적으로 월터 화이트를 구역질 나는 악인으로 묘사해서… 재밌게 보면서도 마음 한 구석이 불편했던 기억이 있네요ㅋㅋㅋ",
+          "reply": "인터넷 댓글에서 비문 없는 정갈한 문장 쓰시는 분 오랜만에 보네요.",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "기대",
+          "comment": "저도 존박 씨처럼 베터 콜 사울을 브레이킹 배드보다 더 좋아해요ㅋㅋ \n브레이킹 배드는 죽음을 앞둔 인간이 걷잡을 수 없이 타락하는 이야기라면, 베터 콜 사울은 마치 아이가 장난으로 던진 돌에 개구리가 맞아 죽는 이야기 같달까요. 극 전반에 조소 어린 아이러니가 깔려있었던 것 같아요. 또 브레이킹 배드보다 상대적으로 현실적이고 작은 규모의 상황 덕에 각각의 캐릭터가 돋보였고요. 브레이킹 배드에서 많은 사랑을 받은 캐릭터들에게 더 풍성한 서사를 부여함으로써 캐릭터의 매력을 최대치로 끌어올렸다는 점도 좋았어요. 결정적으로 월터 화이트와 달리 지미 맥길은 마지막까지 결코 미워할 수 없는, 아주 매력적인 모습으로 극에서 퇴장했다는 점이 베터 콜 사울에게 더 마음이 가는 이유가 아닐까 싶어요. 브레이킹 배드 시즌 5는 의도적으로 월터 화이트를 구역질 나는 악인으로 묘사해서… 재밌게 보면서도 마음 한 구석이 불편했던 기억이 있네요ㅋㅋㅋ",
+          "reply": "오 진짜 감상 너무잘쓰심",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "기대",
+          "comment": "저도 존박 씨처럼 베터 콜 사울을 브레이킹 배드보다 더 좋아해요ㅋㅋ \n브레이킹 배드는 죽음을 앞둔 인간이 걷잡을 수 없이 타락하는 이야기라면, 베터 콜 사울은 마치 아이가 장난으로 던진 돌에 개구리가 맞아 죽는 이야기 같달까요. 극 전반에 조소 어린 아이러니가 깔려있었던 것 같아요. 또 브레이킹 배드보다 상대적으로 현실적이고 작은 규모의 상황 덕에 각각의 캐릭터가 돋보였고요. 브레이킹 배드에서 많은 사랑을 받은 캐릭터들에게 더 풍성한 서사를 부여함으로써 캐릭터의 매력을 최대치로 끌어올렸다는 점도 좋았어요. 결정적으로 월터 화이트와 달리 지미 맥길은 마지막까지 결코 미워할 수 없는, 아주 매력적인 모습으로 극에서 퇴장했다는 점이 베터 콜 사울에게 더 마음이 가는 이유가 아닐까 싶어요. 브레이킹 배드 시즌 5는 의도적으로 월터 화이트를 구역질 나는 악인으로 묘사해서… 재밌게 보면서도 마음 한 구석이 불편했던 기억이 있네요ㅋㅋㅋ",
+          "reply": "내가 봤던 모든 로맨스중에서 가장 강력하고 순애였고 진실했음",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "저도 존박 씨처럼 베터 콜 사울을 브레이킹 배드보다 더 좋아해요ㅋㅋ \n브레이킹 배드는 죽음을 앞둔 인간이 걷잡을 수 없이 타락하는 이야기라면, 베터 콜 사울은 마치 아이가 장난으로 던진 돌에 개구리가 맞아 죽는 이야기 같달까요. 극 전반에 조소 어린 아이러니가 깔려있었던 것 같아요. 또 브레이킹 배드보다 상대적으로 현실적이고 작은 규모의 상황 덕에 각각의 캐릭터가 돋보였고요. 브레이킹 배드에서 많은 사랑을 받은 캐릭터들에게 더 풍성한 서사를 부여함으로써 캐릭터의 매력을 최대치로 끌어올렸다는 점도 좋았어요. 결정적으로 월터 화이트와 달리 지미 맥길은 마지막까지 결코 미워할 수 없는, 아주 매력적인 모습으로 극에서 퇴장했다는 점이 베터 콜 사울에게 더 마음이 가는 이유가 아닐까 싶어요. 브레이킹 배드 시즌 5는 의도적으로 월터 화이트를 구역질 나는 악인으로 묘사해서… 재밌게 보면서도 마음 한 구석이 불편했던 기억이 있네요ㅋㅋㅋ",
+          "reply": "@sounddesigner_yhk1061 이분 뭘좀 아시는 분ㅎ",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "우연히 들어온 채널인데 너무 좋아요. 구독하고 자주 볼게요",
+          "reply": "문철마삼과 털리콥터도 한번 맛보시길 추천드려요~",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "브레이킹 배드가 찬양받는건 미드 많이 본 사람들은 알겠지만 미드가 대부분 후반으로 갈수록 쳐지고 노잼되는게 진짜 9할 정도인데 브배는 보면 볼수록 몰입되고 점점 더 재밌어짐, 베터 콜 사울까지 쭉 이어지면 십수개의 시즌인데 진짜 빠짐없이 재밌음",
+          "reply": "ㅡㄷ",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "브레이킹 배드가 찬양받는건 미드 많이 본 사람들은 알겠지만 미드가 대부분 후반으로 갈수록 쳐지고 노잼되는게 진짜 9할 정도인데 브배는 보면 볼수록 몰입되고 점점 더 재밌어짐, 베터 콜 사울까지 쭉 이어지면 십수개의 시즌인데 진짜 빠짐없이 재밌음",
+          "reply": "다ㅡ그 1:11 ㄴ6,234326",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "브레이킹 배드가 찬양받는건 미드 많이 본 사람들은 알겠지만 미드가 대부분 후반으로 갈수록 쳐지고 노잼되는게 진짜 9할 정도인데 브배는 보면 볼수록 몰입되고 점점 더 재밌어짐, 베터 콜 사울까지 쭉 이어지면 십수개의 시즌인데 진짜 빠짐없이 재밌음",
+          "reply": "느ㄴㆍ도ㆍ느ㅡ\nㅓ느 1:33ㅡㄷ 1:51",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "브레이킹 배드가 찬양받는건 미드 많이 본 사람들은 알겠지만 미드가 대부분 후반으로 갈수록 쳐지고 노잼되는게 진짜 9할 정도인데 브배는 보면 볼수록 몰입되고 점점 더 재밌어짐, 베터 콜 사울까지 쭉 이어지면 십수개의 시즌인데 진짜 빠짐없이 재밌음",
+          "reply": "_3ㆍㄴㆍ드 2:05 ㅡ\nㅣㄴㄱㅡ드ㄷㅔ드ㅡㅡㄷ 2:51 ㄷ기ㅡ리ㆍ 3:01 ㄴ\nㄴㄱㅡ드ㄷㅔㄷㄴㆍㄴㄷㆍ느ㅣㅣㅡㅡ",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "분노",
+          "comment": "브레이킹 배드가 찬양받는건 미드 많이 본 사람들은 알겠지만 미드가 대부분 후반으로 갈수록 쳐지고 노잼되는게 진짜 9할 정도인데 브배는 보면 볼수록 몰입되고 점점 더 재밌어짐, 베터 콜 사울까지 쭉 이어지면 십수개의 시즌인데 진짜 빠짐없이 재밌음",
+          "reply": "4:13 느뎌그\nㅣㅏ 4:3시 대기업 디ㅡㅡㅡㅡㅣㅜㄷ 4:30",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "신뢰",
+          "comment": "브레이킹 배드가 찬양받는건 미드 많이 본 사람들은 알겠지만 미드가 대부분 후반으로 갈수록 쳐지고 노잼되는게 진짜 9할 정도인데 브배는 보면 볼수록 몰입되고 점점 더 재밌어짐, 베터 콜 사울까지 쭉 이어지면 십수개의 시즌인데 진짜 빠짐없이 재밌음",
+          "reply": "시즌3 10화 '파리'로 고생하는 이야기. 슬슬 피로해질 때, 환기도 시켜주면서 다시 몰입한 꼭지였던 것 같음",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "브레이킹 배드가 찬양받는건 미드 많이 본 사람들은 알겠지만 미드가 대부분 후반으로 갈수록 쳐지고 노잼되는게 진짜 9할 정도인데 브배는 보면 볼수록 몰입되고 점점 더 재밌어짐, 베터 콜 사울까지 쭉 이어지면 십수개의 시즌인데 진짜 빠짐없이 재밌음",
+          "reply": "@JaeseungCHO 애기가 채팅을 친것인가 켜놓고 잔건가",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "혐오",
+          "comment": "브레이킹 배드가 찬양받는건 미드 많이 본 사람들은 알겠지만 미드가 대부분 후반으로 갈수록 쳐지고 노잼되는게 진짜 9할 정도인데 브배는 보면 볼수록 몰입되고 점점 더 재밌어짐, 베터 콜 사울까지 쭉 이어지면 십수개의 시즌인데 진짜 빠짐없이 재밌음",
+          "reply": "우상향곡선 ㄱ초반 노잼부분버티면 진짜후회안하는...\n\n그 정반대있는 시리즈가 프리즌브레이크 초반에 정점찍고 시리즈 진행할수록 노잼..",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "\"브레이킹 배드 안 봤어? 아... 부럽다.\"",
+          "reply": "이 호들갑 안하기가 어렵긴 함ㅋㅋㅋ",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "\"브레이킹 배드 안 봤어? 아... 부럽다.\"",
+          "reply": "1화 보다 멈췄는데 진짜 재밌나요",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "\"브레이킹 배드 안 봤어? 아... 부럽다.\"",
+          "reply": "그정도임?안봐서모루",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "\"브레이킹 배드 안 봤어? 아... 부럽다.\"",
+          "reply": "@김광렬-b1w  시즌3에서 중도하차했다가 하도 여기저기 외쳐대서 다시 나머지 다 봤는데 휘몰아치는 장면들이 장관이었어요",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "\"브레이킹 배드 안 봤어? 아... 부럽다.\"",
+          "reply": "시즌1 후부터 존나 재밌음",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "\"브레이킹 배드 안 봤어? 아... 부럽다.\"",
+          "reply": "부럽다아",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "\"브레이킹 배드 안 봤어? 아... 부럽다.\"",
+          "reply": "시즌 1 끝까지보고 접었는데 뒤가 더 재밌나 보네......",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "\"브레이킹 배드 안 봤어? 아... 부럽다.\"",
+          "reply": "난 진짜 브레이킹배드 시즌1 5화까진가 보다가 각종 찬사에 비하면 진짜 해도해도 좆같이 재미없다 싶어서 한 4번 시도해보고 그 예찬들이 호들갑으로 느껴지는게 기분나빠서 걍 놨는데 여기까지가 노잼구간인거임?",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "\"브레이킹 배드 안 봤어? 아... 부럽다.\"",
+          "reply": "나도 주위 호들갑치곤 너무 노잼이라 중도포기함;;",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "\"브레이킹 배드 안 봤어? 아... 부럽다.\"",
+          "reply": "@user-kz3oh2cu2l  ㄹㅇ 저도요 하도 재밌다 해서 몇번을 도전 했는데 다 포기 했어요",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "제목이 먼가요?",
+          "reply": "@권블루-t3f  와 진짜 일상생활 가능함?",
+          "comment_time": "10개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 210
+        },
+        {
+          "timestamp": 90,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "제목이 먼가요?",
+          "reply": "@조지킹  ㄹㅇㅋㅋ",
+          "comment_time": "10개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 210
+        },
+        {
+          "timestamp": 90,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "제목이 먼가요?",
+          "reply": "그러니까 제목이 뭐냐고요 싸우고 있지 말고요",
+          "comment_time": "10개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 210
+        },
+        {
+          "timestamp": 90,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "남궁민 드라마 뭐었는지가 궁금해지네요",
+          "reply": "뭐겠냐",
+          "comment_time": "7개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 120
+        },
+        {
+          "timestamp": 90,
+          "source": "신뢰",
+          "target": "슬픔",
+          "comment": "추워유 눈좀 그만 ..왔으면 좋겠어유",
+          "reply": "그라믄...스파게띠유?",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "추워유 눈좀 그만 ..왔으면 좋겠어유",
+          "reply": "으하하하~~",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "신뢰",
+          "target": "신뢰",
+          "comment": "추워유 눈좀 그만 ..왔으면 좋겠어유",
+          "reply": "좀만 참아유 겨울이잖애유 \n언젠가 녹겄쥬",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "신뢰",
+          "target": "신뢰",
+          "comment": "추워유 눈좀 그만 ..왔으면 좋겠어유",
+          "reply": "참아봐유 곧 따뜻해지겠쥬",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "추워유 눈좀 그만 ..왔으면 좋겠어유",
+          "reply": "이런댓글 좋아유",
+          "comment_time": "3개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "이렇게 마무리를 지었어야 했다.  내가 이제서야 손자가 된건가요? 하고 뒤돌아 서는 장면에서\n마지막회를 만들었다면 시즌2 나와라 웰메이드 드라마다 라고 호평을 했을 텐데.",
+          "reply": "캬 이분 좀 치시네",
+          "comment_time": "4개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 90,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "도주이 금마....",
+          "reply": "도주이 금마 바발이매깨고매깨냔마리다!",
+          "comment_time": "4개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "조중반까지 몰입도는 진짜좋았음 진짜대작이다싶었는데\n작가가똥싸고싶었나봄\n결말을 깽판쳐놔ㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "설사",
+          "comment_time": "4개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 90,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "이게 벌써 2년전 드라마야? ㄷㄷ",
+          "reply": "시간 드럽게 빠르네",
+          "comment_time": "4개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 90,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "진짜... 웹소설 원작을 이런 망작으로 만든 작가들 대단함",
+          "reply": "ㅋ",
+          "comment_time": "4개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 90,
+          "source": "슬픔",
+          "target": "공포",
+          "comment": "웹툰 발가락 근처에도 못가는 드라마.. 이거 재밌다는 사람들 웹툽 한번 보면 얼마나 이 드라마가 쓰레긴지 알게될거다. 일단 회장 케릭터 자체가 손자에게는 항상 자상한 이미지로 그려짐. 저렇게 맨날 인상쓰고 소리질르고 안함.",
+          "reply": "웹툰 같은건 오타쿠들이나 보는거죠. 방구석에서 음침하게",
+          "comment_time": "3개월 전(수정됨)",
+          "reply_time": "3개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 90,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "벌써20번째보는중...아직도눈물납니다ㅜㅜ",
+          "reply": "나도ㅜㅜㅜ 후유증 갸심햐",
+          "comment_time": "6개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 90
+        },
+        {
+          "timestamp": 90,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "벌써20번째보는중...아직도눈물납니다ㅜㅜ",
+          "reply": "몇십번을 보아도 슬퍼",
+          "comment_time": "6개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 90
+        },
+        {
+          "timestamp": 90,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "제발…빨리시즌2주세요ㅠㅠㅠㅠㅠㅠㅠㅠ만나러 온다며ㅜㅜㅜㅜㅜㅜ",
+          "reply": "@하쿠나-n6i 원래 현대에서 소가 고하진을 만나는 장면이 마지막에 있었는데 삭제되었어요. 달의연인 방영때 구르미 그린 달빛이 방영되고 있었는데 그 작품이 인기가 너무 많았었고 자연스럽게 그에 비해 달의연인 시청률이 낮았어서 감독님이 원래는 시즌2를 고려하고 있었는데 못하게 된 것입니다.",
+          "comment_time": "6개월 전",
+          "reply_time": "3개월 전",
+          "time_diff_days": 90
+        }
+      ]
+    },
+    {
+      "timestamp": 120,
+      "events": [
+        {
+          "timestamp": 120,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "몇달전인가,, 일진한테 괴롭힘 당했던 사람\npc방에서 끔찍하게 살해 했던사건 있었다.\n얼마나 트라우마로 고통받았으면 ,그랬겠나.\n있어서는 안된다. 양아치짓들.",
+          "reply": "가해자를 죽인건가요? 엉뚱한 시람을 해친건가요?",
+          "comment_time": "7개월 전(수정됨)",
+          "reply_time": "4개월 전",
+          "time_diff_days": 90
+        },
+        {
+          "timestamp": 120,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "헐 우리 옥빙구가 나왔는데 몰랐네 세상에...; 알려주셔서 감사해요!! 티빙보러감",
+          "reply": "오집사~간식 가져 오시게~오서~~~",
+          "comment_time": "1년 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 245
+        },
+        {
+          "timestamp": 120,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "이성민이 하드캐리했던 작품.",
+          "reply": "◁",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "이성민이 하드캐리했던 작품.",
+          "reply": "명작을 마지막회 한회로 망작을 만들어 버린 작품.",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "산타할아버지.. 제 소원은 이 드라마의 결말을 바꾸는거에요...제발요",
+          "reply": "삼성이 연상되는 드라마에서 저 결말말고 어떤 결말을 내야 시청률도 잡고 보복도 피할 수 있을까요?  전 답을 못 얻었는데.. ㅋ 님께는 답이 있을까요?",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "산타할아버지.. 제 소원은 이 드라마의 결말을 바꾸는거에요...제발요",
+          "reply": "1초에 822.6 가구를 도는 산타할아버지는 지금 너무 바빠요",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "산타할아버지.. 제 소원은 이 드라마의 결말을 바꾸는거에요...제발요",
+          "reply": "진짜.. 차라리 원작만 따라갔어도 이렇게 결말로 욕을 먹진 않았을텐데 아쉬워요ㅠ",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "산타할아버지.. 제 소원은 이 드라마의 결말을 바꾸는거에요...제발요",
+          "reply": "저는 그냥 그러려니 하고 봤어요.",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "산타할아버지.. 제 소원은 이 드라마의 결말을 바꾸는거에요...제발요",
+          "reply": "국밥집 첫째 아들",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "산타할아버지.. 제 소원은 이 드라마의 결말을 바꾸는거에요...제발요",
+          "reply": "미안…산타도 못해…",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "산타할아버지.. 제 소원은 이 드라마의 결말을 바꾸는거에요...제발요",
+          "reply": "웹툰 보니 이해감.. 이따구로 만든게 그냥 스토리 쓸 능력이 안되는 사람이었음",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "산타할아버지.. 제 소원은 이 드라마의 결말을 바꾸는거에요...제발요",
+          "reply": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "산타할아버지.. 제 소원은 이 드라마의 결말을 바꾸는거에요...제발요",
+          "reply": "@patrickkim3179  ? 애초에 소설 원작에 무난한 엔딩이 있으며 재벌 해체를 부르짖는 정치 성향 드라마 작가가 복붙만 잘 해도 욕 안먹는거 원작 훼손해서 마지막만 마음대로 바꾼걸 답이라 생각하는게 특이한거임. 애초에 장점은 원작에서 온거고 사람들이 욕하는건 전부 드라마 작가가 만든거임 ㅇㅋ?",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "이렇게 마무리를 지었어야 했다.  내가 이제서야 손자가 된건가요? 하고 뒤돌아 서는 장면에서\n마지막회를 만들었다면 시즌2 나와라 웰메이드 드라마다 라고 호평을 했을 텐데.",
+          "reply": "△",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "이렇게 마무리를 지었어야 했다.  내가 이제서야 손자가 된건가요? 하고 뒤돌아 서는 장면에서\n마지막회를 만들었다면 시즌2 나와라 웰메이드 드라마다 라고 호평을 했을 텐데.",
+          "reply": "기대가 큰만큼 시즌2 나오면 또 아쉽다는 반응많이나올거임\n\n엔딩이 좋진않았어도 이게 깔끔했을듯",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "이걸로 재벌집 막내아들 본 사람이 승자다",
+          "reply": "14화였나 회장죽기 전까지는 괜찮았음",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "도주이 금마....",
+          "reply": "느 금마....(패드립 죄송합니다)",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "도주이 금마....",
+          "reply": "글마",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "도주이 금마....",
+          "reply": "글마가 더 사투리임",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "도주이 금마....",
+          "reply": "영 파이다",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "도주이 금마....",
+          "reply": "글마",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "조중반까지 몰입도는 진짜좋았음 진짜대작이다싶었는데\n작가가똥싸고싶었나봄\n결말을 깽판쳐놔ㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "거의 카지노 급이네요",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "기대",
+          "target": "분노",
+          "comment": "조중반까지 몰입도는 진짜좋았음 진짜대작이다싶었는데\n작가가똥싸고싶었나봄\n결말을 깽판쳐놔ㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "뿌지찍~~뿌지찍 퍽퍽~~  카~~~시원하다   급똥은 이리 싸야함",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "진짜... 웹소설 원작을 이런 망작으로 만든 작가들 대단함",
+          "reply": "ㅋㅋㅋㅋ ㄹㅇ!",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "드라마제목이 뭔지?",
+          "reply": "재벌집 막내아들",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "드라마제목이 뭔지?",
+          "reply": "국밥집 첫째아들",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "25:40 옥의 티 발견 \n저 시절에 시스템 에어컨이라니ㅋㅋ",
+          "reply": "시스템에어컨은 일제강점기시절에도 있었습니다 각시탈 참고",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "결말은 정말\n작가의 실수가 아니고\n작가가 주제의식이 부족함 \n바보...",
+          "reply": "삼성과 맞서 집안 삼족이 거덜날 각오가 부족했겠져.. ㅋㅋ 님은 어찌했을까나? ㅋㅋㅋ",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "내가 이 작가 자녀였으면 집나갔다 ㄹㅇ",
+          "reply": "선은 지켜라",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 120,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "도주이 금마가 시키더나",
+          "reply": "@김대수-z3q  도주이 글마 young 다",
+          "comment_time": "4개월 전",
+          "reply_time": "4개월 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 150,
+      "events": [
+        {
+          "timestamp": 150,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "일진은 장난이라고 생각했겠지만, 피해입은 자는 평생 트라우마가 생긴다고 했어요!\n일진이었던 사람들,,, 앞으로 조심해야 할 듯,,,,",
+          "reply": "@마지막때  신기하드라 개내들이\n피부과 간호쪽으로가잇고 회사도다녀\n난아니엇거든 일찐에 맞서는여자",
+          "comment_time": "1년 전",
+          "reply_time": "5개월 전",
+          "time_diff_days": 215
+        },
+        {
+          "timestamp": 150,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "와.... 진짜 묻혔구나.... 이렇게 흥미진진한 드라마를.... 감사합니다.",
+          "reply": "@착한남-v3i  ?",
+          "comment_time": "1년 전",
+          "reply_time": "5개월 전",
+          "time_diff_days": 215
+        },
+        {
+          "timestamp": 150,
+          "source": "혐오",
+          "target": "기쁨",
+          "comment": "tvn 드라마 블라인드 3.4%\n드라마 제목 자체를 처음 들어야만 했던 이유\n동시간대 천변 최고 시청률 15.2%",
+          "reply": "나는 블라인드 봣는데 ...",
+          "comment_time": "1년 전",
+          "reply_time": "5개월 전",
+          "time_diff_days": 215
+        },
+        {
+          "timestamp": 150,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "하...올릴거면제목이라도 써놓지....",
+          "reply": "1시간 넘게 영상 상단에 써있는데 몰 보는건지ㅠ",
+          "comment_time": "9개월 전",
+          "reply_time": "5개월 전",
+          "time_diff_days": 120
+        },
+        {
+          "timestamp": 150,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "제발…빨리시즌2주세요ㅠㅠㅠㅠㅠㅠㅠㅠ만나러 온다며ㅜㅜㅜㅜㅜㅜ",
+          "reply": "죽었는데 시즌2를..어케해요??",
+          "comment_time": "6개월 전",
+          "reply_time": "5개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 150,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "제발…빨리시즌2주세요ㅠㅠㅠㅠㅠㅠㅠㅠ만나러 온다며ㅜㅜㅜㅜㅜㅜ",
+          "reply": "@하쿠나-n6i  누가 죽어요..?",
+          "comment_time": "6개월 전",
+          "reply_time": "5개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 150,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "제발…빨리시즌2주세요ㅠㅠㅠㅠㅠㅠㅠㅠ만나러 온다며ㅜㅜㅜㅜㅜㅜ",
+          "reply": "@doffpp  에? 주인공죽었잖아요..?",
+          "comment_time": "6개월 전",
+          "reply_time": "5개월 전",
+          "time_diff_days": 30
+        }
+      ]
+    },
+    {
+      "timestamp": 180,
+      "events": [
+        {
+          "timestamp": 180,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "옛날생각나서 아침부터쏘주깠습니다,지나고보니 다행히 여중여고출신이라 저만큼 가혹하게당하진않았지만 아침이두렵고 학교가기가지옥같았던 그시절, 그애들은어딘가에서 누군가의 아내 어떤아이의 엄마로 잘살고있을걸생각하니 손가락이떨리네요,",
+          "reply": "잊을 수 없겠지만 기억하려 하지말고 즐거운 인생 사시길 바랍니다. 분명 가해자들의 말로는 지옥일 겁니다.",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "옛날생각나서 아침부터쏘주깠습니다,지나고보니 다행히 여중여고출신이라 저만큼 가혹하게당하진않았지만 아침이두렵고 학교가기가지옥같았던 그시절, 그애들은어딘가에서 누군가의 아내 어떤아이의 엄마로 잘살고있을걸생각하니 손가락이떨리네요,",
+          "reply": "가해자는 하늘의 처벌을 받습니다. \n하느님은 공정하고 공평하십니다.\n내일을 향해 전진하십시오.\n그리고 운동을 하십시오.",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "벌써20번째보는중...아직도눈물납니다ㅜㅜ",
+          "reply": "헐",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "기쁨",
+          "target": "신뢰",
+          "comment": "수능 끝나고 보니까 너무좋다 ㅋㅋㅋㅋ 행복해",
+          "reply": "고생 많으셨어요 ㅎㅎ",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 180,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "제발…빨리시즌2주세요ㅠㅠㅠㅠㅠㅠㅠㅠ만나러 온다며ㅜㅜㅜㅜㅜㅜ",
+          "reply": "시즌2안합니다",
+          "comment_time": "6개월 전",
+          "reply_time": "6개월 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 210,
+      "events": [
+        {
+          "timestamp": 210,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "넥플릭스 초창기에 있었는데, 지금은 못보게 되서 아쉬운 명작이죠~.",
+          "reply": "돼서",
+          "comment_time": "8개월 전",
+          "reply_time": "7개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 210,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "넥플릭스 초창기에 있었는데, 지금은 못보게 되서 아쉬운 명작이죠~.",
+          "reply": "넷플릭스에 없어요??  ㅠㅠ",
+          "comment_time": "8개월 전",
+          "reply_time": "7개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 210,
+          "source": "기대",
+          "target": "공포",
+          "comment": "와.... 진짜 묻혔구나.... 이렇게 흥미진진한 드라마를.... 감사합니다.",
+          "reply": "⁠ @착한남-v3i 댓글 매너도 없고, 맞춤법도 모르면서 아는척 하는게 ㅎㅎ 묻히다가 맞습니다.",
+          "comment_time": "1년 전",
+          "reply_time": "7개월 전",
+          "time_diff_days": 155
+        },
+        {
+          "timestamp": 210,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "천지훈과 백마리가 너무 쎄긴 했지...",
+          "reply": "천원짜리에 밀린건가요?",
+          "comment_time": "11개월 전",
+          "reply_time": "7개월 전",
+          "time_diff_days": 120
+        }
+      ]
+    },
+    {
+      "timestamp": 240,
+      "events": [
+        {
+          "timestamp": 240,
+          "source": "분노",
+          "target": "분노",
+          "comment": "피해자는 여전히 힘들게 살아가는데 가해자들은 지난 일인데 왜그러냐고 장난이었다는 말로 일축해버리고 사과는 없네요.",
+          "reply": "이제 마음 아파 하지마.\n이 아재가 과거이력 더럽고,지저분한 것들\n하나씩 처리 하소 있어.. 최대한 많이 썰어주고 승천할께.",
+          "comment_time": "1년 전",
+          "reply_time": "8개월 전(수정됨)",
+          "time_diff_days": 125
+        },
+        {
+          "timestamp": 240,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "시리즈 보고 싶은데 볼수 있는 곳이 있을까요?",
+          "reply": "저도 궁금해서 찾아보니 왓챠에 있다고 나오네요",
+          "comment_time": "8개월 전",
+          "reply_time": "8개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 240,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "언제를 시대적 배경으로 하는지 모르겠지만...CCTV는 없는건가요?\n바닷가는 너무 넓어서 그렇다치지만.. 강아지 데려가는 상가앞에 CCTV가 없는건 좀 황당함.",
+          "reply": "2013, 2015년 작품이에요",
+          "comment_time": "8개월 전",
+          "reply_time": "8개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 240,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "언제를 시대적 배경으로 하는지 모르겠지만...CCTV는 없는건가요?\n바닷가는 너무 넓어서 그렇다치지만.. 강아지 데려가는 상가앞에 CCTV가 없는건 좀 황당함.",
+          "reply": "우리나라가 잘돼있는거고 외국은 씨씨티비 없는곳 많아요. 도시나돼야 있지 게다가 10년전이고 저런 시골은..많이없죠.",
+          "comment_time": "8개월 전",
+          "reply_time": "8개월 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 240,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "회사 사람들이 말해도 대꾸도 안 하고 투명인간 취급길래 도대체가 이유를 몰랐었는데 이거였군요",
+          "reply": "장원",
+          "comment_time": "8개월 전",
+          "reply_time": "8개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 240,
+          "source": "놀람",
+          "target": "공포",
+          "comment": "마지막에 정신병원 같은곳에 보낸건가요?",
+          "reply": "정신병원에 보낼 명분은 안될거고 종교단체에서 운영하는 숙식가능 보호시설 아닐까요",
+          "comment_time": "8개월 전",
+          "reply_time": "8개월 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 270,
+      "events": [
+        {
+          "timestamp": 270,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "나 이거 분명히 봤는데 기억이 안나네 ㅋ",
+          "reply": "나도...ㅋㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "9개월 전",
+          "time_diff_days": 95
+        }
+      ]
+    },
+    {
+      "timestamp": 300,
+      "events": [
+        {
+          "timestamp": 300,
+          "source": "기대",
+          "target": "신뢰",
+          "comment": "저 이 왭툰 먼저보고 이거 영화로 언제 나오나 기다리고 있다가 이 작품보고 실망 많이 했네요 그리고 종석이란 이름이 안들ㅋ리네요 계속 경민이 이름만 얘기 하시고..;",
+          "reply": "철이를 찾아야  이 웹툰인데ㅠㅠ",
+          "comment_time": "11개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 30
+        }
+      ]
+    },
+    {
+      "timestamp": 330,
+      "events": [
+        {
+          "timestamp": 330,
+          "source": "슬픔",
+          "target": "신뢰",
+          "comment": "저희 아이도 학폭피해자여서 전학을 두번이나 갔고 지금 커서도 트라우마가 있어 저는 분노뿐입니다 학폭 이라는 이야기만 들어도 치가 떨리고 학폭모임조차도 미치도록 아픕니다 저혼자 아이를 기르며 살고 있어 나쁜마음 못먹고 여태 잘 살아가고는 있지만 상처는 너무너무 큽니다 이루말할수없이.....",
+          "reply": "대신해드립니다 수고비있습니다",
+          "comment_time": "1년 전",
+          "reply_time": "11개월 전",
+          "time_diff_days": 35
+        },
+        {
+          "timestamp": 330,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "당시 동시간대 드라마가 하필..\n.\n.\n.\n.\n.\n\n남궁민의 \"천원짜리 변호사\"였습니다ㅠㅠ\n이걸 어떻게 이겨ㅋㅋㅋㅋ\n\n하지만 실화를 모티브로 제작 된 만큼\n묵직한 메시지를 전한다는 점에서 '블라인드' 완결까지 본 시청자들에게는\n대부분 좋은 평가를 받고 있습니다. \n\n'티빙'에서 시청하는 걸 권장합니다.",
+          "reply": "난 천변봤는대",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "11개월 전",
+          "time_diff_days": 35
+        },
+        {
+          "timestamp": 330,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "와.... 진짜 묻혔구나.... 이렇게 흥미진진한 드라마를.... 감사합니다.",
+          "reply": "ㅈㄹ하시네 ㅋㅋㅋㅋ 뭍힐만하구만",
+          "comment_time": "1년 전",
+          "reply_time": "11개월 전",
+          "time_diff_days": 35
+        },
+        {
+          "timestamp": 330,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "와.... 진짜 묻혔구나.... 이렇게 흥미진진한 드라마를.... 감사합니다.",
+          "reply": "그리고 묻이 아니라 뭍 입니다...으휴",
+          "comment_time": "1년 전",
+          "reply_time": "11개월 전",
+          "time_diff_days": 35
+        },
+        {
+          "timestamp": 330,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "와,,,정주행 하구 왔는데 너무 재밌어여,,, 이제야 알았다니ㄷㄷ",
+          "reply": "알바냐 ㅋ 개노잼이구만",
+          "comment_time": "1년 전",
+          "reply_time": "11개월 전",
+          "time_diff_days": 35
+        },
+        {
+          "timestamp": 330,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "영상이 몇회까지인지.?",
+          "reply": "8화까지래욥 더보기란에 적혀있어요~~",
+          "comment_time": "1년 전",
+          "reply_time": "11개월 전",
+          "time_diff_days": 35
+        },
+        {
+          "timestamp": 330,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "성준이 아버지는 어쩌다가 카지노에서 망가졌을까^^. 이런 재밌는 스릴러가 남궁민 변호사에 밀렸다니 안타깝네요.",
+          "reply": "밀릴만하구만 머",
+          "comment_time": "1년 전",
+          "reply_time": "11개월 전",
+          "time_diff_days": 35
+        }
+      ]
+    },
+    {
+      "timestamp": 365,
+      "events": [
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "저희 아이도 학폭피해자여서 전학을 두번이나 갔고 지금 커서도 트라우마가 있어 저는 분노뿐입니다 학폭 이라는 이야기만 들어도 치가 떨리고 학폭모임조차도 미치도록 아픕니다 저혼자 아이를 기르며 살고 있어 나쁜마음 못먹고 여태 잘 살아가고는 있지만 상처는 너무너무 큽니다 이루말할수없이.....",
+          "reply": "드라마 보고 나서 마음이 엄청 아픈데 실제 피해자 엄마가 ....정말 상처가 너무 심할거 같아요.. 아무쪼록 매일 평안한 일상이 되시기를 바랍니다.",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "저희 아이도 학폭피해자여서 전학을 두번이나 갔고 지금 커서도 트라우마가 있어 저는 분노뿐입니다 학폭 이라는 이야기만 들어도 치가 떨리고 학폭모임조차도 미치도록 아픕니다 저혼자 아이를 기르며 살고 있어 나쁜마음 못먹고 여태 잘 살아가고는 있지만 상처는 너무너무 큽니다 이루말할수없이.....",
+          "reply": "보복해야죠, 폭력은 폭력으로",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "신뢰",
+          "comment": "저희 아이도 학폭피해자여서 전학을 두번이나 갔고 지금 커서도 트라우마가 있어 저는 분노뿐입니다 학폭 이라는 이야기만 들어도 치가 떨리고 학폭모임조차도 미치도록 아픕니다 저혼자 아이를 기르며 살고 있어 나쁜마음 못먹고 여태 잘 살아가고는 있지만 상처는 너무너무 큽니다 이루말할수없이.....",
+          "reply": "힘내세요,,,,,",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "저희 아이도 학폭피해자여서 전학을 두번이나 갔고 지금 커서도 트라우마가 있어 저는 분노뿐입니다 학폭 이라는 이야기만 들어도 치가 떨리고 학폭모임조차도 미치도록 아픕니다 저혼자 아이를 기르며 살고 있어 나쁜마음 못먹고 여태 잘 살아가고는 있지만 상처는 너무너무 큽니다 이루말할수없이.....",
+          "reply": "억울함이 남지 않으시길...",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "저희 아이도 학폭피해자여서 전학을 두번이나 갔고 지금 커서도 트라우마가 있어 저는 분노뿐입니다 학폭 이라는 이야기만 들어도 치가 떨리고 학폭모임조차도 미치도록 아픕니다 저혼자 아이를 기르며 살고 있어 나쁜마음 못먹고 여태 잘 살아가고는 있지만 상처는 너무너무 큽니다 이루말할수없이.....",
+          "reply": "공감합니다",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "분노",
+          "comment": "저희 아이도 학폭피해자여서 전학을 두번이나 갔고 지금 커서도 트라우마가 있어 저는 분노뿐입니다 학폭 이라는 이야기만 들어도 치가 떨리고 학폭모임조차도 미치도록 아픕니다 저혼자 아이를 기르며 살고 있어 나쁜마음 못먹고 여태 잘 살아가고는 있지만 상처는 너무너무 큽니다 이루말할수없이.....",
+          "reply": "드라마만 봐도 화가 나는데 실제 피해자라시니 뭐라 말할수없는 화가 올라오네요ᆢ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "저희 아이도 학폭피해자여서 전학을 두번이나 갔고 지금 커서도 트라우마가 있어 저는 분노뿐입니다 학폭 이라는 이야기만 들어도 치가 떨리고 학폭모임조차도 미치도록 아픕니다 저혼자 아이를 기르며 살고 있어 나쁜마음 못먹고 여태 잘 살아가고는 있지만 상처는 너무너무 큽니다 이루말할수없이.....",
+          "reply": "그 애들 행복할 때 죽이는게 최고의 복수긴한데",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "저희 아이도 학폭피해자여서 전학을 두번이나 갔고 지금 커서도 트라우마가 있어 저는 분노뿐입니다 학폭 이라는 이야기만 들어도 치가 떨리고 학폭모임조차도 미치도록 아픕니다 저혼자 아이를 기르며 살고 있어 나쁜마음 못먹고 여태 잘 살아가고는 있지만 상처는 너무너무 큽니다 이루말할수없이.....",
+          "reply": "힘내세요  피해자분들,     소리없는 보복이 그들에게 꼭 갈꺼예요",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "이런 명작이 널리널리 알려졌으면 좋겠네요.. ㅠㅠ",
+          "reply": "두번째 전학갈대에는 학교를 다 뒤집엇어야함. 기자들부터 찿아갓어야함. 앞으로 그 누구도 얃보지않도록 강하시길 인간은 그렇음니다. 그러나 철칙은 내가먼저 가해하지않는 도덕심을 지키기위해 성경을 잡앗음니다",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "더글로리보다 명작임 ㄹㅇ",
+          "reply": "인정",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "기대",
+          "comment": "더글로리보다 명작임 ㄹㅇ",
+          "reply": "훠어얼씬 진짜 훠얼씬 더 명작임",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "실화라면이 아니라 제가 기억하는 80년대 초중반의 학교입니다........",
+          "reply": "지금 60대겠네요",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "분노",
+          "comment": "실화라면이 아니라 제가 기억하는 80년대 초중반의 학교입니다........",
+          "reply": "90년대에도 있었습니다. 그리고 2010년도에도 있었고 . 일진과 학폭은 없어지지 않았고 없어지지도 않을것입니다. \n\n비슷한 애들끼리 무리지어 약해보이거나 말투어눌해 보이거나 눈빛이 재수없거나 하는 애를 놀리고 꼽주고 툭툭치고 괴롭히는 일들.  선생한테 말해도 친구끼리 장난으로만 치부시하고. \n반장이란 ㅅㄲ는 수능날 시험장에서 삥이나 뜯고.",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "와 너무 재밌는데.  이게 왜 안알려진거야 ㅜ아깝다 정말",
+          "reply": "원래 애니임",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "근데 향정신성 약품이면 다른 데서 처방 받았다고 하더라도 내역이 뜰텐데... 여러 군데서 처방 받을 수가 있나요?",
+          "reply": "한국에서 안되는게 어딨음",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "진짜 명작이지만…… 1위는……힘듦;;;\n사람들은 복수하며 망가져가는 경민이를 보고 싶어하지 않음~!\n차라리 김도기처럼\n완전 다 때려부시기를 원함 ㅠㅠ",
+          "reply": "지옥은 왜 1위함? 다 지옥가는데 ㅋㅋㅋ",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "제목이뭐예요??",
+          "reply": "돼지의 왕",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "제목 좀 알려주세요",
+          "reply": "돼지의 왕",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "이거 제목이 뭔가요???",
+          "reply": "돼지의왕  입니다",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "제목이 뭔가요",
+          "reply": "돼지의 왕",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "당시 동시간대 드라마가 하필..\n.\n.\n.\n.\n.\n\n남궁민의 \"천원짜리 변호사\"였습니다ㅠㅠ\n이걸 어떻게 이겨ㅋㅋㅋㅋ\n\n하지만 실화를 모티브로 제작 된 만큼\n묵직한 메시지를 전한다는 점에서 '블라인드' 완결까지 본 시청자들에게는\n대부분 좋은 평가를 받고 있습니다. \n\n'티빙'에서 시청하는 걸 권장합니다.",
+          "reply": "그래서 제목모에요 🥹",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "공포",
+          "comment": "당시 동시간대 드라마가 하필..\n.\n.\n.\n.\n.\n\n남궁민의 \"천원짜리 변호사\"였습니다ㅠㅠ\n이걸 어떻게 이겨ㅋㅋㅋㅋ\n\n하지만 실화를 모티브로 제작 된 만큼\n묵직한 메시지를 전한다는 점에서 '블라인드' 완결까지 본 시청자들에게는\n대부분 좋은 평가를 받고 있습니다. \n\n'티빙'에서 시청하는 걸 권장합니다.",
+          "reply": "천변은 힘들지...",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "당시 동시간대 드라마가 하필..\n.\n.\n.\n.\n.\n\n남궁민의 \"천원짜리 변호사\"였습니다ㅠㅠ\n이걸 어떻게 이겨ㅋㅋㅋㅋ\n\n하지만 실화를 모티브로 제작 된 만큼\n묵직한 메시지를 전한다는 점에서 '블라인드' 완결까지 본 시청자들에게는\n대부분 좋은 평가를 받고 있습니다. \n\n'티빙'에서 시청하는 걸 권장합니다.",
+          "reply": "몇화까지 리뷰 하신건가요?",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "당시 동시간대 드라마가 하필..\n.\n.\n.\n.\n.\n\n남궁민의 \"천원짜리 변호사\"였습니다ㅠㅠ\n이걸 어떻게 이겨ㅋㅋㅋㅋ\n\n하지만 실화를 모티브로 제작 된 만큼\n묵직한 메시지를 전한다는 점에서 '블라인드' 완결까지 본 시청자들에게는\n대부분 좋은 평가를 받고 있습니다. \n\n'티빙'에서 시청하는 걸 권장합니다.",
+          "reply": "이거 재밌었는데 마지막까지 범인이 누군지 진짜 쫄깃쫄깃했어",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "당시 동시간대 드라마가 하필..\n.\n.\n.\n.\n.\n\n남궁민의 \"천원짜리 변호사\"였습니다ㅠㅠ\n이걸 어떻게 이겨ㅋㅋㅋㅋ\n\n하지만 실화를 모티브로 제작 된 만큼\n묵직한 메시지를 전한다는 점에서 '블라인드' 완결까지 본 시청자들에게는\n대부분 좋은 평가를 받고 있습니다. \n\n'티빙'에서 시청하는 걸 권장합니다.",
+          "reply": "휘파람 소리를 들으니 '갑동이(이준, 성동일)'가 생각나네요~ '이준'의  연기가 좋아서 더 재밌게 봄",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "기대",
+          "target": "기대",
+          "comment": "당시 동시간대 드라마가 하필..\n.\n.\n.\n.\n.\n\n남궁민의 \"천원짜리 변호사\"였습니다ㅠㅠ\n이걸 어떻게 이겨ㅋㅋㅋㅋ\n\n하지만 실화를 모티브로 제작 된 만큼\n묵직한 메시지를 전한다는 점에서 '블라인드' 완결까지 본 시청자들에게는\n대부분 좋은 평가를 받고 있습니다. \n\n'티빙'에서 시청하는 걸 권장합니다.",
+          "reply": "천변니라니.. 하긴 100마리가 너무 매력적이었지 다른 드라마가 눈에 안들어왔었음",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "1년 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "21:00 여기서 신안이 왜나오죠? 지역감정 오지는 드라마네요 ㅡㅡ 참",
+          "reply": "대림동 조선족들이랑 비슷한 말을 하네ㅋㅋ 그냥 그동네에서 있었던 실화를 각색했을뿐인데 조선족들이든 신안 사람이든 왜케 예민하게 구는지 ㅋㅋ 아킬레스건이라 민감한가",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "21:00 여기서 신안이 왜나오죠? 지역감정 오지는 드라마네요 ㅡㅡ 참",
+          "reply": "극비수사 소원 도가니 이거 전부다 부산, 안산, 광주 지역감정 영화네요~",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "21:00 여기서 신안이 왜나오죠? 지역감정 오지는 드라마네요 ㅡㅡ 참",
+          "reply": "신안 그거 솔직히 그 지역 사람들이 만든 이미지 아닌가?",
+          "comment_time": "1년 전",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 365,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "남궁민 드라마 말고 다른 드라마들한테도  밀릴거 같은데요..  드라마 완성도가 별론데..   남궁민 천원짜리 변호사도 시청률 별로 안높았음.",
+          "reply": "ㅋㅋㅋㅋㅋ 천변 후속작 소방서 옆 경찰서 시청률이랑 차이 많이 나는데 뭔 소맄ㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "1년 전(수정됨)",
+          "reply_time": "1년 전",
+          "time_diff_days": 1
+        }
+      ]
+    }
+  ]
+}

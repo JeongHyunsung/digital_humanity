@@ -1,0 +1,3656 @@
+{
+  "nodes": [
+    {
+      "id": "공포",
+      "label": "공포",
+      "group": "emotion"
+    },
+    {
+      "id": "기대",
+      "label": "기대",
+      "group": "emotion"
+    },
+    {
+      "id": "기쁨",
+      "label": "기쁨",
+      "group": "emotion"
+    },
+    {
+      "id": "놀람",
+      "label": "놀람",
+      "group": "emotion"
+    },
+    {
+      "id": "분노",
+      "label": "분노",
+      "group": "emotion"
+    },
+    {
+      "id": "슬픔",
+      "label": "슬픔",
+      "group": "emotion"
+    },
+    {
+      "id": "신뢰",
+      "label": "신뢰",
+      "group": "emotion"
+    },
+    {
+      "id": "혐오",
+      "label": "혐오",
+      "group": "emotion"
+    }
+  ],
+  "frames": [
+    {
+      "timestamp": 1,
+      "events": [
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "신뢰",
+          "comment": "드디어 기다리고기다리시던\n출산 브이로그️\n\n축하 정말 감사합니다 ^^ \n(미래에서 왔어요 ㅋㅋㅋㅋㅋㅋㅋ)\n\n앞으로 코동이와 함께하는\n우리 네가족 일상 \n더 재밌으니 기대 마이마이 해주세요",
+          "reply": "너무너무 늘늘 기대만땅드립니당코슌패밀리 뽀에버",
+          "comment_time": "1일 전(수정됨)",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "드디어 기다리고기다리시던\n출산 브이로그️\n\n축하 정말 감사합니다 ^^ \n(미래에서 왔어요 ㅋㅋㅋㅋㅋㅋㅋ)\n\n앞으로 코동이와 함께하는\n우리 네가족 일상 \n더 재밌으니 기대 마이마이 해주세요",
+          "reply": "축하드려요 ~~~",
+          "comment_time": "1일 전(수정됨)",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "드디어 기다리고기다리시던\n출산 브이로그️\n\n축하 정말 감사합니다 ^^ \n(미래에서 왔어요 ㅋㅋㅋㅋㅋㅋㅋ)\n\n앞으로 코동이와 함께하는\n우리 네가족 일상 \n더 재밌으니 기대 마이마이 해주세요",
+          "reply": "미역국은언제나오나요?",
+          "comment_time": "1일 전(수정됨)",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "드디어 기다리고기다리시던\n출산 브이로그️\n\n축하 정말 감사합니다 ^^ \n(미래에서 왔어요 ㅋㅋㅋㅋㅋㅋㅋ)\n\n앞으로 코동이와 함께하는\n우리 네가족 일상 \n더 재밌으니 기대 마이마이 해주세요",
+          "reply": "순산 축하드려요~~~^^안녕 코동아~",
+          "comment_time": "1일 전(수정됨)",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "드디어 기다리고기다리시던\n출산 브이로그️\n\n축하 정말 감사합니다 ^^ \n(미래에서 왔어요 ㅋㅋㅋㅋㅋㅋㅋ)\n\n앞으로 코동이와 함께하는\n우리 네가족 일상 \n더 재밌으니 기대 마이마이 해주세요",
+          "reply": "축하해요",
+          "comment_time": "1일 전(수정됨)",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "드디어 기다리고기다리시던\n출산 브이로그️\n\n축하 정말 감사합니다 ^^ \n(미래에서 왔어요 ㅋㅋㅋㅋㅋㅋㅋ)\n\n앞으로 코동이와 함께하는\n우리 네가족 일상 \n더 재밌으니 기대 마이마이 해주세요",
+          "reply": "축하해요",
+          "comment_time": "1일 전(수정됨)",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "신뢰",
+          "comment": "드디어 기다리고기다리시던\n출산 브이로그️\n\n축하 정말 감사합니다 ^^ \n(미래에서 왔어요 ㅋㅋㅋㅋㅋㅋㅋ)\n\n앞으로 코동이와 함께하는\n우리 네가족 일상 \n더 재밌으니 기대 마이마이 해주세요",
+          "reply": "드뎌 영상이~~\n무사출산 츄카드려욤\n우하루님 몸관리 잘하시공\n코순찡애비 산후조리 화이팅~",
+          "comment_time": "1일 전(수정됨)",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "신뢰",
+          "comment": "진짜 2박3일 퇴원에 아이 둘 데리고 셀프조리  하루님도 남편분도 넘 대단하세요 다시 한 번 축하축하합니다",
+          "reply": "어머님은  위대합니다  오마이갓 돌보소서!!!",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "둘째는 몇주 빨리 태어나는게 룰인데 .. 대견한 가족^^ 딸이 있는 엄마인   내가 울컥하네요.. 건이 아빠가 잘하니 너무 고맙고 기특해요. 건이 엄빠 건이 다 궁뎅이 두들겨 주고 싶어요.  \"장하다 잘했어  아이구  \"  코동이도 세상에 나오너라 애썼다 라고^^  축하합니다^^",
+          "reply": "드뎌 보게되네여~~^^",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "7:18 아 설레면서 보다가 갑자기 등장한 쭝티나레이션에 웃음ㅜㅜ;; 내 설렘 돌려놔라예;;",
+          "reply": "하 유튜브 보다가튀어나오는 게임광고같음",
+          "comment_time": "2일 전(수정됨)",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "13:05 7년을 만나는데도 언제나 선녀를 공항으로 데리러 오고 꼬츨 사오는 선남 역시 스윗중남이다예🩷",
+          "reply": "잠만 스토쁘. 발음 조심하라예",
+          "comment_time": "2일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "10:20 아 스윗하다예예",
+          "reply": "내말이히",
+          "comment_time": "2일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "짜잔언니가 사람이랑 얘기하는거 처음봄",
+          "reply": "승아공주님왤케오랜만 ㅎㅎ.....\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n아니 근데 영상에서 사람이랑 말을 좀 안하긴했네요 생각해보니까...........ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "짜잔언니가 사람이랑 얘기하는거 처음봄",
+          "reply": "@killuada 언니저를기억하시다뇨.. 인생 다살았다",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "그림체 편안하다...",
+          "reply": "저도 편집하는데 .. 너무 훈훈해서 와 .. 이러면서봤어요  <- 진짜 이러고 ㅎㅎㅎㅎㅎ",
+          "comment_time": "1일 전(수정됨)",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "그림체 편안하다...",
+          "reply": "@killuada  편집 직접하세여??",
+          "comment_time": "1일 전(수정됨)",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "그림체 편안하다...",
+          "reply": "@killuada \n어떻게 이렇게 영상 편집을 해?? ૮꒰˵• ﻌ •˵꒱ა",
+          "comment_time": "1일 전(수정됨)",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "그림체 편안하다...",
+          "reply": "@rhot6e 네 ㅎ ………….. 원래는 나레이션까지 직접한거올리려다가 제목소리는좀 아닌고같아서 성우님에게 신세좀 졌습니다 ㅎ",
+          "comment_time": "1일 전(수정됨)",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "문익점선생님고마워 짜잔씨어머님고마워!!!",
+          "reply": "아 뭔가 했네 모카ㅋㅋㅋㅋㅋㅋㅋㅋ 목화씨를 숨겨온 문익점 ㅈㄴ 웃기다",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "문익점선생님고마워 짜잔씨어머님고마워!!!",
+          "reply": "문익점씨땡큐~ㅇ.<",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "문익점선생님고마워 짜잔씨어머님고마워!!!",
+          "reply": "아씨 개웃기넼ㅋㅋㅋㅋ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "문익점선생님고마워 짜잔씨어머님고마워!!!",
+          "reply": "문익점 선생님 땡큐~~•_<",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "문익점선생님고마워 짜잔씨어머님고마워!!!",
+          "reply": "모카씨 델고온 무닉점 teacher",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "문익점선생님고마워 짜잔씨어머님고마워!!!",
+          "reply": "피곤한 오후엔 역시 달달한 모카라떼~ ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 이거지..",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "문익점선생님고마워 짜잔씨어머님고마워!!!",
+          "reply": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ아 드립 미치겟다ㅠㅠㅠ개웃겨",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "문익점선생님고마워 짜잔씨어머님고마워!!!",
+          "reply": "문익점 선생님 땡큐~ㅇ3<",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "헐 미친  00:46 이랑 12:32 부터 나오는 bgm 제가 몇달전에 만들어서 셀바이뮤직에 올렸던 브금인데.. 이게 여기에 나올줄이야 너무영광이네요 하필이면 내가 젤 좋아하는 모카나오는 유튜브에ㅜㅜㅜㅜㅠㅠㅜㅜ",
+          "reply": "헐,,, 정말요?꺄아아아아아 저 거짓말안하고 셀바이뮤직에서 노래를 한 2시간동안 찾았어요 훈녀노래가 은근히 없어서 ㅠㅠㅠ...\n만들어주셔서 감사합니다 진짜.. 다른 노래들도 진짜 좋아요 제스타일 ㅎ",
+          "comment_time": "1일 전(수정됨)",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "헐 미친  00:46 이랑 12:32 부터 나오는 bgm 제가 몇달전에 만들어서 셀바이뮤직에 올렸던 브금인데.. 이게 여기에 나올줄이야 너무영광이네요 하필이면 내가 젤 좋아하는 모카나오는 유튜브에ㅜㅜㅜㅜㅠㅠㅜㅜ",
+          "reply": "@ 이거보고 동기부여돼서 또 만들러 가야겠는걸요",
+          "comment_time": "1일 전(수정됨)",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "그니까 이 두 여성이 실제로 실존하는데, 둘이서 한 공간에 있엇다고? 썸네일 보고도 못 믿어서 눈 껌뻑거렷어",
+          "reply": "저두요 ....약간 꿈꿨다고생각해요 \n내가 어제 꾼 꿈을 모두에게 보여준 느낌...",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "빌리프랩 감다살됏다 다른 멤버도아니고 모카 출연시킨 거 ㄹㅇ굿",
+          "reply": "11:48 우리모두 화이팅이야",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "아일릿 중에서도 모카랑 찍은게 정말 너무 감다살이라 뇌 녹을 것 같다..\n화면에서 좋은 향기남",
+          "reply": "뽀송뽀송향기나죠ㅎ......... 정말 즐거운데이트였답니다 흑흑 다시돌아가고싶어~~ㅠ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "모카 미모 진짜 미친것 같음\n항상 감탄하게 되더라",
+          "reply": "저도 찍는 내내 \n약간 꿈인줄알았습니다 ..... \n아직도 안믿기는...... 모카님 항상 화이팅🩷🪽",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "모카 미모 진짜 미친것 같음\n항상 감탄하게 되더라",
+          "reply": "닉 ㅋㅋ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "모카 미모 진짜 미친것 같음\n항상 감탄하게 되더라",
+          "reply": "미소녀 모카 폼 미쳤다",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "헐 이게 무슨 일이야 모카와 짜잔씨라니",
+          "reply": "모짜렐라",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "신뢰",
+          "comment": "모&짜가 치즈추가한 떡볶이를먹는다니 이거 아주 의미심장하네요…",
+          "reply": "이댓글너무귀여워서 마음좋아짐..",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "신뢰",
+          "comment": "모&짜가 치즈추가한 떡볶이를먹는다니 이거 아주 의미심장하네요…",
+          "reply": "아생각해보니까 모짜렐라 넘 기엽다  \n모앤짜",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "눈이 향기로워졌어요",
+          "reply": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "OMG Moka being on MissTada’s channel was not on my bucket list, but I’m glad because this is literal perfection!! I hope your channel becomes a hot spot for other idols too!! Rei would be an great next guest",
+          "reply": "I didn't even know misstada was that famous",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "얼굴합 ㄹㅇ 마음이 편안해짐 영상에서 향기나는거가틈",
+          "reply": "뽀송뽀송한향기가 솔솔...",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "아 다음편 레이 해주세요 아이브 레이요 ㅠㅠㅠㅠㅠㅠㅠㅠ그러고 모카 레이 짜잔 셋이 만나는 것도 괜찮을 듯..이 여자들 사랑해",
+          "reply": "오마이갓…너무 잘 어울리는 조합이에요ㅠㅠㅠ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "아 다음편 레이 해주세요 아이브 레이요 ㅠㅠㅠㅠㅠㅠㅠㅠ그러고 모카 레이 짜잔 셋이 만나는 것도 괜찮을 듯..이 여자들 사랑해",
+          "reply": "@Pad_o  그쵸..아마 짜잔님도 똑같은 생각하실거라고 생각합니다..ㅠㅠㅠㅠㅠ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "신뢰",
+          "comment": "아 다음편 레이 해주세요 아이브 레이요 ㅠㅠㅠㅠㅠㅠㅠㅠ그러고 모카 레이 짜잔 셋이 만나는 것도 괜찮을 듯..이 여자들 사랑해",
+          "reply": "셋이면 레이소녀 저기서 제일 귀여운 얼굴일텐데 키 제일 커서 혼자 거대할거 생각하면 너무 귀엽고.. 생각만 해도 웃음남ㅜㅜ..",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "아 다음편 레이 해주세요 아이브 레이요 ㅠㅠㅠㅠㅠㅠㅠㅠ그러고 모카 레이 짜잔 셋이 만나는 것도 괜찮을 듯..이 여자들 사랑해",
+          "reply": "@이주원-s9x   ㅁㅊ이조합 너무좋다ㅜㅜ 모카를 시작으로 레이 원희 이로하 엔믹스지우 피프티피프티아테나 등등 미소녀들 전부 다 나왔으면 좋겠음",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "아 다음편 레이 해주세요 아이브 레이요 ㅠㅠㅠㅠㅠㅠㅠㅠ그러고 모카 레이 짜잔 셋이 만나는 것도 괜찮을 듯..이 여자들 사랑해",
+          "reply": "개레알 ㅠㅠㅠㅠ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "아 다음편 레이 해주세요 아이브 레이요 ㅠㅠㅠㅠㅠㅠㅠㅠ그러고 모카 레이 짜잔 셋이 만나는 것도 괜찮을 듯..이 여자들 사랑해",
+          "reply": "레이소녀라니ㅠㅜㅜㅠㅜ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "아 다음편 레이 해주세요 아이브 레이요 ㅠㅠㅠㅠㅠㅠㅠㅠ그러고 모카 레이 짜잔 셋이 만나는 것도 괜찮을 듯..이 여자들 사랑해",
+          "reply": "아이브 레이, 베몬 아사 소녀들 무조건 나와야됨 제발",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "아 다음편 레이 해주세요 아이브 레이요 ㅠㅠㅠㅠㅠㅠㅠㅠ그러고 모카 레이 짜잔 셋이 만나는 것도 괜찮을 듯..이 여자들 사랑해",
+          "reply": "아사 소녀 진짜 감다살",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "분노",
+          "comment": "아 다음편 레이 해주세요 아이브 레이요 ㅠㅠㅠㅠㅠㅠㅠㅠ그러고 모카 레이 짜잔 셋이 만나는 것도 괜찮을 듯..이 여자들 사랑해",
+          "reply": "레이 진짜 개추",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "아 다음편 레이 해주세요 아이브 레이요 ㅠㅠㅠㅠㅠㅠㅠㅠ그러고 모카 레이 짜잔 셋이 만나는 것도 괜찮을 듯..이 여자들 사랑해",
+          "reply": "내 생각에는 모카 아사 딱 요라인이 완소..",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "짜릿해..........................",
+          "reply": "제발 둘도 만나주세요",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "짜릿해..........................",
+          "reply": "어머 미소녀 3종세트;;;",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "짜릿해..........................",
+          "reply": "진짜제발만나줘ㅓㅓ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "짜릿해..........................",
+          "reply": "다음 출연 갑시당",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "짜릿해..........................",
+          "reply": "듀아아아",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "짜릿해..........................",
+          "reply": "천사와 악마....  흑과백.. 상상만으로도 행복하다...",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "소속사진짜ㄹㅈㄷ다… 솔직히 이상한욕하고 가지않았으면하는분위기에 꽂을까봐 걱정되기도 하는데 딱 여자들이 좋아하는 우땨땨조합 만들어주는게 넘 죠타아",
+          "reply": "ㄹㅇ 맨날 여돌들 개저들이 mc하는 유튜브 나갈때마다 ㅈㄴ 걱정되는데!!!!ㅠㅠㅠㅠㅠㅠㅠ 이게무슨일이야... ㅈ\nㄴ좋음...",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "슬픔",
+          "target": "분노",
+          "comment": "소속사진짜ㄹㅈㄷ다… 솔직히 이상한욕하고 가지않았으면하는분위기에 꽂을까봐 걱정되기도 하는데 딱 여자들이 좋아하는 우땨땨조합 만들어주는게 넘 죠타아",
+          "reply": "ㄹㅇ 맨날 여돌들 이상한프로그램나가서 불편하게앉아잇는거볼때마다 넘 싫엇씀 ㅠㅠ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "신뢰",
+          "comment": "이게무슨미친아름다운콘텐츠에요언니?!??",
+          "reply": "울공주들 주말에 보면서 쉬라고 ㅎㅎ............",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "이게무슨미친아름다운콘텐츠에요언니?!??",
+          "reply": "@killuada 언니!!!!!!!🩷🩷🩷,,,저너무행복해요 언니영상보고 너무달콤달콤해요지금",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "모카 헬로키티 엄청 좋아하는데 선물 진짜 센스 있으시다🥹",
+          "reply": "업계1위다운모먼트죠 훗 \n전 부 다 블 루 라 구 요 후훗",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "진짜 말도 안된다….모카랑 짜잔씨 데이트라니 그냥 기절🫨🫨 게다가 내가 자주 가는 떡볶이집이라서 2차 기절",
+          "reply": "혹시 떡볶이집 이름 알 수 있을까용?!",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "진짜 말도 안된다….모카랑 짜잔씨 데이트라니 그냥 기절🫨🫨 게다가 내가 자주 가는 떡볶이집이라서 2차 기절",
+          "reply": "@killualuvu베스트프렌드 입니다! 숙대 근처예요!",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "진짜 말도 안된다….모카랑 짜잔씨 데이트라니 그냥 기절🫨🫨 게다가 내가 자주 가는 떡볶이집이라서 2차 기절",
+          "reply": "@killualuvu숙대앞에 베스트 프렌드라는 곳입니다!!",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "진짜 말도 안된다….모카랑 짜잔씨 데이트라니 그냥 기절🫨🫨 게다가 내가 자주 가는 떡볶이집이라서 2차 기절",
+          "reply": "@s00pink25  감사합니다!!",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "진짜 말도 안된다….모카랑 짜잔씨 데이트라니 그냥 기절🫨🫨 게다가 내가 자주 가는 떡볶이집이라서 2차 기절",
+          "reply": "아니 진짜 영상 보면 저 왜저렇게 낯가렸는지 좀 슬퍼져욬ㅋㅋㅋㅋㅋㅋㅋ 아진짜 더 다정한만남될수있었는데 하아......ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "신뢰",
+          "target": "신뢰",
+          "comment": "초초초미녀 둘의 만남 어머니마냥 흐뭇하게 보고갑니당.....\n(딸기같은 소녀 둘이 다니는 길마다 꽃이 핀다는 소문이있어요)",
+          "reply": "모카소녀 인트로에서 짜잔씨감성으로 웃는거 넘 코엽다ㅜㅜㅜ(짜잔씨도!!)평생소녀해주세요 둘다",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "신뢰",
+          "target": "기대",
+          "comment": "14:21  꺄아아아 둘이 손 맞대고 얘기하는거 너무너무 만화같아 귀여워",
+          "reply": "모카님너무아기같아요진짜.. ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ크흠 ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "짜잔시를 당장 빌리프랩 아트디렉터로 채용하라",
+          "reply": "그건 안 됨 짜잔씨는 공주임",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "짜잔시를 당장 빌리프랩 아트디렉터로 채용하라",
+          "reply": "공주는 일 안해요",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "분노",
+          "target": "기대",
+          "comment": "짜잔시를 당장 빌리프랩 아트디렉터로 채용하라",
+          "reply": "@겸디갹-k2c  근데 짜잔씨 감성이랑 아일릿mood랑 너무 잘어울림",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "신뢰",
+          "target": "신뢰",
+          "comment": "와 진짜 짜잔씨랑 멀어지는 느낌이다… 짜잔웅니는 오늘도 예쁘네… 짜잔씨가 유명해지는건 정말 기쁜 일이야!! \n언니가 행복했으면 조켔당\n오늘 웅니가 말 많이 해서 좋다 헤헤",
+          "reply": "아니 왜 멀어지는기분이야 공주♡♡♡♡♡♡♡♡♡♡\n잘지냈우???? ㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎ\n짜잔씨 다음영상에서 말만이하께... 점점 말 많이하려고 노력중야 크흠 ㅎㅎㅎㅎㅎㅎㅎㅎㅎ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "신뢰",
+          "target": "놀람",
+          "comment": "와 진짜 짜잔씨랑 멀어지는 느낌이다… 짜잔웅니는 오늘도 예쁘네… 짜잔씨가 유명해지는건 정말 기쁜 일이야!! \n언니가 행복했으면 조켔당\n오늘 웅니가 말 많이 해서 좋다 헤헤",
+          "reply": "@killuada 웅니 이제 진짜 완전 연예인이야.. 나도 짜잔씨랑 스티커 사진 찍고 싶다ㅠㅠ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "와 진짜 짜잔씨랑 멀어지는 느낌이다… 짜잔웅니는 오늘도 예쁘네… 짜잔씨가 유명해지는건 정말 기쁜 일이야!! \n언니가 행복했으면 조켔당\n오늘 웅니가 말 많이 해서 좋다 헤헤",
+          "reply": "@Loouchae  꼭가치찍자 공주",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "언니 !  저는 언니 영상을 3년전부터 보던 구독자에요! 지금까지 부끄러워서 댓글을 달지 못했는데 오늘은 꼭 마음을 전하고 싶어요.! 저는 항상 자신감도 없고 제 외모가 싫어서 매일 안경에 마스크만 쓰고 다니던 학생이였어요. 근데 3년전에 언니 영상을 처음보고 언니같은 사람이 되고싶었어요. 스스로를 사랑하고, 자신이 좋아하는것이 무엇인지 잘 알고 그것들을 아낄줄 아는 언니가 너무너무 좋고 멋져보였어요..! 그래서 그때부터 제가 좋아하는게 어떤 건지도 알아보고, 옷도 사보고 메이크업도 언니를 보면서 따라했어요. 그래서 자신감도 엄청 얻고 ! 저 자신을 진심으로 아끼고 사랑하게 되었어요.! 유튜브 해주셔서 정말 감사해요. 언니 영상을 보면서 진심으로 나를 사랑하고 내 삶을 아끼는 법을 배운 것 같아요. 언니 채널이 지금 이렇게 커져서 진심으로 너무너무 좋고 행복해요.. \n제가 언니를 사랑하는 마음이 언니가 앞으로 받을 사랑중에 가장 작은 마음이였으면 좋겠습니다. \n짜잔씨가 매일매일 받게되는 행운과 사랑들이 넘쳐나길 기도할게요. 사랑해요.",
+          "reply": "우와.. 저는 지나가는 사람 중 한 명인데 너무 대견하셔서 댓글 남겨요 ㅎㅎ\n스스로를 사랑하는 일은 굉장히 어려운 일 인데 그걸 해냈다니 너무 멋있으세요! 자신을 사랑하난 것과 무엇을 좋아하는지 알아가고 있는건 매우 소중한 일이죠.\n댓쓰니님도 앞으로의 나날들에 사랑과 행운이 가득하시기를~~",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기대",
+          "comment": "언니 !  저는 언니 영상을 3년전부터 보던 구독자에요! 지금까지 부끄러워서 댓글을 달지 못했는데 오늘은 꼭 마음을 전하고 싶어요.! 저는 항상 자신감도 없고 제 외모가 싫어서 매일 안경에 마스크만 쓰고 다니던 학생이였어요. 근데 3년전에 언니 영상을 처음보고 언니같은 사람이 되고싶었어요. 스스로를 사랑하고, 자신이 좋아하는것이 무엇인지 잘 알고 그것들을 아낄줄 아는 언니가 너무너무 좋고 멋져보였어요..! 그래서 그때부터 제가 좋아하는게 어떤 건지도 알아보고, 옷도 사보고 메이크업도 언니를 보면서 따라했어요. 그래서 자신감도 엄청 얻고 ! 저 자신을 진심으로 아끼고 사랑하게 되었어요.! 유튜브 해주셔서 정말 감사해요. 언니 영상을 보면서 진심으로 나를 사랑하고 내 삶을 아끼는 법을 배운 것 같아요. 언니 채널이 지금 이렇게 커져서 진심으로 너무너무 좋고 행복해요.. \n제가 언니를 사랑하는 마음이 언니가 앞으로 받을 사랑중에 가장 작은 마음이였으면 좋겠습니다. \n짜잔씨가 매일매일 받게되는 행운과 사랑들이 넘쳐나길 기도할게요. 사랑해요.",
+          "reply": "부럽.. 저도 자존감 키우기 연습해봐야겟어요..",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "와 머야 웅니 이거 진짜에요???? 내가제일 좋아하는 미소녀 둘이 뭉쳣어",
+          "reply": "맞아!!! 또한 내가 가장 좋아하는 것은 모카 때문이다",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "문익점선생님 ㅈㄴ 땡큐♡",
+          "reply": "모카씨 ㅋㅋㅋㅋㅋ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "이거 완전 인소감이잔아!!!! 내향집수니미소녀 짜잔과 최고인기 아이도루 미소녀와의 만남이라니..!!!!!!!ㅜㅜㅜㅜ 체고야",
+          "reply": "꺙 내 공주야아아아아 오늘도 와줬구나 ㅜㅜㅜㅜㅜㅜ\n이뿌니 사랑해 ㅎ \n집순이 잠깐 탈출해써 ㅎ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "와 아이돌 옆에서도 안꿀리는 미모..",
+          "reply": "ㄹㅇ 관리도안받을텐데.....",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "신뢰",
+          "target": "놀람",
+          "comment": "와....ㅋㅋㅋ김모카 진짜 너무예뻐요 ㅠㅠㅠㅠㅠ 헬로키티 모카쨩 좋아하는데",
+          "reply": "그쵸 ㅎ... 심지어 저거 진짜 제가 그냥하는말아니라 희귀한 매물들이에요 .......",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "그림체가 정말 편안하게 느껴지네 진짜 고마워 짜잔씨랑 모카가 나오니 완전 행복해 다음엔 레이도 꼭 해줘 이 여자들이 정말 사랑스러워 못 견디겠다 니네 덕에 심장이 터질 듯해",
+          "reply": "이거 댓글 프사 눌렀더니 채널에서 숨겨진 좌표가 나옴ㅋ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "그림체가 정말 편안하게 느껴지네 진짜 고마워 짜잔씨랑 모카가 나오니 완전 행복해 다음엔 레이도 꼭 해줘 이 여자들이 정말 사랑스러워 못 견디겠다 니네 덕에 심장이 터질 듯해",
+          "reply": "요거 댓글 프사 눌렀더요거 숨겨진 좌표 있음ㅋㅋ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "그림체가 정말 편안하게 느껴지네 진짜 고마워 짜잔씨랑 모카가 나오니 완전 행복해 다음엔 레이도 꼭 해줘 이 여자들이 정말 사랑스러워 못 견디겠다 니네 덕에 심장이 터질 듯해",
+          "reply": "이거 댓글 프사 터치해서 채널 들어가니깐 대박 좌표 나왔어!",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "신뢰",
+          "target": "놀람",
+          "comment": "아우 귀여워 씩씩한 시골 다람쥐가틈ㅠㅠㅠㅠㅠ",
+          "reply": "ㄹㅇㅋㅋ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "배우히기에 과하게 귀엽고  \n아이돐히기에 넘치게 이쁨",
+          "reply": "공감",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "신뢰",
+          "comment": "재은언니!!! 재수하는 중인데 아침부터 선물받은 기분이에요...올해는 꼭 언니랑 같은학교 다니고 싶어요 늘 행복하게 해줘서 고마워요",
+          "reply": "꼭 이루시고 하루 하루 벽돌 쌓듯이 지내면 결과가 무너지지 않습니다. 즐건하루요.",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "재은언니!!! 재수하는 중인데 아침부터 선물받은 기분이에요...올해는 꼭 언니랑 같은학교 다니고 싶어요 늘 행복하게 해줘서 고마워요",
+          "reply": "@aquaman38 와~~ 댓글보고 기분이 너무 좋아졌어요 감사해요",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "이분은 전문 메이크업받으면 아이돌보다는 배우상인듯",
+          "reply": "배우 셋팅학고 학교가기 브이로그 좋을듯",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "이분은 전문 메이크업받으면 아이돌보다는 배우상인듯",
+          "reply": "이분은 건대 연영과도 전과 가능하게 만들어야ㅋㅋㅋ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "이분은 전문 메이크업받으면 아이돌보다는 배우상인듯",
+          "reply": "박하선 느낌남 ㅋㅋ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "이분은 전문 메이크업받으면 아이돌보다는 배우상인듯",
+          "reply": "이미 연예인을 넘어섰음...",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "이분은 전문 메이크업받으면 아이돌보다는 배우상인듯",
+          "reply": "걍빻음",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "공포",
+          "comment": "이분은 전문 메이크업받으면 아이돌보다는 배우상인듯",
+          "reply": "그냥 김태희 딸이라 해도 믿겠구만",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "이분은 전문 메이크업받으면 아이돌보다는 배우상인듯",
+          "reply": "전과하자 연영과로",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "이분은 전문 메이크업받으면 아이돌보다는 배우상인듯",
+          "reply": "분위기가 완전 서민정 선생,, 옛드 햇살여주 잘 어울리심",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "분노",
+          "comment": "이분은 전문 메이크업받으면 아이돌보다는 배우상인듯",
+          "reply": "꼭 이런말하는애덜은 더빠앗지@uioexeec",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 1,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "이분은 전문 메이크업받으면 아이돌보다는 배우상인듯",
+          "reply": "앞모습은 김태희 옆모습은 김지원인데 합친 것보다 예쁨ㄷㄷㄷ 이 아가씨 덕에 다른 여성 유튜브들 조회수 많이 줄어들 듯ㅋ",
+          "comment_time": "1일 전",
+          "reply_time": "1일 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 2,
+      "events": [
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "7:18 아 설레면서 보다가 갑자기 등장한 쭝티나레이션에 웃음ㅜㅜ;; 내 설렘 돌려놔라예;;",
+          "reply": "이거 녹음 비하인드 영상 풀어달라예 선녀",
+          "comment_time": "2일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "7:18 아 설레면서 보다가 갑자기 등장한 쭝티나레이션에 웃음ㅜㅜ;; 내 설렘 돌려놔라예;;",
+          "reply": "아 진심 풀화면으로보다가 빵터져서 댓글창보러 뛰어옴 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "2일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "7:18 아 설레면서 보다가 갑자기 등장한 쭝티나레이션에 웃음ㅜㅜ;; 내 설렘 돌려놔라예;;",
+          "reply": "아 개웃겨ㅠ 바로 뒤에 나오는 똥파리 썬구리까지",
+          "comment_time": "2일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "7:47 쌰갈 선녀선남 여기 왜케웃기지\n지구를 정복할것만같다예",
+          "reply": "지구를 정복하고싶니? 제발아니라고 말해줘\n선녀선남:제발아니",
+          "comment_time": "2일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "7:47 쌰갈 선녀선남 여기 왜케웃기지\n지구를 정복할것만같다예",
+          "reply": "ㅋㅋㅊㅋㅊㅋㅊㅋㅋㅍㅋㅋㅋ십 ㅈㄴ 웃기네ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "2일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "7:47 쌰갈 선녀선남 여기 왜케웃기지\n지구를 정복할것만같다예",
+          "reply": "조나웃겨잠시만ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ띨빵한외계인들이지구종말일으키러온거같음ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "2일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "7:47 쌰갈 선녀선남 여기 왜케웃기지\n지구를 정복할것만같다예",
+          "reply": "비장한 로켓단 같음ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "2일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "13:52 엉댕이가 가벼운 사람 넘 좋다예",
+          "reply": "여루쓰 팬티 입고있어도 후다닥 일어난다예..",
+          "comment_time": "2일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "5:27 쫄깃쫄깃~쫜드쫜드~찡글찡글~탱글탱글~\n너무 중독적인거겟지..",
+          "reply": "여루 한국어 개잘해",
+          "comment_time": "2일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "아니 사랑한다예🫶🫶 이런주말에 단비같은 여단오 영상은 사랑한다예ㅔ 츠츠츠츠",
+          "reply": "아니 풀리오 팔에 사용하는거 맞냐예ㅔㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "2일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "쌰갈 이게 무슨 선물이야!!!!! 나 단수니 너무 좋은거자나 ㅠㅜ",
+          "reply": "ㅋㅋㅋ 아 음성지원 되네",
+          "comment_time": "2일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "9:07 돌래가 뭔데ㅠㅜㅋㅋㅋㅋㅋㅋ의문으로 끝난거도 킹받앜ㅋㅋㅋㅋㅋ",
+          "reply": "모래 아니었을까 츠츠츠",
+          "comment_time": "2일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "핑크 셔츠 정보 알 수 있을까요 나윤님!!!",
+          "reply": "자라 제품입니당!!🩷",
+          "comment_time": "2일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "01:03 핑크 블라우스가 uur 제품 맞나용? 찾아보니 현재 판매가 중단된건지,,,, 아님 블랙 블라우스 정보였는지 궁금합니당",
+          "reply": "앗 핑크 블라우스는 자라입니다🩷",
+          "comment_time": "3일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "01:03 핑크 블라우스가 uur 제품 맞나용? 찾아보니 현재 판매가 중단된건지,,,, 아님 블랙 블라우스 정보였는지 궁금합니당",
+          "reply": "@ 아 너무 잘어울리고 예뻐요 패완얼이신듯~!!🫶",
+          "comment_time": "3일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기대",
+          "target": "신뢰",
+          "comment": "1분대에 나오는 핑크블라우스 정보궁근해용",
+          "reply": "자라 제품이에용!🩷",
+          "comment_time": "2일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "[지유 세트 제품 할인 코드]\n 이벤트 기간: 2025년 5월 16일(금) ~ 5월 25일(일)\n 할인 코드: HONGSIFUJITA\n 할인 대상 제품: 데일리 팬 세트 / 데일리 팟 세트 / 듀얼 팬 세트 / 멀티세트\n  할인율: 15%\n 사용 방법: 제품 구매 시 할인 코드를 입력 후 결제\n 구매 링크: \n\n[홍시 구독자 대상 이벤트]\n jiu 프라이팬으로 만들어 보고 싶은 요리를 댓글로 남긴 후, 이벤트 참여 링크 속 설문을 작성해주세요!\n참여해주신 분들 중 추첨을 통해 총 3분께 'JIU M 핸들 세트 비치'를 선물로 드립니다.\n\n• 이벤트 기간: 2025년 5월 16일(금) ~ 5월 22일(목)\n• 당첨자 발표: 2025년 5월 23일(금) 고정댓글 안내 및 개별 연락\n• 이벤트 참여 링크:",
+          "reply": "안이 언니 할인코드가 다 소진됐다는듸유ㅠㅠㅠ",
+          "comment_time": "3일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "[지유 세트 제품 할인 코드]\n 이벤트 기간: 2025년 5월 16일(금) ~ 5월 25일(일)\n 할인 코드: HONGSIFUJITA\n 할인 대상 제품: 데일리 팬 세트 / 데일리 팟 세트 / 듀얼 팬 세트 / 멀티세트\n  할인율: 15%\n 사용 방법: 제품 구매 시 할인 코드를 입력 후 결제\n 구매 링크: \n\n[홍시 구독자 대상 이벤트]\n jiu 프라이팬으로 만들어 보고 싶은 요리를 댓글로 남긴 후, 이벤트 참여 링크 속 설문을 작성해주세요!\n참여해주신 분들 중 추첨을 통해 총 3분께 'JIU M 핸들 세트 비치'를 선물로 드립니다.\n\n• 이벤트 기간: 2025년 5월 16일(금) ~ 5월 22일(목)\n• 당첨자 발표: 2025년 5월 23일(금) 고정댓글 안내 및 개별 연락\n• 이벤트 참여 링크:",
+          "reply": "할인코드 벌써 소진된건가요..?!!!",
+          "comment_time": "3일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "[지유 세트 제품 할인 코드]\n 이벤트 기간: 2025년 5월 16일(금) ~ 5월 25일(일)\n 할인 코드: HONGSIFUJITA\n 할인 대상 제품: 데일리 팬 세트 / 데일리 팟 세트 / 듀얼 팬 세트 / 멀티세트\n  할인율: 15%\n 사용 방법: 제품 구매 시 할인 코드를 입력 후 결제\n 구매 링크: \n\n[홍시 구독자 대상 이벤트]\n jiu 프라이팬으로 만들어 보고 싶은 요리를 댓글로 남긴 후, 이벤트 참여 링크 속 설문을 작성해주세요!\n참여해주신 분들 중 추첨을 통해 총 3분께 'JIU M 핸들 세트 비치'를 선물로 드립니다.\n\n• 이벤트 기간: 2025년 5월 16일(금) ~ 5월 22일(목)\n• 당첨자 발표: 2025년 5월 23일(금) 고정댓글 안내 및 개별 연락\n• 이벤트 참여 링크:",
+          "reply": "여러분!! 무제한 할인코드로 다시 받아왔습니다:)\n할인코드 : HONGSIFUJITA\n이걸로 넣으시면 됩니다!",
+          "comment_time": "3일 전(수정됨)",
+          "reply_time": "2일 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "[지유 세트 제품 할인 코드]\n 이벤트 기간: 2025년 5월 16일(금) ~ 5월 25일(일)\n 할인 코드: HONGSIFUJITA\n 할인 대상 제품: 데일리 팬 세트 / 데일리 팟 세트 / 듀얼 팬 세트 / 멀티세트\n  할인율: 15%\n 사용 방법: 제품 구매 시 할인 코드를 입력 후 결제\n 구매 링크: \n\n[홍시 구독자 대상 이벤트]\n jiu 프라이팬으로 만들어 보고 싶은 요리를 댓글로 남긴 후, 이벤트 참여 링크 속 설문을 작성해주세요!\n참여해주신 분들 중 추첨을 통해 총 3분께 'JIU M 핸들 세트 비치'를 선물로 드립니다.\n\n• 이벤트 기간: 2025년 5월 16일(금) ~ 5월 22일(목)\n• 당첨자 발표: 2025년 5월 23일(금) 고정댓글 안내 및 개별 연락\n• 이벤트 참여 링크:",
+          "reply": "파스타에 빠진 임산부에요 밀가루만 먹히는데 귀찮고 몸도 힘들어서 원팬파스타만 주구장창 먹고있네요 jii팬으로 하면 더 맛있어질ㄱㅓ같아요오ㅎㅎ 출산 넘 축하드리고 육아팅+편집팅하세오",
+          "comment_time": "3일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "[지유 세트 제품 할인 코드]\n 이벤트 기간: 2025년 5월 16일(금) ~ 5월 25일(일)\n 할인 코드: HONGSIFUJITA\n 할인 대상 제품: 데일리 팬 세트 / 데일리 팟 세트 / 듀얼 팬 세트 / 멀티세트\n  할인율: 15%\n 사용 방법: 제품 구매 시 할인 코드를 입력 후 결제\n 구매 링크: \n\n[홍시 구독자 대상 이벤트]\n jiu 프라이팬으로 만들어 보고 싶은 요리를 댓글로 남긴 후, 이벤트 참여 링크 속 설문을 작성해주세요!\n참여해주신 분들 중 추첨을 통해 총 3분께 'JIU M 핸들 세트 비치'를 선물로 드립니다.\n\n• 이벤트 기간: 2025년 5월 16일(금) ~ 5월 22일(목)\n• 당첨자 발표: 2025년 5월 23일(금) 고정댓글 안내 및 개별 연락\n• 이벤트 참여 링크:",
+          "reply": "@hongsi_v 네~~~",
+          "comment_time": "3일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "[지유 세트 제품 할인 코드]\n 이벤트 기간: 2025년 5월 16일(금) ~ 5월 25일(일)\n 할인 코드: HONGSIFUJITA\n 할인 대상 제품: 데일리 팬 세트 / 데일리 팟 세트 / 듀얼 팬 세트 / 멀티세트\n  할인율: 15%\n 사용 방법: 제품 구매 시 할인 코드를 입력 후 결제\n 구매 링크: \n\n[홍시 구독자 대상 이벤트]\n jiu 프라이팬으로 만들어 보고 싶은 요리를 댓글로 남긴 후, 이벤트 참여 링크 속 설문을 작성해주세요!\n참여해주신 분들 중 추첨을 통해 총 3분께 'JIU M 핸들 세트 비치'를 선물로 드립니다.\n\n• 이벤트 기간: 2025년 5월 16일(금) ~ 5월 22일(목)\n• 당첨자 발표: 2025년 5월 23일(금) 고정댓글 안내 및 개별 연락\n• 이벤트 참여 링크:",
+          "reply": "우어어어어 홍시님과 같은\n크림리조또 만들어보고싶네요 ㅋㅋㅋ 냄비 탐난다요",
+          "comment_time": "3일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "[지유 세트 제품 할인 코드]\n 이벤트 기간: 2025년 5월 16일(금) ~ 5월 25일(일)\n 할인 코드: HONGSIFUJITA\n 할인 대상 제품: 데일리 팬 세트 / 데일리 팟 세트 / 듀얼 팬 세트 / 멀티세트\n  할인율: 15%\n 사용 방법: 제품 구매 시 할인 코드를 입력 후 결제\n 구매 링크: \n\n[홍시 구독자 대상 이벤트]\n jiu 프라이팬으로 만들어 보고 싶은 요리를 댓글로 남긴 후, 이벤트 참여 링크 속 설문을 작성해주세요!\n참여해주신 분들 중 추첨을 통해 총 3분께 'JIU M 핸들 세트 비치'를 선물로 드립니다.\n\n• 이벤트 기간: 2025년 5월 16일(금) ~ 5월 22일(목)\n• 당첨자 발표: 2025년 5월 23일(금) 고정댓글 안내 및 개별 연락\n• 이벤트 참여 링크:",
+          "reply": "안니 이거 지난영상에 제가 문의드렸던..? 프라이팬!! 맞나요!!\n\n저는 감바스 만들어서 먹어보고싶어요ㅠㅠ 깊은 그릇에 올리브오일 콸콸라라랄라 붓고 페퍼론치노,새우 등등 때려 넣어서 끓인거 그대로 가져와서 굽굽한 빵에 찍먹하면... 크으",
+          "comment_time": "3일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "[지유 세트 제품 할인 코드]\n 이벤트 기간: 2025년 5월 16일(금) ~ 5월 25일(일)\n 할인 코드: HONGSIFUJITA\n 할인 대상 제품: 데일리 팬 세트 / 데일리 팟 세트 / 듀얼 팬 세트 / 멀티세트\n  할인율: 15%\n 사용 방법: 제품 구매 시 할인 코드를 입력 후 결제\n 구매 링크: \n\n[홍시 구독자 대상 이벤트]\n jiu 프라이팬으로 만들어 보고 싶은 요리를 댓글로 남긴 후, 이벤트 참여 링크 속 설문을 작성해주세요!\n참여해주신 분들 중 추첨을 통해 총 3분께 'JIU M 핸들 세트 비치'를 선물로 드립니다.\n\n• 이벤트 기간: 2025년 5월 16일(금) ~ 5월 22일(목)\n• 당첨자 발표: 2025년 5월 23일(금) 고정댓글 안내 및 개별 연락\n• 이벤트 참여 링크:",
+          "reply": "저는 김치볶음밥해보고 싶네요",
+          "comment_time": "3일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "[지유 세트 제품 할인 코드]\n 이벤트 기간: 2025년 5월 16일(금) ~ 5월 25일(일)\n 할인 코드: HONGSIFUJITA\n 할인 대상 제품: 데일리 팬 세트 / 데일리 팟 세트 / 듀얼 팬 세트 / 멀티세트\n  할인율: 15%\n 사용 방법: 제품 구매 시 할인 코드를 입력 후 결제\n 구매 링크: \n\n[홍시 구독자 대상 이벤트]\n jiu 프라이팬으로 만들어 보고 싶은 요리를 댓글로 남긴 후, 이벤트 참여 링크 속 설문을 작성해주세요!\n참여해주신 분들 중 추첨을 통해 총 3분께 'JIU M 핸들 세트 비치'를 선물로 드립니다.\n\n• 이벤트 기간: 2025년 5월 16일(금) ~ 5월 22일(목)\n• 당첨자 발표: 2025년 5월 23일(금) 고정댓글 안내 및 개별 연락\n• 이벤트 참여 링크:",
+          "reply": "할인코드 모두 소진 무엇......",
+          "comment_time": "3일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "[지유 세트 제품 할인 코드]\n 이벤트 기간: 2025년 5월 16일(금) ~ 5월 25일(일)\n 할인 코드: HONGSIFUJITA\n 할인 대상 제품: 데일리 팬 세트 / 데일리 팟 세트 / 듀얼 팬 세트 / 멀티세트\n  할인율: 15%\n 사용 방법: 제품 구매 시 할인 코드를 입력 후 결제\n 구매 링크: \n\n[홍시 구독자 대상 이벤트]\n jiu 프라이팬으로 만들어 보고 싶은 요리를 댓글로 남긴 후, 이벤트 참여 링크 속 설문을 작성해주세요!\n참여해주신 분들 중 추첨을 통해 총 3분께 'JIU M 핸들 세트 비치'를 선물로 드립니다.\n\n• 이벤트 기간: 2025년 5월 16일(금) ~ 5월 22일(목)\n• 당첨자 발표: 2025년 5월 23일(금) 고정댓글 안내 및 개별 연락\n• 이벤트 참여 링크:",
+          "reply": "더치베이비 영상에서 처음봤는데 퐁신퐁신 슈가파우더까지 비주얼",
+          "comment_time": "3일 전(수정됨)",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "홍시님 공시생이라 매번 30분 이내로 먹을수있는 음식으로 하루 한끼 먹고있는데요, 일주일 중 하루인 일요일에는 먹고싶었던 음식을 만들어 먹어요\n이번주는 크림파스타를 만들어먹고 싶었는데, 팬이 없더라구요..! 한번 응모해보아요.. 영상 볼때마다 힐링이에요 행복하세요",
+          "reply": "홧팅이요",
+          "comment_time": "2일 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 2,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "아 이거 보니까 도쿄 다시 가서 장기숙박 하고싶다 \n\n일본 놀러가고싶을때마다 누나꺼 챙겨볼게요",
+          "reply": "도쿄 라이프 추천 하시나요?! (궁금)",
+          "comment_time": "3주 전",
+          "reply_time": "2일 전",
+          "time_diff_days": 19
+        }
+      ]
+    },
+    {
+      "timestamp": 4,
+      "events": [
+        {
+          "timestamp": 4,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "11:50 There is a Turkish saying that goes “one language is one person, two languages are two people” that means learning a second language gives you a whole new perspective and a new way of thinking",
+          "reply": "Oh wow, I really like this saying",
+          "comment_time": "5일 전",
+          "reply_time": "4일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 4,
+          "source": "기대",
+          "target": "공포",
+          "comment": "와 미국분위기에 맞게 이뻐지시는 것 같아요…",
+          "reply": "그와중에 또 칭찬이든 뭐든 외모얘기하는것보면 참... 이영상에서 볼게 그거밖에 없었나.. 좋은 말들 진짜 많았는데",
+          "comment_time": "13일 전",
+          "reply_time": "4일 전",
+          "time_diff_days": 9
+        }
+      ]
+    },
+    {
+      "timestamp": 6,
+      "events": [
+        {
+          "timestamp": 6,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "약간 은은하게 도른(?) 것 같아서 잔잔한데 너무 웃갸요ㅋㅋㅋㅋ",
+          "reply": "청에 있으면 안 돌고는 못 버팁니다",
+          "comment_time": "2개월 전",
+          "reply_time": "6일 전",
+          "time_diff_days": 54
+        },
+        {
+          "timestamp": 6,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "오 ㅈㄴ 솔직한 여성분 \n진심 응원함",
+          "reply": "@아무개-d4x  공무원 연금 개편대서 저분은 그렇게 안나옴",
+          "comment_time": "2개월 전",
+          "reply_time": "6일 전",
+          "time_diff_days": 54
+        }
+      ]
+    },
+    {
+      "timestamp": 9,
+      "events": [
+        {
+          "timestamp": 9,
+          "source": "신뢰",
+          "target": "슬픔",
+          "comment": "신세대답게 발랄하고 밝으시네요.. 급여  중요하지만 구조조정없고 정년까지 신분보장 되는거 정말 짱입니다.. 기업은 벌써 어려운 시기입니다..",
+          "reply": "급여는 좀 적지만 상여금 600%확실하고\n복지가 짱짱하죠.\n\n공뭔연금 수익률 조낸 짱짱하고, \n개혁도 안돼서 2000년 전에 오링나고\n매년 4조에 가까운 세금으로 충당중이죠.",
+          "comment_time": "2개월 전",
+          "reply_time": "9일 전",
+          "time_diff_days": 51
+        }
+      ]
+    },
+    {
+      "timestamp": 10,
+      "events": [
+        {
+          "timestamp": 10,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "약간 은은하게 도른(?) 것 같아서 잔잔한데 너무 웃갸요ㅋㅋㅋㅋ",
+          "reply": "@파파-ui3  그르치, 세상이 너무 빨라서 예전같이 참하고 차분하면 힘듦",
+          "comment_time": "2개월 전",
+          "reply_time": "10일 전",
+          "time_diff_days": 50
+        }
+      ]
+    },
+    {
+      "timestamp": 11,
+      "events": [
+        {
+          "timestamp": 11,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "4:55 이런 문화 너무 부럽다…. 혼자 밥먹는게 편한 사람은 일반적인 한국 회사의 점심시간이 넘 힘들어요.. 동기들끼리 같이 먹어야 되고 따로 먹으면 뭔 일 있는 것처럼 관심 갖고 ㅜ",
+          "reply": "거절도 처음이 힘들지 나중엔 그러려니 해요.\n저는 도시락 싸서 다니고서부터 자연스럽게 혼자 먹었는데 그 이후로 동기들도 다 도시락행 ㅋㅋ",
+          "comment_time": "13일 전",
+          "reply_time": "11일 전",
+          "time_diff_days": 2
+        },
+        {
+          "timestamp": 11,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "4:55 이런 문화 너무 부럽다…. 혼자 밥먹는게 편한 사람은 일반적인 한국 회사의 점심시간이 넘 힘들어요.. 동기들끼리 같이 먹어야 되고 따로 먹으면 뭔 일 있는 것처럼 관심 갖고 ㅜ",
+          "reply": "회사마다 다르지 않나요...?! 저는 지금까지 다닌 회사 세 곳 전부 밥 갠플이었서요,,,\n답글분 말씀대로 처음이 힘들지 나중에는 그러려니 하지 않을까요?\n제가 다닌 회사들도 그런 식으로 갠플 문화가 형성되지 않았을까 싶습니다",
+          "comment_time": "13일 전",
+          "reply_time": "11일 전",
+          "time_diff_days": 2
+        },
+        {
+          "timestamp": 11,
+          "source": "기대",
+          "target": "분노",
+          "comment": "저도 뭔가 영어는 좀 더 직접적이고 풍부한 어휘를 사용하는 경향이 있기 때문에 상대적으로 한국어보다 따뜻하고 즉각적인 공감(?)이 느껴지는거 같아요ㅋㅋㅋ",
+          "reply": "뭔 언어학적 궤변이지... 모지라면 생각이란걸 하지마. 본질을 훼손하잖아",
+          "comment_time": "13일 전",
+          "reply_time": "11일 전",
+          "time_diff_days": 2
+        },
+        {
+          "timestamp": 11,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "영어 자막도 달아주심 넘~ 좋을 것 같아요~",
+          "reply": "영어자막 cc로 올려두었어요",
+          "comment_time": "13일 전",
+          "reply_time": "11일 전",
+          "time_diff_days": 2
+        },
+        {
+          "timestamp": 11,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "Waiting for eng sub again",
+          "reply": "eng sub is now uploaded!",
+          "comment_time": "12일 전",
+          "reply_time": "11일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 11,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "Twenty five? 적힌 초록 다이어리 사용 영상 찍어쥬세요 ㅜㅜ",
+          "reply": "(cc) 𝐕𝐋𝐎𝐆| 새해 다이어리 , 깜짝 브라이덜 샤워, 국제 이사 전 일상\nhttps://youtu.be/mA7fh3LHiA8  요기 찍어놨어요",
+          "comment_time": "11일 전",
+          "reply_time": "11일 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 12,
+      "events": [
+        {
+          "timestamp": 12,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "실수에 대한 위로의 방식에대해 말하는 부분 너무 공감되요~ 캐나다서 유학하며 파트잡으로 일했을때 한 테이블에서 결제실수를 한적이 있었는데 제가 너무 멘붕이고 죄송해 몸둘바를 몰랐고 진짜 혼날까봐 걱정했는데 오히려 매니저가 괜찮다고 요즘 피고해보이는데 잠을 잘 잤냐 물어보며 제 컨디션을 걱정해주더라구요ㅠㅠ 그당시 미드텀이랑 과제로 스트레스에 잠을 잘 못잔때였는데 그걸 눈치채고 오히려 저에게 잠깐 쉬면서 리프레시 하고 오라고 위로해줬어요. 그때 한국과는 실수에 대해 관대한 마음을 처음 느껴서 낯설지만 오히려 더 위로가 되더라구요ㅠㅠ 그러면서 저도 나중에 누군가의 실수에 관대하자 배우게 되더라구요",
+          "reply": "실수했을 때 잠깐 바람쐬고 쉬라고 이야기하는 것도 미국에 있는 레스토랑에서 목격했던 일인데 우연인지 신기하네요!! 넘 따뜻한 매니저분을 만나셨었네용..  맞아요 다양한 시각을 배우는 것 같아요",
+          "comment_time": "13일 전",
+          "reply_time": "12일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 12,
+          "source": "기대",
+          "target": "기대",
+          "comment": "영상 너무 감사하게 보고 있는 고3인데요.. 영어 원툴 문과인으로서 어케 살아가야하지... 인서울 대학에 들어가도, 취업은 가능하려나 돈은 벌고 살 수 있으려나 하는 막막함이 앞서는 와중에 나윤언니 영상을 보면 힘이 많이 돼요! 약간 워커홀릭스러우신 면이 없잖아 있는데, 제가 나윤언니처럼 바지런히 살 수 있는 사람인가 싶지만ㅋㅋㅋ 노력은 해봐야죠ㅎㅎ 오늘도 찾아와줘서 고마워요~ 잘 보고 갑네당",
+          "reply": "대학입시를 영특으로 들어가서 문과전공을 하더라도 내가 잘할 수 있는 일이 뭔지 항상 관심을 갖고 잘 여기저기 잘 들여다보면 문과도 할 수 있는게 정말 많아요 문과인데 될까? 의문이 들더라도 도전해보고 많이 듣고 배우고 경험하다보면 분명히 문이 열릴거에요!!",
+          "comment_time": "12일 전",
+          "reply_time": "12일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 12,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "와 미국분위기에 맞게 이뻐지시는 것 같아요…",
+          "reply": "헉 그런가욧!? 바뀐것같아보이나요...??? 그래도 좋게 보인다니 넘 감사합니다 ️",
+          "comment_time": "13일 전",
+          "reply_time": "12일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 12,
+          "source": "기대",
+          "target": "신뢰",
+          "comment": "혼자 밥먹는거 너무 부러워요 ㅜㅜㅜㅜ 한국은 혼자먹겠다하면 약간 사회성 부족한 사람,별종으로 여겨지는데 ㅜㅜㅜ\n\n초반에 나왔던 실크분홍블라우스 넘 잘어울리는데 왜 갈아입으셨대요 ㅎㅎ\n\n토마토 키우는것도 넘 기여워요 저도 요즘 다이소에서 봉선화키트사서 키우는중!!!!!\n\n오늘도 좋은하루보내세요><",
+          "reply": "감사합니다아  봉선화도 예쁘게 자라길 🩷",
+          "comment_time": "12일 전",
+          "reply_time": "12일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 12,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "나윤님! 영상 잘 보고가요 ㅎㅎ \n아침햇쌀이 비추는 화창한 날씨에 맑은 공기 마시며  NewYork 도시풍경이 아름다운 시내 둘러보면서 점심먹고 여유롭게 홀로 티타임 하시는 모습이 볼수록 멋진 커리어우먼 이세요",
+          "reply": "감사합니다",
+          "comment_time": "13일 전",
+          "reply_time": "12일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 12,
+          "source": "신뢰",
+          "target": "놀람",
+          "comment": "외국에서 미모 뿜뿜 감사합니다!! ㅎㅎ \n외국은 너무 부러워용~한국직장은 몇명안되눈 회사에서눈 커피두 내꺼만 사가기 뭣해서 항상 4잔씩 더 사서 들어가거등요~ 그리구 점심두 같이먹어야되구ㅠㅠ 한국도 소기업은 좀 따로따로했음 조켔어효ㅠ 헤횽 ㅎㅎㅎ",
+          "reply": "헉 커피를 네잔씩...! 개인텀블러 필수겟는데요,,!",
+          "comment_time": "12일 전(수정됨)",
+          "reply_time": "12일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 12,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "나윤님! 영상 잘 보고 있어요:-)\n동기부여를 받아서 영어회화 학원도 다니고 있답니다ㅎㅎ\n혹시 영상초반에 입으신 블랙 셔츠 정보 알 수 있을까요?!",
+          "reply": "uur입니다! 옷 정보 더보기란에 업데이트해두엇어요",
+          "comment_time": "12일 전",
+          "reply_time": "12일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 12,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "나윤님 카메라에 혹시 필터가 씌워져있나요..느낌 너무좋네요 !! 특히 배경 찍을때.. 혹시 카메라 정보 알 수 있을까요",
+          "reply": "캐논 v1입니다! 사실 이번주에 이 카메라 소개영상 준비하고 있어요 넘 예쁘게 잘 나와용!! .",
+          "comment_time": "12일 전",
+          "reply_time": "12일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 12,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "나윤님 카메라에 혹시 필터가 씌워져있나요..느낌 너무좋네요 !! 특히 배경 찍을때.. 혹시 카메라 정보 알 수 있을까요",
+          "reply": "@  감사합니다! 카메라 소개영상..!두근두근 🥹",
+          "comment_time": "12일 전",
+          "reply_time": "12일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 12,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "한국은 지금 마지막 연휴날이에요\n아이랑 오전시간 보내다가 나윤님 영상 봤는데 또다른 힐링 입니다 사무실에서 주로 노트북으로 일 많이 하시는것 같은데 [노트북 거치대] 하나 두고서 일하시면 좋을것같아요! 나중에 거북목, 어깨&목 뭉침이 몸에 안좋더라고요 그리고 미국의 각자 점심 먹는 문화는 한국 직장인으로서 너무 부럽습니다ㅋㅋ 1주 또 기다릴게요 \n(덕분에 애사비는 가족부터 부모님까지 챙겨드려서 함께 먹고 있어요^^)",
+          "reply": "애사비 정말 괜찮죠!! 주변에서도 다들 좋아하더라고요 ㅎㅎㅎ 노트북거치대 주문하겠습니당 감사해요",
+          "comment_time": "13일 전",
+          "reply_time": "12일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 12,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "오 ㅈㄴ 솔직한 여성분 \n진심 응원함",
+          "reply": "완전 솔직한 사람은 아님ㅋ 초반부에 월급 얘기할때 명세서중에 기본급(본봉) 항목만 쏘~옥~ 뽑아서 얘기함. 공무원노조가 주로 쓰는 페이크..",
+          "comment_time": "2개월 전",
+          "reply_time": "12일 전",
+          "time_diff_days": 48
+        },
+        {
+          "timestamp": 12,
+          "source": "공포",
+          "target": "슬픔",
+          "comment": "큰일났네..!\n우리 아들 9급 공무원 준비중인데 말릴 수도 없고  ㅠㅠ\n6월 시험 좋은 결과 있을꺼야 힘내~ 아들 화이팅~♡",
+          "reply": "공무원이 어느 중견 기업보다 낫습니다.. 쟤들이 자꾸 대기업과 비교를 해서 그렇지.. 지들 수준은 중소인데",
+          "comment_time": "2개월 전",
+          "reply_time": "12일 전",
+          "time_diff_days": 48
+        },
+        {
+          "timestamp": 12,
+          "source": "신뢰",
+          "target": "놀람",
+          "comment": "20대초에 입봉해 잘 버텨서 25에 8급인것만해도 꽤 인재이심...충주맨 버금가는 홍보관 되시길 바랍니다~!!",
+          "reply": "보통 5년 안에 8급 달던데..",
+          "comment_time": "2개월 전",
+          "reply_time": "12일 전",
+          "time_diff_days": 48
+        }
+      ]
+    },
+    {
+      "timestamp": 13,
+      "events": [
+        {
+          "timestamp": 13,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "어쩜 이렇게 사람이 사랑스러울 수가 있어....? 밖나윤의 모습을 뉴욕에서 잘볼 수 있어서 매력이 더 드러나는듯",
+          "reply": "한국보다는 밖에서 찍는 게 덜 부끄러운 기분.. 흐흐  고마워용",
+          "comment_time": "13일 전",
+          "reply_time": "13일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 13,
+          "source": "기쁨",
+          "target": "신뢰",
+          "comment": "중간고사 끝나고 마음 편히 보는 언니야 영상이라니…🥹🥹 행복해서 미쳐버려",
+          "reply": "고생많았어요!!🫶",
+          "comment_time": "13일 전",
+          "reply_time": "13일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 13,
+          "source": "기대",
+          "target": "기대",
+          "comment": "나윤님 1:53초에 나온 텀블러 색상 알 수 있을까요?! \n프루아 에코백 사이즈랑 맥북 프로도 잘 들어가는지도 궁금해요!🩵\n이제 미국에 정착하셔서 소소한 일상들 담아주시는게 저한텐 너무 설렌답니당..",
+          "reply": "킨토 텀블러 입니다!",
+          "comment_time": "13일 전(수정됨)",
+          "reply_time": "13일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 13,
+          "source": "기대",
+          "target": "기대",
+          "comment": "나윤님 영상 잘 봤습니다!\n혹시 3:00에 나온 텀블러 정보랑 집에서 사용 중이신 책상 정보 여쭤봐도 될까요?",
+          "reply": "키토 텀블러 입니당! 책상은 이케아 TROTTEN 입니다! ㅎㅎ",
+          "comment_time": "13일 전",
+          "reply_time": "13일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 13,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "나윤님 영상 잘 봤습니다!\n혹시 3:00에 나온 텀블러 정보랑 집에서 사용 중이신 책상 정보 여쭤봐도 될까요?",
+          "reply": "@gonayun  감사합니다!",
+          "comment_time": "13일 전",
+          "reply_time": "13일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 13,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "분홍에서 검정 블라우스로 바꿔입으신 날 검정 플랫슈즈 브랜드가 궁금해요!!",
+          "reply": "플랫슈즈 지그재그에서 급하게 샀던건데 기록을 못 찾겠어요 ㅠㅠ!! 상품이 사라진 것 같아요...",
+          "comment_time": "13일 전",
+          "reply_time": "13일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 13,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "나윤님 시계랑 목걸이 어디껀지 알려주세요! 넘나 찰떡입니당",
+          "reply": "시계는 까르띠에 목걸이는 위프레리입니다!! ️",
+          "comment_time": "13일 전",
+          "reply_time": "13일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 13,
+          "source": "기대",
+          "target": "기대",
+          "comment": "나윤님 항상 유튜브 잘 보고 동기부여 많이얻고 있습니다! 궁금한점이 있어서요! 재택근무하실때 입으셨던 나시 궁금합니다아",
+          "reply": "베리시에요! 방금 옷 정보 더보기란에 업데이트 해놨습니다아",
+          "comment_time": "13일 전",
+          "reply_time": "13일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 13,
+          "source": "기대",
+          "target": "신뢰",
+          "comment": "3분쯤에 입고계신 셔츠 궁금햐용 \n애사비 넘 잘먹고있는데 이거 너무 많이먹어서 문제에요,,, 새콤한거좋아하는 사람한테 최곱니당 ㅠㅠ\n혹시 흰색 스커트랑 입으셨는데 토보백은 이염 이슈가많더라구요,,!! 나윤님은 못느끼셨을까요 갑자기 토보백에 꽃혀버린사람,,,,",
+          "reply": "저도 이염 걱정했었는데 전 이염 아예 없더라구요! 흰 옷이랑 자주 입어용..!!! 뽑기운인지 모르겠어요",
+          "comment_time": "13일 전(수정됨)",
+          "reply_time": "13일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 13,
+          "source": "기대",
+          "target": "신뢰",
+          "comment": "3분쯤에 입고계신 셔츠 궁금햐용 \n애사비 넘 잘먹고있는데 이거 너무 많이먹어서 문제에요,,, 새콤한거좋아하는 사람한테 최곱니당 ㅠㅠ\n혹시 흰색 스커트랑 입으셨는데 토보백은 이염 이슈가많더라구요,,!! 나윤님은 못느끼셨을까요 갑자기 토보백에 꽃혀버린사람,,,,",
+          "reply": "저는 토보백 s 사이즈 있는데 이염 (물이 든다)는 느낌보다는 스웨이드 재질이라서 가루가 묻는 건 있는 거 같아요. 다른 옷에는 다 괜찮았던 거 같고..? 셔츠 입을 때는 메다보니 스쳐서 갈비뼈 쪽에 갈색 가루가 묻어있더라고요… 그거 빼면 다 괜찮아요! 근데 전 키도 작아서 L가 컸었어서 S 샀는데 나윤님 보니까 L이 더 예뻐 보인다는 …  \n\n토보백 색깔도 한몫하고 재질도 한몫해서 더워보이긴 하는데 한여름 빼면 괜찮은 거 같아요 ~ ㅎㅎ\n\n맨투맨이나 이런 거에도 매치해도 예뻐서.. 사실거면 라지 추천드려요 에스사이즈는 어깨에 메기에 좀 껴요 ㅎㅎㅋㅋㅋ맨투맨 입으면",
+          "comment_time": "13일 전(수정됨)",
+          "reply_time": "13일 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 13,
+          "source": "기대",
+          "target": "기대",
+          "comment": "3분쯤에 입고계신 셔츠 궁금햐용 \n애사비 넘 잘먹고있는데 이거 너무 많이먹어서 문제에요,,, 새콤한거좋아하는 사람한테 최곱니당 ㅠㅠ\n혹시 흰색 스커트랑 입으셨는데 토보백은 이염 이슈가많더라구요,,!! 나윤님은 못느끼셨을까요 갑자기 토보백에 꽃혀버린사람,,,,",
+          "reply": "@civilhej  우왕 달고나님 이렇게 친절하게 답변해주시다니 넘 감동인걸요,,🥹🥹 \n저도 키작고 외소한데 토보백은 또 라지가 이쁘더라구요... 작년부터 유행이였는데 갑자기 꽃혀버렸어요 ㅎㅎㅎㅎ 두달째 고민중이면 사야겠죠!!!!",
+          "comment_time": "13일 전(수정됨)",
+          "reply_time": "13일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 13,
+          "source": "기대",
+          "target": "기대",
+          "comment": "3분쯤에 입고계신 셔츠 궁금햐용 \n애사비 넘 잘먹고있는데 이거 너무 많이먹어서 문제에요,,, 새콤한거좋아하는 사람한테 최곱니당 ㅠㅠ\n혹시 흰색 스커트랑 입으셨는데 토보백은 이염 이슈가많더라구요,,!! 나윤님은 못느끼셨을까요 갑자기 토보백에 꽃혀버린사람,,,,",
+          "reply": "@kmm2724  헤헤 네! 저라면 일단 사구 막상 실물보고 마음에 안들면 반품할 것 같아요! (미닛뮤트도 반품 되죠?) 두달이면 사시는 게 훨 낫습니다! 저도 비싸서 고민했는데 캐쥬얼하게 입었을 때도 메면 예쁘고 나윤님처럼 차려입어도 예뻐요! 추천드립니당",
+          "comment_time": "13일 전(수정됨)",
+          "reply_time": "13일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 13,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "으이 ? 9급 공무원 본봉 말고 받는거 많아요 ..ㅜㅜ 너무 이런 영상들 때문에 아직도 200도 못받는줄 아는 사람 많은데... 5년 기준이면  220넘게 받습니다 ....ㅠ 월급이 계속 오르고 있어서.. 220뿐만 아니라 정근수당,성과급 추석명절 등등 받는거 많아서 평균내면 달에 260~300씩 됩니다~ 공무원 누가하냐고 놀립니까 다들 몰리는게 아직도 9급 7급 공무원인데 놀리는 본인들이 대기업 사무직이나 생산직을 다니던지, 전문직종이나 이런거 아니고선 공무원 무시할급 안됩니다. 꼭 놀린다는 애들이 보면 공무원 몇년 하다 떨어져서 중소기업 다니면서 공무원 왜 하냐며 자기위로 하더군요 ㅋㅋ",
+          "reply": "순수 기본급 항목만 뚝~ 떼서 드립치고 언플하는 공뭔들과 노조 때문에 혹하는 사람들이 많죠.. 어차피 자잘한 일은 공무직이나 임기제가 해주는데;;",
+          "comment_time": "2주 전",
+          "reply_time": "13일 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 13,
+          "source": "기대",
+          "target": "기대",
+          "comment": "도전하는삶 너무 멋져요!! \n실패해도 괜찮아요 국주님 말처럼 실패가 아니라 경험이죠~^^\n그리고 미리 걱정할 팔요도 없구요! 항상 응원하고 있어요\n너무 멋진사람",
+          "reply": "저도 한국 본가가아닌 다른지역에서 딱 한달 고시텔에서자취해봤지만 실패는했어도 좋은경험이었다고 생각해요! 혼자있는게 편하고 살기힘들다는걸 경험해봐서 진짜 국주님말처럼 실패해도 경험이니까",
+          "comment_time": "3주 전",
+          "reply_time": "13일 전",
+          "time_diff_days": 8
+        }
+      ]
+    },
+    {
+      "timestamp": 14,
+      "events": [
+        {
+          "timestamp": 14,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "약간 은은하게 도른(?) 것 같아서 잔잔한데 너무 웃갸요ㅋㅋㅋㅋ",
+          "reply": "요즘 세상 살아가려면 약간 돌아야 버틸수가잇음",
+          "comment_time": "2개월 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 46
+        },
+        {
+          "timestamp": 14,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "어린 나이시지만 정말 말도 잘하시고 저년차지만 오래 근무한거같은 이 느낌은 뭐지?  적응력이 빠르신거같아요",
+          "reply": "아니 공무원 애들은 왜 도대체 기본급만 말함?ㅋㅋㅋ 5년차면 원징 4000 넘음 ㅋㅋㅋㅋㅋ 기본급만 실수령액이 189만원이겠지 수당 타면 평달 200중반이상 나옴.",
+          "comment_time": "2개월 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 46
+        },
+        {
+          "timestamp": 14,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "오 ㅈㄴ 솔직한 여성분 \n진심 응원함",
+          "reply": "놀리는 친구들은 뭐임...? 공무원 꾸준히 돈 벌고 연봉도 점점 오르고 늙어은퇴해도 연금 나와서 폐지주울일도 앖는데",
+          "comment_time": "2개월 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 46
+        },
+        {
+          "timestamp": 14,
+          "source": "기대",
+          "target": "기대",
+          "comment": "올해40살이 됬는데 하던일을 그만두고 백수가 되었어요 ㅠ 이 나이에 이제 무얼하나 인생이 우울했는데 국주씨 보고 힘을 내보려구여! 40살도 무언가를 시작할 수 있는 나이라는 걸 깨닫고 갑니당",
+          "reply": "40살에도 시작할 수 있어요!  힘내세요! 같이 아자아자",
+          "comment_time": "2주 전",
+          "reply_time": "2주 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 21,
+      "events": [
+        {
+          "timestamp": 21,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "고등학교 때 같은 미술학원 다녔는데 수채화를 잘 그렸던 국주양은 그 때도 항상 밝은 에너지가 넘치고 재치있고 재밌었던 친구로 기억합니다. \n저도 늦다면 늦은 32살에 무작정 일본 교토에 와서 정착해 살고 있어서 그런지 국주양의 도전이 반갑고 응원하고 싶어집니다. \n 저도 교토에서 일본 가족들과 작게 유튜브를 하고 있는데 일본에서 도울 일이 생긴다면 언제나 연락주세요 국주양  \n기회가 된다면 언젠가 교토나 도쿄에서 국주양 만나보고 싶네요ㅋㅋ 파이팅!!",
+          "reply": "에??? 진짜요??? 그렇다면 가둘기??? 미술학원인가요?",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "고등학교 때 같은 미술학원 다녔는데 수채화를 잘 그렸던 국주양은 그 때도 항상 밝은 에너지가 넘치고 재치있고 재밌었던 친구로 기억합니다. \n저도 늦다면 늦은 32살에 무작정 일본 교토에 와서 정착해 살고 있어서 그런지 국주양의 도전이 반갑고 응원하고 싶어집니다. \n 저도 교토에서 일본 가족들과 작게 유튜브를 하고 있는데 일본에서 도울 일이 생긴다면 언제나 연락주세요 국주양  \n기회가 된다면 언젠가 교토나 도쿄에서 국주양 만나보고 싶네요ㅋㅋ 파이팅!!",
+          "reply": "@kookjoo86  네ㅋㅋ 가둘기 미술학원 애니메이션반 손호진이라고 기억하실지 모르겠네요~ 수채화반이나 소묘반에서 가끔 수업도 같이 받고 놀러도 자주 가고 했었어요",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "고등학교 때 같은 미술학원 다녔는데 수채화를 잘 그렸던 국주양은 그 때도 항상 밝은 에너지가 넘치고 재치있고 재밌었던 친구로 기억합니다. \n저도 늦다면 늦은 32살에 무작정 일본 교토에 와서 정착해 살고 있어서 그런지 국주양의 도전이 반갑고 응원하고 싶어집니다. \n 저도 교토에서 일본 가족들과 작게 유튜브를 하고 있는데 일본에서 도울 일이 생긴다면 언제나 연락주세요 국주양  \n기회가 된다면 언젠가 교토나 도쿄에서 국주양 만나보고 싶네요ㅋㅋ 파이팅!!",
+          "reply": "@교토사는지우네  아~교토 지우네네!\n언제 한번 콜라보 해주세요 ㅋ",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "고등학교 때 같은 미술학원 다녔는데 수채화를 잘 그렸던 국주양은 그 때도 항상 밝은 에너지가 넘치고 재치있고 재밌었던 친구로 기억합니다. \n저도 늦다면 늦은 32살에 무작정 일본 교토에 와서 정착해 살고 있어서 그런지 국주양의 도전이 반갑고 응원하고 싶어집니다. \n 저도 교토에서 일본 가족들과 작게 유튜브를 하고 있는데 일본에서 도울 일이 생긴다면 언제나 연락주세요 국주양  \n기회가 된다면 언젠가 교토나 도쿄에서 국주양 만나보고 싶네요ㅋㅋ 파이팅!!",
+          "reply": "@kookjoo86  국주씨 일끊겻나요ㅠ 방송뭘많이했다고 돈이 그닥 많지도 않을텐데ㅠ 멋하러 일본엔왔어요 돈아까움..",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기쁨",
+          "target": "슬픔",
+          "comment": "고등학교 때 같은 미술학원 다녔는데 수채화를 잘 그렸던 국주양은 그 때도 항상 밝은 에너지가 넘치고 재치있고 재밌었던 친구로 기억합니다. \n저도 늦다면 늦은 32살에 무작정 일본 교토에 와서 정착해 살고 있어서 그런지 국주양의 도전이 반갑고 응원하고 싶어집니다. \n 저도 교토에서 일본 가족들과 작게 유튜브를 하고 있는데 일본에서 도울 일이 생긴다면 언제나 연락주세요 국주양  \n기회가 된다면 언젠가 교토나 도쿄에서 국주양 만나보고 싶네요ㅋㅋ 파이팅!!",
+          "reply": "@아기가오나시  댓글 내용이 다 이국주씨 악플 뿐이네요,, 좀,, 생산적으로 사새요^^",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "고등학교 때 같은 미술학원 다녔는데 수채화를 잘 그렸던 국주양은 그 때도 항상 밝은 에너지가 넘치고 재치있고 재밌었던 친구로 기억합니다. \n저도 늦다면 늦은 32살에 무작정 일본 교토에 와서 정착해 살고 있어서 그런지 국주양의 도전이 반갑고 응원하고 싶어집니다. \n 저도 교토에서 일본 가족들과 작게 유튜브를 하고 있는데 일본에서 도울 일이 생긴다면 언제나 연락주세요 국주양  \n기회가 된다면 언젠가 교토나 도쿄에서 국주양 만나보고 싶네요ㅋㅋ 파이팅!!",
+          "reply": "@곽두팔-u3u  왜요 찔려요? 팩트를 악플이라고 받아들이는거니 뚱뚱하신가바요ㅋㅋ",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "고등학교 때 같은 미술학원 다녔는데 수채화를 잘 그렸던 국주양은 그 때도 항상 밝은 에너지가 넘치고 재치있고 재밌었던 친구로 기억합니다. \n저도 늦다면 늦은 32살에 무작정 일본 교토에 와서 정착해 살고 있어서 그런지 국주양의 도전이 반갑고 응원하고 싶어집니다. \n 저도 교토에서 일본 가족들과 작게 유튜브를 하고 있는데 일본에서 도울 일이 생긴다면 언제나 연락주세요 국주양  \n기회가 된다면 언젠가 교토나 도쿄에서 국주양 만나보고 싶네요ㅋㅋ 파이팅!!",
+          "reply": "@아기가오나시  ㅋㅋㅋㅋ 살다살다 연예인걱정을하네.. 구독자 수 안보이시나?\n이국주가 행사한번뛰면 본인 월급보다많이받아갈텐데\n하긴 이건 걱정이아니고 악플이지..한심하다",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기쁨",
+          "target": "혐오",
+          "comment": "고등학교 때 같은 미술학원 다녔는데 수채화를 잘 그렸던 국주양은 그 때도 항상 밝은 에너지가 넘치고 재치있고 재밌었던 친구로 기억합니다. \n저도 늦다면 늦은 32살에 무작정 일본 교토에 와서 정착해 살고 있어서 그런지 국주양의 도전이 반갑고 응원하고 싶어집니다. \n 저도 교토에서 일본 가족들과 작게 유튜브를 하고 있는데 일본에서 도울 일이 생긴다면 언제나 연락주세요 국주양  \n기회가 된다면 언젠가 교토나 도쿄에서 국주양 만나보고 싶네요ㅋㅋ 파이팅!!",
+          "reply": "악플러는 숨 5분만 참자",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "제자리에 머무는게 아닌 항상 앞으로 전진하는 멋진 국주언니 항상 응원해요 국주의 도쿄라이프도 기대할게요",
+          "reply": "거마워요^^",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "제자리에 머무는게 아닌 항상 앞으로 전진하는 멋진 국주언니 항상 응원해요 국주의 도쿄라이프도 기대할게요",
+          "reply": "@kookjoo86 국주씨 혼자노는거그만햇으면ㅜㅜ 이 나이에 남편이랑 자식이 있어야지 이게 멈니까....에휴",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "제자리에 머무는게 아닌 항상 앞으로 전진하는 멋진 국주언니 항상 응원해요 국주의 도쿄라이프도 기대할게요",
+          "reply": "@국군의날-x8d 남의인생 왈가왈부하지말고 본인인생이나 잘사세효 ㅉ",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "제자리에 머무는게 아닌 항상 앞으로 전진하는 멋진 국주언니 항상 응원해요 국주의 도쿄라이프도 기대할게요",
+          "reply": "⁠⁠ @국군의날-x8d 뭔상관입니까 부러워서 긁히셨나요?  남편이랑 자식있는게 유일한 자랑이신가봐요",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "제자리에 머무는게 아닌 항상 앞으로 전진하는 멋진 국주언니 항상 응원해요 국주의 도쿄라이프도 기대할게요",
+          "reply": "@국군의날-x8d  걱정하는척 상처주는 말 이제그만 하시길바래요. 아님 책을 좀 읽으셔서 공감을 좀 높이시면 좋을거같네요.",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "국주언니 진짜 좋은 사람이라는 거 제발 모두가 알았으면 좋겠다 소소한 일상을 봤을뿐인데 힐링돼요! 언니의 도쿄살이 자주자주 올려주세요",
+          "reply": "아닐수도 있지요~ 그렇다구요^",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "와 자취컨텐츠 너무 좋당 ㅠㅠㅠㅠㅠㅠㅠㅠ 전참시 국주편 중독자입니다 진자 2-3번씩 나오는거 전부 다봤어요 아기자기한 자취살림 기대됩니다 최고에용",
+          "reply": "언니는 거기에 두번해야해요",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "언니 인스타도 팔로우 되어잇구 유튭도 보는데 이게 무슨 우연인가요 저도 일본 생활한지 한달째 입니다 처음 정착기가 저랑 너무 비슷해요 집부터 식기 가전제품구매 너무 동질감? 느껴지네요 동네언니같이 너무 친근해요 너무 재밋네요 앞으로도 씩씩한 일본생활 응원할게요 화이팅",
+          "reply": "우와 설렌다️",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "보다가 갑자기 재생안되서 뿌에엥했는데\n재업 땡큐예요언니ㅋㅋㅋ다시볼께욤ㅋㅋㅋㅋㅋㅋ",
+          "reply": "으응 다시봐줘요^^ ㅋㅋㅋㅋ",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "전혀 놀랍지도 않고 이미 예상했던 일이야. 확실히 국주언니는 진짜 멋진 도전하신다니까? 도쿄 라이프가 더 행복하길 빌게!",
+          "reply": "이거 댓글 프사 눌렀더이거 진짜 신기한 좌표 나왔다ㅋ",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "전혀 놀랍지도 않고 이미 예상했던 일이야. 확실히 국주언니는 진짜 멋진 도전하신다니까? 도쿄 라이프가 더 행복하길 빌게!",
+          "reply": "이거 댓글 프사 눌러서 채널 들어갔더니 신기한 좌표가 있음ㅋㅋ",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "전혀 놀랍지도 않고 이미 예상했던 일이야. 확실히 국주언니는 진짜 멋진 도전하신다니까? 도쿄 라이프가 더 행복하길 빌게!",
+          "reply": "이거 댓글 프사 눌렀더이거 대단한 좌표가 나왔음ㅋㅋ",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "저도 서른살에 한국 다 정리하고 반 도피성으로 일본으로 왔어요. 1년만 일본어 배우고 돌아가자. 싶었던게 대학나오고 취직하고 결혼하고 아이낳고 잘 살고 있답니다. 새로운 시작 응원합니다",
+          "reply": "일본어 잘하고 싶은데 쉽지는 않네요 ㅠㅠ",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "언제나 응원해 누나!\n일본에서 힘든일 있으면 말하고!",
+          "reply": "오 좀 멋진뒙???ㅋㅋㅋㅋ",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 21,
+          "source": "기대",
+          "target": "신뢰",
+          "comment": "요즘 너무힘든시기를 보내고있는데\n국주씨 영상보면서  잠시나마 잊고 힐링했네요",
+          "reply": "힘내요️",
+          "comment_time": "3주 전",
+          "reply_time": "3주 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 28,
+      "events": [
+        {
+          "timestamp": 28,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "오 ㅈㄴ 솔직한 여성분 \n진심 응원함",
+          "reply": "@박박박-s4d 내 친구 아버지 4급으로 은퇴하셨는데 연금만 10억 넘게 나온단다 지림스",
+          "comment_time": "2개월 전",
+          "reply_time": "4주 전",
+          "time_diff_days": 32
+        }
+      ]
+    },
+    {
+      "timestamp": 30,
+      "events": [
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "휴먼스토리 멤버십 혜택\n 휴먼스토리 출연자분들과 함께 하는 생방송 소통 및 생방송 다시보기를 보실 수 있습니다.\n 휴먼스토리 영상에서는 다 담지 못했던 비하인드 스토리나 실전 노하우들을 담은 영상들을 공개합니다.\n▼ 멤버십 가입 링크\n\n\n-\n\n 영상 속 출연자 인스타 및 가게정보는\n아래 카페 링크에 있습니다 항상 시청해 주셔서 감사드립니다.\n▼ 카페 바로가기\n\n\n-\n\n  휴먼스토리 제작팀이 유튜브 채널 키워드립니다! 새로운 유튜브 채널 개설부터 영상 업로드까지 한번에! \n▼ 제작문의 [아래 링크로 작성]",
+          "reply": "최악의 민원처리 수원시 주정차 단속 안하고 제설작업 안하고 교통단속 안하고 정말 최악의  도시 ㅡ",
+          "comment_time": "2개월 전(수정됨)",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "오 ㅈㄴ 솔직한 여성분 \n진심 응원함",
+          "reply": "개인적으로 고촐 특채 없애야 한다고 봄 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "오 ㅈㄴ 솔직한 여성분 \n진심 응원함",
+          "reply": "정말 진심 놀랐지? 너두 현아!!! 너의적이 저래. 나 임미애인데. 작전여자고등학교 동창 임미애.",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "기대",
+          "comment": "오 ㅈㄴ 솔직한 여성분 \n진심 응원함",
+          "reply": "확실한건 공무원은 은퇴후 빛을봄",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "말도 안되는 mz보다가 사회생활잘하는 mz보니까 맘이 편하다 ... 멋져용",
+          "reply": "틀",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "말도 안되는 mz보다가 사회생활잘하는 mz보니까 맘이 편하다 ... 멋져용",
+          "reply": "저게 평균임... 뉴스나 sns좀 그만 보셔야 할듯",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "말도 안되는 mz보다가 사회생활잘하는 mz보니까 맘이 편하다 ... 멋져용",
+          "reply": "틀",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "말도 안되는 mz보다가 사회생활잘하는 mz보니까 맘이 편하다 ... 멋져용",
+          "reply": "니",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "말도 안되는 mz보다가 사회생활잘하는 mz보니까 맘이 편하다 ... 멋져용",
+          "reply": "틀",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "공포",
+          "target": "공포",
+          "comment": "충주맨이 공직에 독을 풀었다 ㅋㅋㅋ 충주맨이 많이 특이케이스긴 한데 얼굴 팔리면서 저렇게 일하는거면 공무원 메리트가 없음",
+          "reply": "@Ladiaram  ㄹㅇ 밑바닥 안경험해본 애들이나 공무원욕하지 공무원이 괜히 안정적이라는 말이 있는 게 아님. 40~60이구간까지 버티면 오히려 인생 애매하게 산 애들이랑 차이생기기 시작함\n근데 그렇다고 자부심가지고 자랑할만한 직업도 아니긴함... 딱 평범한  삶에서 살짝 더 안정적인 직업정도?",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "공포",
+          "target": "놀람",
+          "comment": "충주맨이 공직에 독을 풀었다 ㅋㅋㅋ 충주맨이 많이 특이케이스긴 한데 얼굴 팔리면서 저렇게 일하는거면 공무원 메리트가 없음",
+          "reply": "철밥통 메리트가 ㄹㅇ크긴하지 앞으로 코로나같은 대공황이 몇개 더 올지도 모르고",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "공포",
+          "target": "놀람",
+          "comment": "충주맨이 공직에 독을 풀었다 ㅋㅋㅋ 충주맨이 많이 특이케이스긴 한데 얼굴 팔리면서 저렇게 일하는거면 공무원 메리트가 없음",
+          "reply": "우리 친척형 서강대 졸업후 교도관 9급 4호봉인대 본봉은210인가 그런데 수당이 120임 그리고 독서실 총무보다 편하다함 맨날 폰함 ㅋㅋㅋㅋ",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "공포",
+          "target": "슬픔",
+          "comment": "충주맨이 공직에 독을 풀었다 ㅋㅋㅋ 충주맨이 많이 특이케이스긴 한데 얼굴 팔리면서 저렇게 일하는거면 공무원 메리트가 없음",
+          "reply": "맞음 메리트 없는 일 하고있구만 정확히 말하면 잉여인간 , 월급루팡이라고 부르죠 그리고 다른 직업군보면 하루 12~14시간일하고 230받으심 여기서 젊은분들이 버틸것같음? 못버텨요 저사람이 높게받으면 다른직업군도 그배로 올라가야됨 말이안됨 저는 자격증8개 가지고 현장일 하루 기본 12시간일함 그렇게 몸이 망가지면서 일하는데 400가까이 받음 그정도로 노력을 했냐 하고있냐 그런직업군을 노력해서 찾았냐 그냥 나이차서 들어간거냐 질부터다름 저기에 자기가 선택해서 들어갔다면 그전에 정보가 있었을것이고 그걸 감내해야지 징징거릴게아니라 돈이적다고 징징거리는건 우리처럼 대학나오고 노력한사람에대한 비난하는거랑 같은이치",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전(수정됨)",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "공포",
+          "target": "슬픔",
+          "comment": "충주맨이 공직에 독을 풀었다 ㅋㅋㅋ 충주맨이 많이 특이케이스긴 한데 얼굴 팔리면서 저렇게 일하는거면 공무원 메리트가 없음",
+          "reply": "@Ladiaram  대기업 20퍼마저도 월급 높은 공채나 정규직 기준 20퍼가 아니라 비정규직에다가 연봉낮은 계열사랑 하청까지 해서 20퍼더라",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "공포",
+          "target": "놀람",
+          "comment": "충주맨이 공직에 독을 풀었다 ㅋㅋㅋ 충주맨이 많이 특이케이스긴 한데 얼굴 팔리면서 저렇게 일하는거면 공무원 메리트가 없음",
+          "reply": "@핼창쓰  하루12~14시간 230이면 최저시급도 안주네 대체 어디임거기가;;",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전(수정됨)",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "n년차 군무언 현직입니다. 곧 면직을 하려고 준비중인데 공직에 있는 모든 분들 힘내시고 길이 있다면 망설이지 말고 꼭 새출발하시길 바랍니다.",
+          "reply": "군인무원???",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "n년차 군무언 현직입니다. 곧 면직을 하려고 준비중인데 공직에 있는 모든 분들 힘내시고 길이 있다면 망설이지 말고 꼭 새출발하시길 바랍니다.",
+          "reply": "이직하시는건가",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "n년차 군무언 현직입니다. 곧 면직을 하려고 준비중인데 공직에 있는 모든 분들 힘내시고 길이 있다면 망설이지 말고 꼭 새출발하시길 바랍니다.",
+          "reply": "군무원 체단시간은 최고기는 하지",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "n년차 군무언 현직입니다. 곧 면직을 하려고 준비중인데 공직에 있는 모든 분들 힘내시고 길이 있다면 망설이지 말고 꼭 새출발하시길 바랍니다.",
+          "reply": "군무원은 공무원이라고 하기에도 뭐하지ㄹㅇㅋㅋㅋㅋ",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "공포",
+          "target": "기쁨",
+          "comment": "큰일났네..!\n우리 아들 9급 공무원 준비중인데 말릴 수도 없고  ㅠㅠ\n6월 시험 좋은 결과 있을꺼야 힘내~ 아들 화이팅~♡",
+          "reply": "응원합니다",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "공포",
+          "target": "신뢰",
+          "comment": "큰일났네..!\n우리 아들 9급 공무원 준비중인데 말릴 수도 없고  ㅠㅠ\n6월 시험 좋은 결과 있을꺼야 힘내~ 아들 화이팅~♡",
+          "reply": "잘되실겁니다",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "눈빛이나 얼굴이 피로가 많이보인다. 일이 매우 고되보인다....",
+          "reply": "아니 근데 눈밑 주름이 ㅠ",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "눈빛이나 얼굴이 피로가 많이보인다. 일이 매우 고되보인다....",
+          "reply": "짬처리 겁나할것같은데…9급공무원 봉급인상한다더만 아니구만",
+          "comment_time": "2개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 30
+        },
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "꺄.. 다시 올라왔다..\n언니 마니 보고 싶었어여..\n중간고사 공부하다가 달려온 중3팬\n언니 제 최애 유튜버에여 너무 사랑해여",
+          "reply": "🫶",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "렌즈 정보 궁금해용 넘 이뻐요..",
+          "reply": "하파크리스틴 원앤온리 크리스틴 그레이",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "꼬물이의 이별...",
+          "reply": "ㅠㅠ",
+          "comment_time": "1개월 전(수정됨)",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "외대에서 보는 최쏘 브이로그 ..^_^",
+          "reply": "오……🫰",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "딸기라떼 카페 어디인가요??",
+          "reply": "베브릿지 입니다!!",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "기대",
+          "comment": "2차 술집 어딘지 알려주실 수 있나요?!",
+          "reply": "성수 페이지스 입니다 !!",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "3:09 여기 카페 어디인지 알려주실수있나용??",
+          "reply": "베브릿지 한국외대점이에요!",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "댄스학원에서 입었던 청바지 정보 알 수 있을까요??",
+          "reply": "에이블리)화이트데이)워싱 스트링 카고 와이드 데님팬츠 🫰",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "댄스학원에서 입었던 청바지 정보 알 수 있을까요??",
+          "reply": "@최쏘 감사합니다!! 영상 잘보고있어요",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "공포",
+          "target": "기대",
+          "comment": "내일 재종가야하는 삼수생의 실존적 고민\n\n봐야할까 자야할까",
+          "reply": "나도 내일 재종가서 3모 봐야해서 지금 자야 하는데 ㅋㅋ",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "공포",
+          "target": "기쁨",
+          "comment": "내일 재종가야하는 삼수생의 실존적 고민\n\n봐야할까 자야할까",
+          "reply": "3모 보고 편하게 보기 ️‍",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "소은님 나이대에는 빠른 없나요?\n몇년생 부터 없어진건가요?",
+          "reply": "빠른 있어요!",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "아직도 통학하세료!?",
+          "reply": "자취하신대요",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "3차로 갔던 술집 어딘지 궁금해용!!",
+          "reply": "뉴트로2010 건대점입니당!!",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "립 정보 궁금해용.. 너무 이뻐여,,",
+          "reply": "컬러그램 탕후루 탱글 꿀로스 3 COLOR 03 딸기키킥, 페리페라 잉크 더 벨벳 016 하트백만개\n여기용!!",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "언니 mbti 뭐에용?",
+          "reply": "Isfj !!🫰",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "슬픔",
+          "target": "신뢰",
+          "comment": "1등",
+          "reply": "고데기하는 모습 예쁨",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 30,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "1등",
+          "reply": "최쏘 고데기 참고할게요",
+          "comment_time": "1개월 전",
+          "reply_time": "1개월 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 60,
+      "events": [
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "휴먼스토리 멤버십 혜택\n 휴먼스토리 출연자분들과 함께 하는 생방송 소통 및 생방송 다시보기를 보실 수 있습니다.\n 휴먼스토리 영상에서는 다 담지 못했던 비하인드 스토리나 실전 노하우들을 담은 영상들을 공개합니다.\n▼ 멤버십 가입 링크\n\n\n-\n\n 영상 속 출연자 인스타 및 가게정보는\n아래 카페 링크에 있습니다 항상 시청해 주셔서 감사드립니다.\n▼ 카페 바로가기\n\n\n-\n\n  휴먼스토리 제작팀이 유튜브 채널 키워드립니다! 새로운 유튜브 채널 개설부터 영상 업로드까지 한번에! \n▼ 제작문의 [아래 링크로 작성]",
+          "reply": "본봉을 말하면 안되지 총 수령액을 말해라",
+          "comment_time": "2개월 전(수정됨)",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "공포",
+          "comment": "휴먼스토리 멤버십 혜택\n 휴먼스토리 출연자분들과 함께 하는 생방송 소통 및 생방송 다시보기를 보실 수 있습니다.\n 휴먼스토리 영상에서는 다 담지 못했던 비하인드 스토리나 실전 노하우들을 담은 영상들을 공개합니다.\n▼ 멤버십 가입 링크\n\n\n-\n\n 영상 속 출연자 인스타 및 가게정보는\n아래 카페 링크에 있습니다 항상 시청해 주셔서 감사드립니다.\n▼ 카페 바로가기\n\n\n-\n\n  휴먼스토리 제작팀이 유튜브 채널 키워드립니다! 새로운 유튜브 채널 개설부터 영상 업로드까지 한번에! \n▼ 제작문의 [아래 링크로 작성]",
+          "reply": "@pathorder  공짜공직에 되면 = 양심에 털이 생기는 신기한 나라 ㅎ",
+          "comment_time": "2개월 전(수정됨)",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "휴먼스토리 멤버십 혜택\n 휴먼스토리 출연자분들과 함께 하는 생방송 소통 및 생방송 다시보기를 보실 수 있습니다.\n 휴먼스토리 영상에서는 다 담지 못했던 비하인드 스토리나 실전 노하우들을 담은 영상들을 공개합니다.\n▼ 멤버십 가입 링크\n\n\n-\n\n 영상 속 출연자 인스타 및 가게정보는\n아래 카페 링크에 있습니다 항상 시청해 주셔서 감사드립니다.\n▼ 카페 바로가기\n\n\n-\n\n  휴먼스토리 제작팀이 유튜브 채널 키워드립니다! 새로운 유튜브 채널 개설부터 영상 업로드까지 한번에! \n▼ 제작문의 [아래 링크로 작성]",
+          "reply": "@pathorder  내말이요 ㅋㅋ 얼탱이없음 본봉빼고 본봉만큼 초과수당+복리후생비+식비+직급유지비 이런거 받는거 생각안한나봄 누군 공무원아닌줄아나 ㅋㅋ 명절에 명정수당 드럽게많이주고 복지포인트도 백만원주는데 왜 언급안할까",
+          "comment_time": "2개월 전(수정됨)",
+          "reply_time": "2개월 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "휴먼스토리 멤버십 혜택\n 휴먼스토리 출연자분들과 함께 하는 생방송 소통 및 생방송 다시보기를 보실 수 있습니다.\n 휴먼스토리 영상에서는 다 담지 못했던 비하인드 스토리나 실전 노하우들을 담은 영상들을 공개합니다.\n▼ 멤버십 가입 링크\n\n\n-\n\n 영상 속 출연자 인스타 및 가게정보는\n아래 카페 링크에 있습니다 항상 시청해 주셔서 감사드립니다.\n▼ 카페 바로가기\n\n\n-\n\n  휴먼스토리 제작팀이 유튜브 채널 키워드립니다! 새로운 유튜브 채널 개설부터 영상 업로드까지 한번에! \n▼ 제작문의 [아래 링크로 작성]",
+          "reply": "공무원생활이 궁금하긴 했는데 좀 알고보니 박봉에 고생이 많군요",
+          "comment_time": "2개월 전(수정됨)",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "휴먼스토리 멤버십 혜택\n 휴먼스토리 출연자분들과 함께 하는 생방송 소통 및 생방송 다시보기를 보실 수 있습니다.\n 휴먼스토리 영상에서는 다 담지 못했던 비하인드 스토리나 실전 노하우들을 담은 영상들을 공개합니다.\n▼ 멤버십 가입 링크\n\n\n-\n\n 영상 속 출연자 인스타 및 가게정보는\n아래 카페 링크에 있습니다 항상 시청해 주셔서 감사드립니다.\n▼ 카페 바로가기\n\n\n-\n\n  휴먼스토리 제작팀이 유튜브 채널 키워드립니다! 새로운 유튜브 채널 개설부터 영상 업로드까지 한번에! \n▼ 제작문의 [아래 링크로 작성]",
+          "reply": "근데 100만이 누굴키운다는거에요;; 한 천만되는줄",
+          "comment_time": "2개월 전(수정됨)",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "휴먼스토리 멤버십 혜택\n 휴먼스토리 출연자분들과 함께 하는 생방송 소통 및 생방송 다시보기를 보실 수 있습니다.\n 휴먼스토리 영상에서는 다 담지 못했던 비하인드 스토리나 실전 노하우들을 담은 영상들을 공개합니다.\n▼ 멤버십 가입 링크\n\n\n-\n\n 영상 속 출연자 인스타 및 가게정보는\n아래 카페 링크에 있습니다 항상 시청해 주셔서 감사드립니다.\n▼ 카페 바로가기\n\n\n-\n\n  휴먼스토리 제작팀이 유튜브 채널 키워드립니다! 새로운 유튜브 채널 개설부터 영상 업로드까지 한번에! \n▼ 제작문의 [아래 링크로 작성]",
+          "reply": "다들 '세전연봉으'로 말하는데 공무원만 '수당 다 뺀 월급' 으로 최저임금 운운.. 공무원 탈출러시도 착시임. 23년 기준 임용 후 5년 이내 면직자가 2배 늘어난건 문재인정권 5년간 2배이상 공무원을 더 뽑아서임. 24년 기준 9급 초임 공무원 보수는 초과근무없이 269만원입니다.그리고 2027년까지 월급 300만원으로 올립니다. 여기 댓글 쓰시는 분들보다 생애소득 월등히 높습니다. 기사 펌>특히 올해 봉급과 수당을 합쳐 월평균 269만원 수준이던 9급 공무원 보수는 내년 284만원, 2027년 300만원으로 상승한다. 무주택 공무원에게는 2030년까지 약 5800가구의 임대주택을 우선 공급한다. 아울러 위험 업무 및 민원 업무에 대한 보상도 확대한다. 경찰·소방 공무원의 위험 근무수당을 인상하고, 민원 업무 수당 가산금을 지급한다.",
+          "comment_time": "2개월 전(수정됨)",
+          "reply_time": "2개월 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "27:52 세분의 비용을 실수로 결제한 사람입니다! 사실 저는 공무원은 아닌데요. 이곳에 있으면서 상상 이상으로 보이지 않는 곳에서 공무원분들이 열심히 일해주시기에 시민들이 일상을 살아가고 있다는 것을 느끼고 있습니다. 시민분들께서 노력해주시는 공무원분들을 고운 시선으로 바라봐 주셨으면 좋겠네요",
+          "reply": "공무원들한테 딱히 별악감정없는데\n공무원연금으로 따로 공제한건 얘기안하고\n그저 찍힌월급으로만 거지코스프레하는건 이해가안감\n공무원들 연금더낸거로 일반인들보다 나중에 은퇴후 연금 두배는더 벌어가잖아?",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "27:52 세분의 비용을 실수로 결제한 사람입니다! 사실 저는 공무원은 아닌데요. 이곳에 있으면서 상상 이상으로 보이지 않는 곳에서 공무원분들이 열심히 일해주시기에 시민들이 일상을 살아가고 있다는 것을 느끼고 있습니다. 시민분들께서 노력해주시는 공무원분들을 고운 시선으로 바라봐 주셨으면 좋겠네요",
+          "reply": "@xusjwisg  멍청한 소리 그만해. 어차피 공무원 연금도 젊은 사람들은 망했어. 충추맨이 국민연금하고 통합해달라고 방송하는거 봐라",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "27:52 세분의 비용을 실수로 결제한 사람입니다! 사실 저는 공무원은 아닌데요. 이곳에 있으면서 상상 이상으로 보이지 않는 곳에서 공무원분들이 열심히 일해주시기에 시민들이 일상을 살아가고 있다는 것을 느끼고 있습니다. 시민분들께서 노력해주시는 공무원분들을 고운 시선으로 바라봐 주셨으면 좋겠네요",
+          "reply": "@xusjwisg 바보임? 공무원 연금이 국민연금보다 지급비율이 똥이라 공무원들은 오히려 국민연금이랑 통합하길 바라고 있음.",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "27:52 세분의 비용을 실수로 결제한 사람입니다! 사실 저는 공무원은 아닌데요. 이곳에 있으면서 상상 이상으로 보이지 않는 곳에서 공무원분들이 열심히 일해주시기에 시민들이 일상을 살아가고 있다는 것을 느끼고 있습니다. 시민분들께서 노력해주시는 공무원분들을 고운 시선으로 바라봐 주셨으면 좋겠네요",
+          "reply": "@xusjwisg  지금 먹고살기도 죽겠는데 언제받을지 모를 공무원연금을 왕창(30~80정도)떼가는데~ 그리고 지금 퇴직하신 분들처럼 받는게 아닌 기대가 안되는 공무원연금을 기대하겠나여, 공무원연금 차라리 안받고 싶습니다.",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "분노",
+          "comment": "27:52 세분의 비용을 실수로 결제한 사람입니다! 사실 저는 공무원은 아닌데요. 이곳에 있으면서 상상 이상으로 보이지 않는 곳에서 공무원분들이 열심히 일해주시기에 시민들이 일상을 살아가고 있다는 것을 느끼고 있습니다. 시민분들께서 노력해주시는 공무원분들을 고운 시선으로 바라봐 주셨으면 좋겠네요",
+          "reply": "네…응원 합니다  박봉에 시달리는 공무원 여러분..!\n국민의 한사람으로서 봉급 올라가도록 노력하갰습니다.!\n대통령 부터 주라를 틀어야 합니다..!\n봉급을 일률적으로 전부 30%씩 올려줘라…대통령령으로..!!",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "27:52 세분의 비용을 실수로 결제한 사람입니다! 사실 저는 공무원은 아닌데요. 이곳에 있으면서 상상 이상으로 보이지 않는 곳에서 공무원분들이 열심히 일해주시기에 시민들이 일상을 살아가고 있다는 것을 느끼고 있습니다. 시민분들께서 노력해주시는 공무원분들을 고운 시선으로 바라봐 주셨으면 좋겠네요",
+          "reply": "공무원 수는 그리 많은데 업무처리 속도 보면 그냥 반은 잘라야함",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "27:52 세분의 비용을 실수로 결제한 사람입니다! 사실 저는 공무원은 아닌데요. 이곳에 있으면서 상상 이상으로 보이지 않는 곳에서 공무원분들이 열심히 일해주시기에 시민들이 일상을 살아가고 있다는 것을 느끼고 있습니다. 시민분들께서 노력해주시는 공무원분들을 고운 시선으로 바라봐 주셨으면 좋겠네요",
+          "reply": "@거짓말못하는아이  공무원이 천명이면 업무는 천개 이상이다~",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "어린 나이시지만 정말 말도 잘하시고 저년차지만 오래 근무한거같은 이 느낌은 뭐지?  적응력이 빠르신거같아요",
+          "reply": "공무원 5년차….일찍 철이 든거지요..!\n이건 돈 으로 살수 없는것.. .!!",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "수원시청의 마스코트시네요... 상사분도 좋으시고.. 건강하게 재미있게 직장생활 하세요.. 영상 잼있게 잘 보았읍니다 감사합니다 조여정님 화이팅!!!",
+          "reply": "재정이 많은 수원시청 이네요...부럽다요~~but 나이 들어서는 철밥통 꼰대는 되지 말자요~\n`",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "아니 근데 얼빡샷 개웃기네 너무 가까이 찍는 듯 ㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "그게 이 채널 보는맛임 ㅋㅋㅋㅋㅋㅋㅋㅋ 굳이굳이 얼빡찍고 좀 웃기게 찍기",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "아니 근데 얼빡샷 개웃기네 너무 가까이 찍는 듯 ㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "알고도 나왓을걸요 ㅋㅋㅋㅋ",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "아니 근데 얼빡샷 개웃기네 너무 가까이 찍는 듯 ㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "저분 실제로 보면 얼굴 훨씬 예쁨 영상도 예쁜데 실제가 훨씬 예뻤음 내가 저분이랑 구청에서 같이 몇개월 근무했었는데 외모가 아니라 성격도 진짜 톱 3안에 들어갈 정도로 되게 좋으신분이였음 업무 외에는 말을 잘 못해봤는데 여기서 갑자기 다시보게되니 너무 반갑네",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "아니 근데 얼빡샷 개웃기네 너무 가까이 찍는 듯 ㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "@yeahdamm  이렇게 찍어도 저렇게 나오는거면 ㅈㄴ 예쁘신건 다들 이미 알고계실듯 ㅋㅋㅋ",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "아니 근데 얼빡샷 개웃기네 너무 가까이 찍는 듯 ㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "기안84유튜브에서 본 그여자같은데",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "아니 근데 얼빡샷 개웃기네 너무 가까이 찍는 듯 ㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "@하루토와덕구  맞음",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기쁨",
+          "target": "신뢰",
+          "comment": "아니 근데 얼빡샷 개웃기네 너무 가까이 찍는 듯 ㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "이쁘기만 하구만ㅋㅋ",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "아니 근데 얼빡샷 개웃기네 너무 가까이 찍는 듯 ㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "저게 이쁘다?... 진심..? ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기쁨",
+          "target": "놀람",
+          "comment": "아니 근데 얼빡샷 개웃기네 너무 가까이 찍는 듯 ㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "@2deedddascac  귀여운데 왜??",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "아니 근데 얼빡샷 개웃기네 너무 가까이 찍는 듯 ㅋㅋㅋㅋㅋㅋㅋ",
+          "reply": "@2deedddascac  ?? 거울을봐 ㅋㅋ제발",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "엄청 말도 조리있게 잘하시고 재밌으신 분이네요 ㅋㅋ\n37분이 쑥 지나갔어요ㅋㅋ",
+          "reply": "이 댓글보고 37분짜리 영상인거 알았네 ㄷㄷ",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "공포",
+          "target": "슬픔",
+          "comment": "충주맨이 공직에 독을 풀었다 ㅋㅋㅋ 충주맨이 많이 특이케이스긴 한데 얼굴 팔리면서 저렇게 일하는거면 공무원 메리트가 없음",
+          "reply": "철밥통이랑 복지만 보고 들어가는거죠 뭐 ㅎㅎ 호봉 낮을땐 진짜 메리트가 없는듯요ㅠㅠ",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "공포",
+          "target": "슬픔",
+          "comment": "충주맨이 공직에 독을 풀었다 ㅋㅋㅋ 충주맨이 많이 특이케이스긴 한데 얼굴 팔리면서 저렇게 일하는거면 공무원 메리트가 없음",
+          "reply": "모두가 나를 아는데, 돈이 없어요",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "공포",
+          "target": "슬픔",
+          "comment": "충주맨이 공직에 독을 풀었다 ㅋㅋㅋ 충주맨이 많이 특이케이스긴 한데 얼굴 팔리면서 저렇게 일하는거면 공무원 메리트가 없음",
+          "reply": "메리트가 없다고  하는데, 망하진 않음.\n 자영업자 평균 월수입이 200이 안되고 5년 폐업률 72%임.\n\n대기업 들어갈 수 있는 인원은 경제인구의 20%이고, 그마저도 47 되기 전에 이직해야 함.  나머지80%는 좃소나 공돌이 공순이 택배 그런 거 . \n\n안망하고 꼬박꼬박 월급일날 월급 들어온다는 게 가장 큰 메리트일 수 있음. 인생 가늘게 살지만 변수가 없음",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "분노",
+          "comment": "토닥토닥\nIT업계는 포화상태라 10년차에 250~280만원 받는 사람들도 허다합니다.\n연차는 쌓였는데.. 연봉 꼬인 분들... (참고로 3N임)\n그리고 풀 야근도 합니다. 밤 10시 이전에 들어가면 칼퇴로 느낄 정도로..\n\n힘내십시요.\n더 열악한 회사들도 많습니다ㅠ\nIT업계는 뚝하면 회사가 쳐망하거나 프로젝트가 사라져서 백수 금방됩니다.\n나이 먹으면 취업도 잘 안되고.. 지금 본인이 엄청 열악하고 불쌍하다고 생각할 수 있는데, 그건 상위 사람과 비교해서 그런거구요.\n오히려 밑 바닥은 끝이 없는 것 같습니다.\n\n돈 잘 번다는 사람들 업종에가도 그 사람이 잘버는거지, 제가 잘버는게 아니더라구요.\n파이팅.. 응원합니다. 일단 저도...",
+          "reply": "내가 그렇게 받다가 승질나서 때려치웟다\n 나이 마흔넘어가 과장달앗는데 200 따리 월급주길래 ㅅㅂ",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "토닥토닥\nIT업계는 포화상태라 10년차에 250~280만원 받는 사람들도 허다합니다.\n연차는 쌓였는데.. 연봉 꼬인 분들... (참고로 3N임)\n그리고 풀 야근도 합니다. 밤 10시 이전에 들어가면 칼퇴로 느낄 정도로..\n\n힘내십시요.\n더 열악한 회사들도 많습니다ㅠ\nIT업계는 뚝하면 회사가 쳐망하거나 프로젝트가 사라져서 백수 금방됩니다.\n나이 먹으면 취업도 잘 안되고.. 지금 본인이 엄청 열악하고 불쌍하다고 생각할 수 있는데, 그건 상위 사람과 비교해서 그런거구요.\n오히려 밑 바닥은 끝이 없는 것 같습니다.\n\n돈 잘 번다는 사람들 업종에가도 그 사람이 잘버는거지, 제가 잘버는게 아니더라구요.\n파이팅.. 응원합니다. 일단 저도...",
+          "reply": "아니 3N이 어떻게 10년차에 250-280 받나요..? 말이 안 되는데.. 3N이 혹시 30대인가요?? 아니면 업계 3N 말씀하시는건가요??",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "토닥토닥\nIT업계는 포화상태라 10년차에 250~280만원 받는 사람들도 허다합니다.\n연차는 쌓였는데.. 연봉 꼬인 분들... (참고로 3N임)\n그리고 풀 야근도 합니다. 밤 10시 이전에 들어가면 칼퇴로 느낄 정도로..\n\n힘내십시요.\n더 열악한 회사들도 많습니다ㅠ\nIT업계는 뚝하면 회사가 쳐망하거나 프로젝트가 사라져서 백수 금방됩니다.\n나이 먹으면 취업도 잘 안되고.. 지금 본인이 엄청 열악하고 불쌍하다고 생각할 수 있는데, 그건 상위 사람과 비교해서 그런거구요.\n오히려 밑 바닥은 끝이 없는 것 같습니다.\n\n돈 잘 번다는 사람들 업종에가도 그 사람이 잘버는거지, 제가 잘버는게 아니더라구요.\n파이팅.. 응원합니다. 일단 저도...",
+          "reply": "@히다-b3g  SI쪽은 현실입니다. 회사 뛰쳐나와서 프리랜서 선언하는게 괜히그런게 아녜요..",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "토닥토닥\nIT업계는 포화상태라 10년차에 250~280만원 받는 사람들도 허다합니다.\n연차는 쌓였는데.. 연봉 꼬인 분들... (참고로 3N임)\n그리고 풀 야근도 합니다. 밤 10시 이전에 들어가면 칼퇴로 느낄 정도로..\n\n힘내십시요.\n더 열악한 회사들도 많습니다ㅠ\nIT업계는 뚝하면 회사가 쳐망하거나 프로젝트가 사라져서 백수 금방됩니다.\n나이 먹으면 취업도 잘 안되고.. 지금 본인이 엄청 열악하고 불쌍하다고 생각할 수 있는데, 그건 상위 사람과 비교해서 그런거구요.\n오히려 밑 바닥은 끝이 없는 것 같습니다.\n\n돈 잘 번다는 사람들 업종에가도 그 사람이 잘버는거지, 제가 잘버는게 아니더라구요.\n파이팅.. 응원합니다. 일단 저도...",
+          "reply": "@히다-b3g  OA helpdesk 이런쪽이면 그냥 10년차에 그럴 수 있음..",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "토닥토닥\nIT업계는 포화상태라 10년차에 250~280만원 받는 사람들도 허다합니다.\n연차는 쌓였는데.. 연봉 꼬인 분들... (참고로 3N임)\n그리고 풀 야근도 합니다. 밤 10시 이전에 들어가면 칼퇴로 느낄 정도로..\n\n힘내십시요.\n더 열악한 회사들도 많습니다ㅠ\nIT업계는 뚝하면 회사가 쳐망하거나 프로젝트가 사라져서 백수 금방됩니다.\n나이 먹으면 취업도 잘 안되고.. 지금 본인이 엄청 열악하고 불쌍하다고 생각할 수 있는데, 그건 상위 사람과 비교해서 그런거구요.\n오히려 밑 바닥은 끝이 없는 것 같습니다.\n\n돈 잘 번다는 사람들 업종에가도 그 사람이 잘버는거지, 제가 잘버는게 아니더라구요.\n파이팅.. 응원합니다. 일단 저도...",
+          "reply": "IT도 IT나름인거같은데,, 개발쪽은 10년차에 250-280은 말이안됩니다 ㅎ",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "토닥토닥\nIT업계는 포화상태라 10년차에 250~280만원 받는 사람들도 허다합니다.\n연차는 쌓였는데.. 연봉 꼬인 분들... (참고로 3N임)\n그리고 풀 야근도 합니다. 밤 10시 이전에 들어가면 칼퇴로 느낄 정도로..\n\n힘내십시요.\n더 열악한 회사들도 많습니다ㅠ\nIT업계는 뚝하면 회사가 쳐망하거나 프로젝트가 사라져서 백수 금방됩니다.\n나이 먹으면 취업도 잘 안되고.. 지금 본인이 엄청 열악하고 불쌍하다고 생각할 수 있는데, 그건 상위 사람과 비교해서 그런거구요.\n오히려 밑 바닥은 끝이 없는 것 같습니다.\n\n돈 잘 번다는 사람들 업종에가도 그 사람이 잘버는거지, 제가 잘버는게 아니더라구요.\n파이팅.. 응원합니다. 일단 저도...",
+          "reply": "퇴직하고 더좋은데 가려면 가능할까요 연차가 쌓이면 월급이 조금씩 오르겠지만 맘에 안차더라도 익숙한 환경이 좋은겁니다",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "토닥토닥\nIT업계는 포화상태라 10년차에 250~280만원 받는 사람들도 허다합니다.\n연차는 쌓였는데.. 연봉 꼬인 분들... (참고로 3N임)\n그리고 풀 야근도 합니다. 밤 10시 이전에 들어가면 칼퇴로 느낄 정도로..\n\n힘내십시요.\n더 열악한 회사들도 많습니다ㅠ\nIT업계는 뚝하면 회사가 쳐망하거나 프로젝트가 사라져서 백수 금방됩니다.\n나이 먹으면 취업도 잘 안되고.. 지금 본인이 엄청 열악하고 불쌍하다고 생각할 수 있는데, 그건 상위 사람과 비교해서 그런거구요.\n오히려 밑 바닥은 끝이 없는 것 같습니다.\n\n돈 잘 번다는 사람들 업종에가도 그 사람이 잘버는거지, 제가 잘버는게 아니더라구요.\n파이팅.. 응원합니다. 일단 저도...",
+          "reply": "제가 이런걸로 한두달전에 대기업분들한테 물어봤는데.. 차이가 있는 것 같습니다..  회사에서는 이익을 가져다주는 사람은 자르거나 적게주지 않는다고..",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "토닥토닥\nIT업계는 포화상태라 10년차에 250~280만원 받는 사람들도 허다합니다.\n연차는 쌓였는데.. 연봉 꼬인 분들... (참고로 3N임)\n그리고 풀 야근도 합니다. 밤 10시 이전에 들어가면 칼퇴로 느낄 정도로..\n\n힘내십시요.\n더 열악한 회사들도 많습니다ㅠ\nIT업계는 뚝하면 회사가 쳐망하거나 프로젝트가 사라져서 백수 금방됩니다.\n나이 먹으면 취업도 잘 안되고.. 지금 본인이 엄청 열악하고 불쌍하다고 생각할 수 있는데, 그건 상위 사람과 비교해서 그런거구요.\n오히려 밑 바닥은 끝이 없는 것 같습니다.\n\n돈 잘 번다는 사람들 업종에가도 그 사람이 잘버는거지, 제가 잘버는게 아니더라구요.\n파이팅.. 응원합니다. 일단 저도...",
+          "reply": "ㅎㄹ.. 저는  30대 중반에 일본에서 IT대기업 다니면서 기본급 월 550만정도인데 10년차에 250~280만원 받는건 넘 충격이네요. \n나중에 나이먹고 한국으로 돌아갈까 생각중인데 한국에선 IT수요가 많이 없는건가요?",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "토닥토닥\nIT업계는 포화상태라 10년차에 250~280만원 받는 사람들도 허다합니다.\n연차는 쌓였는데.. 연봉 꼬인 분들... (참고로 3N임)\n그리고 풀 야근도 합니다. 밤 10시 이전에 들어가면 칼퇴로 느낄 정도로..\n\n힘내십시요.\n더 열악한 회사들도 많습니다ㅠ\nIT업계는 뚝하면 회사가 쳐망하거나 프로젝트가 사라져서 백수 금방됩니다.\n나이 먹으면 취업도 잘 안되고.. 지금 본인이 엄청 열악하고 불쌍하다고 생각할 수 있는데, 그건 상위 사람과 비교해서 그런거구요.\n오히려 밑 바닥은 끝이 없는 것 같습니다.\n\n돈 잘 번다는 사람들 업종에가도 그 사람이 잘버는거지, 제가 잘버는게 아니더라구요.\n파이팅.. 응원합니다. 일단 저도...",
+          "reply": "@웨슬리가힐킷먹다  한국이 IT수요가 없지는 않습니다. 여기도 부익부빈익빈이라 많이 버시는 분들은 많이 버시지만 적게 버시는 분들도 있는 것이지요.",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "토닥토닥\nIT업계는 포화상태라 10년차에 250~280만원 받는 사람들도 허다합니다.\n연차는 쌓였는데.. 연봉 꼬인 분들... (참고로 3N임)\n그리고 풀 야근도 합니다. 밤 10시 이전에 들어가면 칼퇴로 느낄 정도로..\n\n힘내십시요.\n더 열악한 회사들도 많습니다ㅠ\nIT업계는 뚝하면 회사가 쳐망하거나 프로젝트가 사라져서 백수 금방됩니다.\n나이 먹으면 취업도 잘 안되고.. 지금 본인이 엄청 열악하고 불쌍하다고 생각할 수 있는데, 그건 상위 사람과 비교해서 그런거구요.\n오히려 밑 바닥은 끝이 없는 것 같습니다.\n\n돈 잘 번다는 사람들 업종에가도 그 사람이 잘버는거지, 제가 잘버는게 아니더라구요.\n파이팅.. 응원합니다. 일단 저도...",
+          "reply": "@웨슬리가힐킷먹다  IT대기업 기준이면 한국은 1년차에 연 6천 내외 할것 같은데요? 성과까지 합치면 8천 정도 예상해봅니다. 일본은 나이먹으면 IT대기업에서 어떤 Role이 주가 되나요??",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "신뢰",
+          "target": "슬픔",
+          "comment": "젊은 여성분 성격좋으시고 공무원 정년까지 잘 해내시길 기도드립니다.\n저도 20세부터 시작하여 54세를 끝으로 군생활 명퇴했습니다. \n초년에 멋모르고 했고 힘든시기 겪으면 나아지겠지하면 중고참 되면 더 난이도 있는일 기다리고 있고...\n그래도 그시절이 많이 그립네요\n힘내세요~~",
+          "reply": "그래도 너무 작은것 같아요 \n생활이 되남유",
+          "comment_time": "2개월 전(수정됨)",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "신뢰",
+          "target": "슬픔",
+          "comment": "젊은 여성분 성격좋으시고 공무원 정년까지 잘 해내시길 기도드립니다.\n저도 20세부터 시작하여 54세를 끝으로 군생활 명퇴했습니다. \n초년에 멋모르고 했고 힘든시기 겪으면 나아지겠지하면 중고참 되면 더 난이도 있는일 기다리고 있고...\n그래도 그시절이 많이 그립네요\n힘내세요~~",
+          "reply": "54세에 퇴직이면 지금은 뭐하세요?",
+          "comment_time": "2개월 전(수정됨)",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "신뢰",
+          "target": "놀람",
+          "comment": "젊은 여성분 성격좋으시고 공무원 정년까지 잘 해내시길 기도드립니다.\n저도 20세부터 시작하여 54세를 끝으로 군생활 명퇴했습니다. \n초년에 멋모르고 했고 힘든시기 겪으면 나아지겠지하면 중고참 되면 더 난이도 있는일 기다리고 있고...\n그래도 그시절이 많이 그립네요\n힘내세요~~",
+          "reply": "54살인데 명퇴?? 60살아닌가",
+          "comment_time": "2개월 전(수정됨)",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "신뢰",
+          "target": "신뢰",
+          "comment": "젊은 여성분 성격좋으시고 공무원 정년까지 잘 해내시길 기도드립니다.\n저도 20세부터 시작하여 54세를 끝으로 군생활 명퇴했습니다. \n초년에 멋모르고 했고 힘든시기 겪으면 나아지겠지하면 중고참 되면 더 난이도 있는일 기다리고 있고...\n그래도 그시절이 많이 그립네요\n힘내세요~~",
+          "reply": "연금 350은 나오시니 괜찮죠",
+          "comment_time": "2개월 전(수정됨)",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "n년차 군무언 현직입니다. 곧 면직을 하려고 준비중인데 공직에 있는 모든 분들 힘내시고 길이 있다면 망설이지 말고 꼭 새출발하시길 바랍니다.",
+          "reply": "야 군무원ㅋㅋㅋㅋㅋㅋ\n존나 면직 높은 거 ㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "n년차 군무언 현직입니다. 곧 면직을 하려고 준비중인데 공직에 있는 모든 분들 힘내시고 길이 있다면 망설이지 말고 꼭 새출발하시길 바랍니다.",
+          "reply": "군무원은 반군인이라든데??",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "n년차 군무언 현직입니다. 곧 면직을 하려고 준비중인데 공직에 있는 모든 분들 힘내시고 길이 있다면 망설이지 말고 꼭 새출발하시길 바랍니다.",
+          "reply": "군무원 나름 좋아보이던데 민원 없고 체력단력시간있고 급여는 공무원 따라가고",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "n년차 군무언 현직입니다. 곧 면직을 하려고 준비중인데 공직에 있는 모든 분들 힘내시고 길이 있다면 망설이지 말고 꼭 새출발하시길 바랍니다.",
+          "reply": "체단시간이 개사기긴함 ㅋㅋ  @Scott-z4n",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "공포",
+          "target": "기쁨",
+          "comment": "큰일났네..!\n우리 아들 9급 공무원 준비중인데 말릴 수도 없고  ㅠㅠ\n6월 시험 좋은 결과 있을꺼야 힘내~ 아들 화이팅~♡",
+          "reply": "화이팅",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "공포",
+          "target": "신뢰",
+          "comment": "큰일났네..!\n우리 아들 9급 공무원 준비중인데 말릴 수도 없고  ㅠㅠ\n6월 시험 좋은 결과 있을꺼야 힘내~ 아들 화이팅~♡",
+          "reply": "절대 나쁜얘기하지마셔요!!! 일단 붙고 생각하는 거고 저는 잘 맞고 어려움도 있긴 하지만 하루하루 잘다니고 있어요",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "공포",
+          "target": "슬픔",
+          "comment": "큰일났네..!\n우리 아들 9급 공무원 준비중인데 말릴 수도 없고  ㅠㅠ\n6월 시험 좋은 결과 있을꺼야 힘내~ 아들 화이팅~♡",
+          "reply": "기본급 의 제수당 더 하고 복직 택도 있고 6시에 카드 찍고 그러면 삼 400 됩니다",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "공포",
+          "target": "슬픔",
+          "comment": "큰일났네..!\n우리 아들 9급 공무원 준비중인데 말릴 수도 없고  ㅠㅠ\n6월 시험 좋은 결과 있을꺼야 힘내~ 아들 화이팅~♡",
+          "reply": "24년 기준 9급 초임 공무원 보수는 초과근무없이 269만원입니다.그리고 2027년까지 월급 300만원으로 올립니다.  기사 펌>특히 올해 봉급과 수당을 합쳐 월평균 269만원 수준이던 9급 공무원 보수는 내년 284만원, 2027년 300만원으로 상승한다. 무주택 공무원에게는 2030년까지 약 5800가구의 임대주택을 우선 공급한다. 아울러 위험 업무 및 민원 업무에 대한 보상도 확대한다. 경찰·소방 공무원의 위험 근무수당을 인상하고, 민원 업무 수당 가산금을 지급한다.",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전(수정됨)",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "눈빛이나 얼굴이 피로가 많이보인다. 일이 매우 고되보인다....",
+          "reply": "고생 많이 한거같음.. 와꾸가.. 최소 30대인데..",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "눈빛이나 얼굴이 피로가 많이보인다. 일이 매우 고되보인다....",
+          "reply": "공무원들도 대통령포함 고위직공무원들이 돈많 많이받지...일도별로안함. 일은 말단공무원들이 졸라게 함. 월급도 적게받고...... 고위직들 월급깍아서 일많은 말단공무원들 올려줘야함.ㅅㅂ",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "눈빛이나 얼굴이 피로가 많이보인다. 일이 매우 고되보인다....",
+          "reply": "업무 부서가 그나마 살만한 부서긴 하네 ㅋㅎ 적어도 민원직통만 아니면 덜지옥임.",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "눈빛이나 얼굴이 피로가 많이보인다. 일이 매우 고되보인다....",
+          "reply": "일이 힘들어도 돈이된다면 그래도 괜찮을텐데...",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "분노",
+          "comment": "눈빛이나 얼굴이 피로가 많이보인다. 일이 매우 고되보인다....",
+          "reply": "맞음..\n그 민원.. 안당해본 사람은 그렇게 어렵지 않게 생각하지만..\n얼굴 숨기고 인간의 모든 죄악이 그냥 소리없이 드러난다고 보면 됨...\n조금만 껄리면 올리는 사람들.. 자존심 조금 건드렸다고 올리는 사람들..\n단돈 1원이라도 더 냈다면 따지는 사람들..\n다른사람들 다 내는데 자기는 특별하다고 안낼려고 하는 사람들 등등...\n자기는 당한적 없다고 유일한 사람인듯 하는 사람들..\n거의 멘붕 오는 사람들 많음.. 한 인간하고 전화 1시간 하면 입에서 떵내 남...\n인간이 인간들과 모여있다고 생각하지만 인간같지 않은 인간들이 또 따로 모여있음...\n그리고 그 수치는 대부분임...",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "나이도 어리신데 벌써 진급도 하시고, 성격도 너무 좋으셔서 직장 내에서도 예쁨 많이 받으실듯!! 그리고 다들 놓치고 계신 듯한데 이 분 이미 집도 있으심.... 부동산 썰에서 세입자 계약 얘기하신거 보니 갭투자로 집 사놓으신 것 같은데.... 부모님 지원이 컸겠지만 어린 나이에 대단합니다ㄷㄷ",
+          "reply": "놓치긴 뭘 놓쳐요... 출연자분 자가 여부는 영상 내용과 아무런 상관이 없는 겁니다...",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "나이도 어리신데 벌써 진급도 하시고, 성격도 너무 좋으셔서 직장 내에서도 예쁨 많이 받으실듯!! 그리고 다들 놓치고 계신 듯한데 이 분 이미 집도 있으심.... 부동산 썰에서 세입자 계약 얘기하신거 보니 갭투자로 집 사놓으신 것 같은데.... 부모님 지원이 컸겠지만 어린 나이에 대단합니다ㄷㄷ",
+          "reply": "벌써?? 띵가띵가 처 놀다 \n연차 채워 자동 진급했는데 벌써?? \n저 연차에 진급 시험 빡시게 준비해서 \n7급 되어 있는게 벌써지",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "이분 앞으로 1년뒤에 충주맨을 이어선 수원우먼 이 되십니다.",
+          "reply": "줄여서 '숸먼' 이라 하시지요!",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "놀람",
+          "comment": "이분 앞으로 1년뒤에 충주맨을 이어선 수원우먼 이 되십니다.",
+          "reply": "띄어주기 들어가네 또 ㅎㅎ우리나라 종특 ㅎㅎ",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "이분 앞으로 1년뒤에 충주맨을 이어선 수원우먼 이 되십니다.",
+          "reply": "@usertrtyjgdyu12kk 또 남 좀 띄워주면 배알 꼴려서 꼽주네 ㅎㅎ우리나라 종특 ㅎㅎ",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "저는 중견기업으로 이직해서 6개월째 다니고 있는데.... 막상 왔더니 살벌하네요... 회사가 사정이 갑자기 안좋아지더니 한 부서에만 13년 있었던 차장님을 지방 오지로 보내버리고 팀장급 부장들도 숙청해버리고 원래는 과장까지는 안건드린다고 했는데 다음달에 다른부서 과장도 권고사직 당하고.... 내 미래인가 싶어서 다시 생각중입니다 ㅠ 공무원은 그런걱정 없으니 좋겠네요",
+          "reply": "지방직공무원도 그런거 비슷한거 있음. 행정직 공무원을 건축과로 보내서 건축 인허가 업무 보게하면 면직 마려움.",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "저는 중견기업으로 이직해서 6개월째 다니고 있는데.... 막상 왔더니 살벌하네요... 회사가 사정이 갑자기 안좋아지더니 한 부서에만 13년 있었던 차장님을 지방 오지로 보내버리고 팀장급 부장들도 숙청해버리고 원래는 과장까지는 안건드린다고 했는데 다음달에 다른부서 과장도 권고사직 당하고.... 내 미래인가 싶어서 다시 생각중입니다 ㅠ 공무원은 그런걱정 없으니 좋겠네요",
+          "reply": "간호직공무원을 건축업무시켜서 면직마렵고",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "분노",
+          "target": "슬픔",
+          "comment": "저는 중견기업으로 이직해서 6개월째 다니고 있는데.... 막상 왔더니 살벌하네요... 회사가 사정이 갑자기 안좋아지더니 한 부서에만 13년 있었던 차장님을 지방 오지로 보내버리고 팀장급 부장들도 숙청해버리고 원래는 과장까지는 안건드린다고 했는데 다음달에 다른부서 과장도 권고사직 당하고.... 내 미래인가 싶어서 다시 생각중입니다 ㅠ 공무원은 그런걱정 없으니 좋겠네요",
+          "reply": "@위국헌신군인본분-i4q  비교대상이 아닌것같은데 저분말은  못하면 보냈다가 더못하면 권고사직당한다잔소  공무원은 그런게없음",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "저는 중견기업으로 이직해서 6개월째 다니고 있는데.... 막상 왔더니 살벌하네요... 회사가 사정이 갑자기 안좋아지더니 한 부서에만 13년 있었던 차장님을 지방 오지로 보내버리고 팀장급 부장들도 숙청해버리고 원래는 과장까지는 안건드린다고 했는데 다음달에 다른부서 과장도 권고사직 당하고.... 내 미래인가 싶어서 다시 생각중입니다 ㅠ 공무원은 그런걱정 없으니 좋겠네요",
+          "reply": "@이혀먹   간호직이랑 건축업무는 동떨어진 업무임  말도안되는 소리를  간호직공무원은 보건소나 이런대서 근무하는 공무원아닌가요 국립병원 같은데서 건축직공무원이랑 아에 근무지가 다르지않나   사회생활 안해본사람 처럼 왜그래요???",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "분노",
+          "target": "분노",
+          "comment": "저는 중견기업으로 이직해서 6개월째 다니고 있는데.... 막상 왔더니 살벌하네요... 회사가 사정이 갑자기 안좋아지더니 한 부서에만 13년 있었던 차장님을 지방 오지로 보내버리고 팀장급 부장들도 숙청해버리고 원래는 과장까지는 안건드린다고 했는데 다음달에 다른부서 과장도 권고사직 당하고.... 내 미래인가 싶어서 다시 생각중입니다 ㅠ 공무원은 그런걱정 없으니 좋겠네요",
+          "reply": "@silverbullet2810  ㅋㅋㅋㅋㅋ지방직이고 지금 보건소신축 시켜서 개빡치는 상황인데 뭔소리임",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "분노",
+          "target": "기대",
+          "comment": "저는 중견기업으로 이직해서 6개월째 다니고 있는데.... 막상 왔더니 살벌하네요... 회사가 사정이 갑자기 안좋아지더니 한 부서에만 13년 있었던 차장님을 지방 오지로 보내버리고 팀장급 부장들도 숙청해버리고 원래는 과장까지는 안건드린다고 했는데 다음달에 다른부서 과장도 권고사직 당하고.... 내 미래인가 싶어서 다시 생각중입니다 ㅠ 공무원은 그런걱정 없으니 좋겠네요",
+          "reply": "@이혀먹  그럼 그만두면되겟내요",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "저는 중견기업으로 이직해서 6개월째 다니고 있는데.... 막상 왔더니 살벌하네요... 회사가 사정이 갑자기 안좋아지더니 한 부서에만 13년 있었던 차장님을 지방 오지로 보내버리고 팀장급 부장들도 숙청해버리고 원래는 과장까지는 안건드린다고 했는데 다음달에 다른부서 과장도 권고사직 당하고.... 내 미래인가 싶어서 다시 생각중입니다 ㅠ 공무원은 그런걱정 없으니 좋겠네요",
+          "reply": "중견기업은 짭이라고하죠....\n공원은 대기업과 비교함니다...명함내미지 마세요.",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "저는 중견기업으로 이직해서 6개월째 다니고 있는데.... 막상 왔더니 살벌하네요... 회사가 사정이 갑자기 안좋아지더니 한 부서에만 13년 있었던 차장님을 지방 오지로 보내버리고 팀장급 부장들도 숙청해버리고 원래는 과장까지는 안건드린다고 했는데 다음달에 다른부서 과장도 권고사직 당하고.... 내 미래인가 싶어서 다시 생각중입니다 ㅠ 공무원은 그런걱정 없으니 좋겠네요",
+          "reply": "⁠ @발장장-k9r 공무원이 대기업 비교요?ㅋㅋ 이분은 환상이 있으신가요 9급이랑 대기업 웃고갑니다",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "분노",
+          "target": "놀람",
+          "comment": "저는 중견기업으로 이직해서 6개월째 다니고 있는데.... 막상 왔더니 살벌하네요... 회사가 사정이 갑자기 안좋아지더니 한 부서에만 13년 있었던 차장님을 지방 오지로 보내버리고 팀장급 부장들도 숙청해버리고 원래는 과장까지는 안건드린다고 했는데 다음달에 다른부서 과장도 권고사직 당하고.... 내 미래인가 싶어서 다시 생각중입니다 ㅠ 공무원은 그런걱정 없으니 좋겠네요",
+          "reply": "@발장장-k9r 공뭔 초봉 월급 최저급 중견 좀만 괜찮은데 가도 초봉 월급 350~400 두밴데 뭔 공뭔따위를 대기업이랑 비교를하네ㅋㅋㅋㅋ 공뭔은 딱 괜찮은 중소~후진 중견급 정도랑 급이맞다",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "공포",
+          "comment": "11:17 오세훈시장이 근무하는 자리는 서울시장 .장관급자리입니다. \n따라서 장관급 연봉과 같다고 보면 됩니다.",
+          "reply": "헌법공부 안해서 모르는듯",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "슬픔",
+          "target": "놀람",
+          "comment": "11:17 오세훈시장이 근무하는 자리는 서울시장 .장관급자리입니다. \n따라서 장관급 연봉과 같다고 보면 됩니다.",
+          "reply": "추가로 덧붙이자면 서울시장만 장관급이고. 나머지 광역시장, 도지사는 차관급임.",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "지금 25살에 저정도면 대학안가고 간거 같은데 시간지나면 깡패 아닌가",
+          "reply": "ㅇㅇ 게다가 방송도 타고",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "지금 25살에 저정도면 대학안가고 간거 같은데 시간지나면 깡패 아닌가",
+          "reply": "40년 넘게 일하는거니까 4급까지 무난하게 달듯",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "놀람",
+          "target": "공포",
+          "comment": "지금 25살에 저정도면 대학안가고 간거 같은데 시간지나면 깡패 아닌가",
+          "reply": "고위 공무원 달겠네\n일찍 들어오는게 장땡",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "놀람",
+          "target": "기대",
+          "comment": "지금 25살에 저정도면 대학안가고 간거 같은데 시간지나면 깡패 아닌가",
+          "reply": "6급은 무난하게 달긴하겠네",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "지금 25살에 저정도면 대학안가고 간거 같은데 시간지나면 깡패 아닌가",
+          "reply": "공무원은 40대부터가 꽃",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "놀람",
+          "target": "공포",
+          "comment": "지금 25살에 저정도면 대학안가고 간거 같은데 시간지나면 깡패 아닌가",
+          "reply": "숨만 셔도 서기관은 하시겠구만",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "지금 25살에 저정도면 대학안가고 간거 같은데 시간지나면 깡패 아닌가",
+          "reply": "@byj5147  기초자치단체라서 4급은 힘들 수도 있음. 기초자치단체는 공직생활 35~36년해도 6급으로 끝나는 사람 많음. 공직생활 40년 가까이해도 말년에 겨우 5급 달고 끝나는 사람도 많음.",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "지금 25살에 저정도면 대학안가고 간거 같은데 시간지나면 깡패 아닌가",
+          "reply": "@zz-dy8lb 5급도 하늘의 별따기..!",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "놀람",
+          "target": "슬픔",
+          "comment": "지금 25살에 저정도면 대학안가고 간거 같은데 시간지나면 깡패 아닌가",
+          "reply": "공무원은 역시 퇴직후를 위한 직업이지",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "놀람",
+          "target": "공포",
+          "comment": "지금 25살에 저정도면 대학안가고 간거 같은데 시간지나면 깡패 아닌가",
+          "reply": "이미 지금도 깡패죠...",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "너무 가까이서 찍은거아님?  ㅋㅋㅋㅋ 출연자 여성분  영상보고.. 오열할수도.......",
+          "reply": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "comment_time": "2개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "공포",
+          "target": "놀람",
+          "comment": "한 5년쯤 다니고 있는데 수당받는 알바 다닌다 생각하는 중\n30대 초반에 나오면 무스펙 무경력자로 인력시장 나가야 할것 같으니 어떻게든 붙어있어야지",
+          "reply": "@uunvoid 공무원하면서 알바!? 곧 파면이다!",
+          "comment_time": "2개월 전(수정됨)",
+          "reply_time": "2개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 60,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "회사에서도 할지 안 할지 모르는 한달 뒤 일정을 무급휴가로 가능하냐고 물어보다니  이 정도면 닉네임과 전혀 다른 삶 사는 유튜버 1위 아니신지,, 그래도 잔바걸님 능력이 좋으셔서 어느 곳 가셔도 잘 하시지 않것서요",
+          "reply": "ㅋㅋㅋㅋ다시 생각해도 어이없네요 ㅋㅋㅋ그런데 연우님 덕분에 저도 추억여행합니다 ㅋㅋㅋ \n정성스런 댓글 넘 감사해요 진짜!!",
+          "comment_time": "3개월 전",
+          "reply_time": "2개월 전",
+          "time_diff_days": 30
+        }
+      ]
+    },
+    {
+      "timestamp": 270,
+      "events": [
+        {
+          "timestamp": 270,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "오랜만에 영상보고 있는데 전화로 해고통보라니, 음 연인사이에도 문자로 해어지자는 통보받아도 빡치는데, 휴\n제가 더 열받네요.",
+          "reply": "흐흐 한님 오셨군요🥹\n갑작스러운 아사리판 소식 전해드립니다 흐흐",
+          "comment_time": "9개월 전",
+          "reply_time": "9개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 270,
+          "source": "놀람",
+          "target": "신뢰",
+          "comment": "오랜만에 영상보고 있는데 전화로 해고통보라니, 음 연인사이에도 문자로 해어지자는 통보받아도 빡치는데, 휴\n제가 더 열받네요.",
+          "reply": "@janjanbarigirl  능력자이시잖아요~^^\n더 좋은 곳으로 갈 꺼니까 걱정마세요~ 항상 응원하고있습니다.가즈아~",
+          "comment_time": "9개월 전",
+          "reply_time": "9개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 270,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "구독박고 갑니다 화이팅",
+          "reply": "감삼다🥹️",
+          "comment_time": "9개월 전",
+          "reply_time": "9개월 전",
+          "time_diff_days": 1
+        }
+      ]
+    },
+    {
+      "timestamp": 300,
+      "events": [
+        {
+          "timestamp": 300,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "‘전화’로 ‘빙빙’ 돌려서 얘기하다 ‘한달 무급 여지’를 남기는 통보… 와 진짜 저였으면 욕지거리부터 튀어나왔을텐데 잔바걸님 보살이시네여…. 늘 빠이팅입니다!!!",
+          "reply": "흐흐 사전에 조금이라도 정보가 없었다면 화나서 벌써 기절했슈 ㅋㅋㅋ ㅠㅠ\n그나저나 오늘도 한줄 정리 감사합니다 크크",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "‘전화’로 ‘빙빙’ 돌려서 얘기하다 ‘한달 무급 여지’를 남기는 통보… 와 진짜 저였으면 욕지거리부터 튀어나왔을텐데 잔바걸님 보살이시네여…. 늘 빠이팅입니다!!!",
+          "reply": "최종화면 멘트 바뀐 거 맴찢..ㅠㅠ",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "‘전화’로 ‘빙빙’ 돌려서 얘기하다 ‘한달 무급 여지’를 남기는 통보… 와 진짜 저였으면 욕지거리부터 튀어나왔을텐데 잔바걸님 보살이시네여…. 늘 빠이팅입니다!!!",
+          "reply": "@jhjh7710  ㅋㅋㅋㅋㅋ우와 다 아시네 ㅋㅋㅋㅋ ㅠㅠ 오늘도 눈썰미 대박적...!!!!!!!!!!!!!!!!! ㅇ0ㅇ!!!!!!!!!!!!!",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "말투는 물렁물렁 헐렁헐렁한데 행동은 은근히 야물딱진 게 너무 구여워 잔바걸",
+          "reply": "오매 진짜윳? 케켁 기분이 좋군요 감삼다 켂켁",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "신뢰",
+          "target": "놀람",
+          "comment": "말투는 물렁물렁 헐렁헐렁한데 행동은 은근히 야물딱진 게 너무 구여워 잔바걸",
+          "reply": "@janjanbarigirl ⁠ 영상 보다보니 제가 더 화가 나네요 ^^ 결국 해고한다는 말인데 ‘아싸리 잔바님이 그렇게 확고하다고 하시니~.. 그렇게 할게요~~ ’라는 뉘앙스. 겁나 어이없음 더 좋은 일 일어날 거예요!!!!!!",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "신뢰",
+          "target": "놀람",
+          "comment": "말투는 물렁물렁 헐렁헐렁한데 행동은 은근히 야물딱진 게 너무 구여워 잔바걸",
+          "reply": "@Kednfjejdjxiciejcjjjfddrgh 으아 맞아요 ㅋㅋㅋ저 멘트도\n화났슈..ㅜㅜㅋㅋㅋ 확고하긴 뭐가 확고해..통보하니까 받아들이는거지 흐흐",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "연속해고의 아픔도 컨텐츠로 승화시키는 진정한 유튜버",
+          "reply": "흐흐 나 어쩌면 pro? ~\n음하하🥹!!!\n감사합니다 낄낄",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "하늘이 무너져도 솟아날 구멍은 있다!!!!!!! 하늘은 언제나 잔바걸님편이기를,,,,🩷",
+          "reply": "낑깡쓰 덕분에 힘이 난다요!!!!!!🩷 가즈아~!~!~!",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "해고통보 후 지하철 출근 모습에 깊은 빡침이 보입니다 ㄷㄷ 후반 크리스마스 같은 음악이 더 슬프네요 ㅠㅜㅠ",
+          "reply": "후후 아사리판 상황에 크리스마스 음악?\n제법 슬퍼용",
+          "comment_time": "10개월 전(수정됨)",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "닉값 못하는 유튜버 1위,,,잔바걸님 늘 재밌게 보고있어요 파이팅입니다!!!!",
+          "reply": "감사합니다 크쓰님!!!!",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "기쁨",
+          "target": "기대",
+          "comment": "힘들때마다 와서 행복송 정주행하는데 화이팅입니다",
+          "reply": "감사합니다 배우신 분이군요!!!!! 흐흐",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "신뢰",
+          "target": "신뢰",
+          "comment": "잔바걸 화이팅️️ 함께 힘내봐요!!!!! 건강 잘 챙기시길....",
+          "reply": "고량쥬님 감사해요!! 같이 힘내요 이 어리둥절 세상..🫡",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "헉 이게 무슨 일… 대충격 먹으면서 들어왔어요 잔바걸님 다 털어버리고 좋은 일만 생기길 바라요!",
+          "reply": "스픽님 감삼다 ㅠㅠ!! 응원 댓글로 다 털어버릴 수 있을 거 같아요 진짜루🥹🥹 넘 감사하고 감사한 ㅠㅠ",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "전화통보 싸가지 머람 ㅜㅜ 예고편 결과가 굿엔딩이길바라며...",
+          "reply": "ㅋㅋㅋ 아오 후련하드아~ 감사해요 웹케이님 크크",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "슬픔",
+          "target": "기쁨",
+          "comment": "잔바걸님 ㅠㅠㅠ 왜 이런일이.. 마지막 보니 제발 조은소식이길!!",
+          "reply": "흐흐 그러게요!! 인생사 어리둥절!!!🥹!!",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "기대",
+          "target": "기대",
+          "comment": "다음이야기 넘 궁금하네요",
+          "reply": "흐흐 좀만 기다려주십셔",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "잔바걸 언니 나 내일 인생 첫출근이에욥! 언니도 나도 화이팅탱탱구리",
+          "reply": "오마이갓!! 으냉원동생 첫출 넘나 축하한다는\n연봉 10억걸 가즈아!!",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "기대",
+          "target": "기대",
+          "comment": "맨날 이렇게 드라마가 반복되는데 거기서 계속 살길을 찾아내는 여자.,, 멋잇다",
+          "reply": "으악 넉넉한 칭찬?!!감사합니다..당신두 멋쪄!!\n길을 잃었다~어딜 가야할까~️️🪩",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "헐 이게머선일이야!!!!!!!! 고생했더요 ㅠㅠ어서 달달한거먹고 당충전하고 그후에 생각해보자구여",
+          "reply": "흐흐 감사해요 뭉뭉님 ! 그렇지 않아도 요즘 먹고 싶은 거 잘 먹고 있어요 흐흐",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "잔바걸님 흑흑ㅠㅠ 그래도…!! 화이팅입니다 아자아자 잔바걸님️",
+          "reply": "감사합니다 소미님!!!!!!!!!!! 외쳐봅니다 !  아좌좌좌!!!!!!!!!!!!",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "기쁨",
+          "target": "기쁨",
+          "comment": "흥미진진~  잔바걸 화이팅",
+          "reply": "진진바리 감사합니다 화이팅 아좌좌좌!!!!!!!!!!!!",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "기대",
+          "target": "기쁨",
+          "comment": "잔바걸님 진짜 화이팅입니다..!!!ㅠㅠ",
+          "reply": "감사합니다 승원님!🥹",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "공포",
+          "target": "기쁨",
+          "comment": "괜찮아~ 띵디딩.....디딩...",
+          "reply": "아임파인 괜찮아~!띵디딩..",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "신뢰",
+          "target": "기쁨",
+          "comment": "이뽀요♡♡♡♡",
+          "reply": "♡♡♡♡감사합니드아아아♡♡♡♡",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "기대",
+          "target": "슬픔",
+          "comment": "그래두 잔바님은 바로 일을 구하고 일이 놈칠거같은 느낌 ~~[",
+          "reply": "으아 진짜 그랬으면 좋겠네요🥹\n고임금저노동력 고급일 넘쳐라 제발~0",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "슬픔",
+          "target": "신뢰",
+          "comment": "진짜 화나는데 저런 회사 차라리 오래 안 다니고 그만 둬서 다행이에요 ㅠ,",
+          "reply": "그니까요 오히려 잘된거라고 생각하게요ㅠㅠ\n인생사 새옹지마...!!!!!!!!!!!",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "슬픔",
+          "target": "슬픔",
+          "comment": "결국 배드엔딩이라니... 심지어 전화로 ..",
+          "reply": "그러게요 ㅠㅠㅋㅋㅋ 예상한 상황 중 가장 최악이었슈...흐흐",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "알고리즘떳는데\n잔잔바리걸이엿어..ㅜ",
+          "reply": "알고리즘의 선택을 받았다?! 오매......!!!!! 알고리즘이 선택한 해고걸~!!",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "슬픔",
+          "target": "기대",
+          "comment": "같이 영상 봐주시는 아버지 따뜻하시다ㅠ 부당해고 같은데 뭐라도 받아내야 하는거 아닌가요ㅠ",
+          "reply": "이제 같이 봐주셔서 감사하지만 재미는 없다고 하시는 ㅋㅋㅋㅋㅋ ㅜㅜ\n프리랜서라 가능할지 모르겠어요 ㅜㅜ그리고 그냥 탈출했다고 생각하자~ 다신 엮이기 싨엇!!\n느낌이기도해유",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "놀람",
+          "target": "기쁨",
+          "comment": "와 정말 인생사 어떻게 될지 모르는군요..이렇게 또 연이 되어서 면접을 보러가다니🫡",
+          "reply": "그니까요 ㅜㅜㅋㅋㅋ진짜 신기하고 어리둥절이고 다행입니다 인생사~~역시 암것도 모른다~~",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        },
+        {
+          "timestamp": 300,
+          "source": "놀람",
+          "target": "놀람",
+          "comment": "너무 하네요... 전화로 통보하다니..",
+          "reply": "전화 해고 정말 어리둥절이더라고요...",
+          "comment_time": "10개월 전",
+          "reply_time": "10개월 전",
+          "time_diff_days": 1
+        }
+      ]
+    }
+  ]
+}

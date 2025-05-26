@@ -1,5 +1,21 @@
-[
-  "B-argue",
-  "B-negative",
-  "B-positive"
-]
+{
+  "content": [
+    "asmr",
+    "baseball",
+    "crime",
+    "drama",
+    "ent_comedy",
+    "game",
+    "info",
+    "issue",
+    "kpop",
+    "mukbang_cooking",
+    "politics",
+    "vlog"
+  ],
+  "thema": [
+    "argue",
+    "negative",
+    "positive"
+  ]
+}

@@ -1,22 +1,27 @@
 "use client";
 import dynamic from "next/dynamic";
 import { useEffect, useState, useRef } from "react";
-import { useParams } from "next/navigation";
-import { useGraphAnimation } from "../../../hooks/useGraphAnimation";
-import { getNodeColor, getNodeDegree } from "../../../utils/graphUtils";
-import BranchTooltip from "../../../components/BranchTooltip";
-import { Node, GraphData, Link, Frame } from "../../../types";
+import { useParams } from "next/navigation"; // <- 요게 핵심!
+import { useGraphAnimation } from "../../hooks/useGraphAnimation";
+import { getNodeColor, getNodeDegree } from "../../utils/graphUtils";
+import BranchTooltip from "../../components/BranchTooltip";
+import { Node, GraphData, Link, Frame } from "../../types";
 import type { ForceGraphMethods } from "react-force-graph-2d";
 
 const ForceGraph2D = dynamic(() => import("react-force-graph-2d"), { ssr: false });
 
 export default function Page() {
-  const { filename } = useParams();
+  const params = useParams(); // <-- /content, /thema
+  // /content → params.dataType === "content"
+  // /thema → params.dataType === "thema"
+  const dataType = params.dataType as string || "content"; // 디폴트 fallback
+
+  const [fileList, setFileList] = useState<string[]>([]);
+  const [filename, setFilename] = useState<string>("");
   const [nodes, setNodes] = useState<Node[]>([]);
   const [frames, setFrames] = useState<Frame[]>([]);
   const [isPlaying, setIsPlaying] = useState(false);
   const [intervalMs, setIntervalMs] = useState(600);
-
   const [hoveredLink, setHoveredLink] = useState<Link | null>(null);
   const [mousePos, setMousePos] = useState<{ x: number; y: number } | null>(null);
 
@@ -27,25 +32,44 @@ export default function Page() {
     frames, nodes, intervalMs, isPlaying
   );
 
-  // 중앙정렬
+  const emotionWeights: { [emotion: string]: number } = {
+    "슬픔": 0.28,
+    "놀람": 0.39,
+    "기대": 0.53,
+    "기쁨": 0.56,
+    "분노": 1.17,
+    "공포": 2.05,
+    "신뢰": 2.12,
+    "혐오": 9.26,
+  };
+
+  useEffect(() => {
+    fetch("/data/index.json")
+      .then(res => res.json())
+      .then(json => {
+        if (json && Array.isArray(json[dataType])) {
+          setFileList(json[dataType]);
+          setFilename(json[dataType][0] || "");
+        }
+      });
+  }, [dataType]);
+
+  useEffect(() => {
+    if (!filename) return;
+    fetch(`/data/${dataType}/${filename}.json`)
+      .then(res => res.json())
+      .then((json: GraphData) => {
+        setNodes(json.nodes);
+        setFrames(json.frames);
+      });
+  }, [filename, dataType]);
+
   useEffect(() => {
     if (fgRef.current && nodes.length > 0) {
       fgRef.current.centerAt(0, 0, 1000);
     }
   }, [nodes.length]);
 
-  // 데이터 fetch
-  useEffect(() => {
-    async function fetchData() {
-      const res = await fetch(`/data/${filename}.json`);
-      const json: GraphData = await res.json();
-      setNodes(json.nodes);
-      setFrames(json.frames);
-    }
-    fetchData();
-  }, [filename]);
-
-  // force 레이아웃 튜닝
   useEffect(() => {
     if (fgRef.current) {
       fgRef.current.d3Force("center", null);
@@ -61,7 +85,6 @@ export default function Page() {
     }
   }, [graphData.nodes.length, graphData.links.length]);
 
-  // 마우스 위치 추적(hoveredLink일 때만 window 단위로 추적)
   useEffect(() => {
     if (!hoveredLink) return;
     const handleMouseMove = (e: MouseEvent) => {
@@ -71,7 +94,6 @@ export default function Page() {
     return () => window.removeEventListener("mousemove", handleMouseMove);
   }, [hoveredLink]);
 
-  // 프레임/날짜 정보
   let currentIdx: number | undefined = undefined;
   if (
     typeof frameIndexRef.current === "number" &&
@@ -88,19 +110,54 @@ export default function Page() {
       : undefined;
 
   return (
-    <div
-      style={{
-        width: "100%",
-        height: "100vh",
-        backgroundColor: "#ddd",
-        position: "relative",
-        overflow: "hidden",
-      }}
-    >
-      {/* 상단 컨트롤 패널 */}
+    <div style={{
+      width: "100%",
+      height: "100vh",
+      backgroundColor: "#ddd",
+      position: "relative",
+      overflow: "hidden",
+    }}>
+      {/* 파일 선택 드롭다운 */}
       <div style={{
         position: "absolute",
-        top: 28,
+        top: 14,
+        left: 36,
+        zIndex: 2000,
+        background: "#fff",
+        padding: "8px 18px",
+        borderRadius: 10,
+        boxShadow: "0 2px 8px #bbb",
+        display: "flex",
+        alignItems: "center",
+        gap: 12
+      }}>
+        <label htmlFor="file-selector" style={{ fontWeight: 600, fontSize: 16 }}>
+          {dataType === "content" ? "콘텐츠" : "테마"} 데이터셋:
+        </label>
+        <select
+          id="file-selector"
+          value={filename}
+          onChange={e => setFilename(e.target.value)}
+          style={{
+            padding: "5px 15px",
+            fontSize: 16,
+            borderRadius: 7,
+            border: "1.5px solid #bbb"
+          }}
+          disabled={fileList.length === 0}
+        >
+          {fileList.map(f => (
+            <option key={f} value={f}>{f}</option>
+          ))}
+        </select>
+        {fileList.length === 0 && (
+          <span style={{ color: "#e74c3c", marginLeft: 8, fontWeight: 600 }}>파일 없음</span>
+        )}
+      </div>
+      {/* 이하 동일 */}
+      <div style={{
+        position: "absolute",
+        top: 80,
         left: 34,
         zIndex: 1001,
         display: "flex",
@@ -110,7 +167,7 @@ export default function Page() {
         padding: "13px 24px",
         borderRadius: 15,
         boxShadow: "0 2px 12px #ccc",
-        pointerEvents: "auto" // 이거 필수!
+        pointerEvents: "auto"
       }}>
         <button
           onClick={() => setIsPlaying(p => !p)}
@@ -155,7 +212,6 @@ export default function Page() {
           }
         </div>
       </div>
-      {/* 그래프 캔버스 */}
       <ForceGraph2D
         ref={fgRef}
         graphData={graphData}
@@ -185,11 +241,17 @@ export default function Page() {
           ctx: CanvasRenderingContext2D,
           globalScale: number
         ) => {
-          // id, x, y 안전하게 fallback
           const idStr = typeof node.id === "string" ? node.id : String(node.id ?? "");
           const color = getNodeColor({ ...node, id: idStr }, allLinksRef.current);
           const degree = getNodeDegree(idStr, allLinksRef.current);
-          const radius = Math.max(12, Math.pow(degree, 0.9) * 6.5);
+
+          const emotion = (node.id || "") as string;
+          const weight = emotionWeights[emotion] ?? 1.0;
+
+          const radius = Math.max(12, Math.pow(degree * weight, 0.8) * 6.5);
+
+          console.log(`[NODE] id: ${idStr}, emotion: ${emotion}, degree: ${degree}, weight: ${weight}, radius: ${radius.toFixed(2)}`);
+
           ctx.beginPath();
           ctx.arc(node.x ?? 0, node.y ?? 0, radius, 0, 2 * Math.PI, false);
           ctx.fillStyle = color;
@@ -212,7 +274,6 @@ export default function Page() {
         onNodeHover={() => setHoveredLink(null)}
         onBackgroundClick={() => setHoveredLink(null)}
       />
-      {/* 툴팁 */}
       {hoveredLink && mousePos && (
         <BranchTooltip link={hoveredLink} frames={frames} position={mousePos} />
       )}
