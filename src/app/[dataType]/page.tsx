@@ -80,7 +80,7 @@ export default function Page() {
         );
         return Math.max(28, Math.pow(degree, 1.2) * 18);
       });
-      fgRef.current.d3Force("link")?.strength(link => {
+      fgRef.current.d3Force("link")?.strength((link: Link)=> {
         const src = typeof link.source === "object" ? link.source.id : link.source;
         const tgt = typeof link.target === "object" ? link.target.id : link.target;
         const w1 = normalizeOn ? (emotionWeights[src as string] ?? 1.0) : 1.0;
@@ -173,11 +173,11 @@ export default function Page() {
           const tgt = typeof l.target === "object" ? l.target.id : l.target;
           const sNode = nodes.find(n => n.id === src);
           const tNode = nodes.find(n => n.id === tgt);
-          const se = (sNode?.group || sNode?.label || "") as string;
-          const te = (tNode?.group || tNode?.label || "") as string;
+          const se = (sNode?.id || "") as string;
+          const te = (tNode?.id || "") as string;
           const w1 = normalizeOn ? (emotionWeights[se] ?? 1.0) : 1.0;
           const w2 = normalizeOn ? (emotionWeights[te] ?? 1.0) : 1.0;
-          const weight = w1 * w2;
+          const weight = (w1 * w2)**0.5;
           const base = l.isCurrent ? 9 : Math.max(2, Math.min(16, Math.log2((l.count ?? 1) + 1) * 4));
           return base * weight;
         }}
@@ -191,8 +191,8 @@ export default function Page() {
           const tgt = typeof l.target === "object" ? l.target.id : l.target;
           const sNode = nodes.find(n => n.id === src);
           const tNode = nodes.find(n => n.id === tgt);
-          const se = (sNode.id || "") as string;
-          const te = (tNode.id || "") as string;
+          const se = (sNode?.id || "") as string;
+          const te = (tNode?.id || "") as string;
           const w1 = normalizeOn ? (emotionWeights[se] ?? 1.0) : 1.0;
           const w2 = normalizeOn ? (emotionWeights[te] ?? 1.0) : 1.0;
           const weight = w1 * w2;
