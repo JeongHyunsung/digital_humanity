@@ -204,7 +204,7 @@ export default function Page() {
           const w1 = normalizeOn ? (emotionWeights[se] ?? 1.0) : 1.0;
           const w2 = normalizeOn ? (emotionWeights[te] ?? 1.0) : 1.0;
           const weight = w1 * w2;
-          return 0.0005 * Math.sqrt(l.count ?? 0);
+          return 0.0005 * weight * Math.sqrt(l.count ?? 0);
         }}
         linkDirectionalParticleWidth={() => 6}
         linkDirectionalParticleColor={() => "rgba(255, 120, 0, 0.9)"}
