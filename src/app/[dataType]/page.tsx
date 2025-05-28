@@ -27,6 +27,9 @@ export default function Page() {
   type FGNode = { id?: string | number; x?: number; y?: number; [key: string]: unknown };
   const fgRef = useRef<ForceGraphMethods<FGNode, Link> | undefined>(undefined);
 
+  const [chargeStrength, setChargeStrength] = useState(-600);
+  const [linkStrengthBase, setLinkStrengthBase] = useState(0.007);
+
   const { graphData, allLinksRef, frameIndexRef } = useGraphAnimation(
     frames, nodes, intervalMs, isPlaying
   );
@@ -72,7 +75,7 @@ export default function Page() {
   useEffect(() => {
     if (fgRef.current) {
       fgRef.current.d3Force("center", null);
-      fgRef.current.d3Force("charge")?.strength(-600);
+      fgRef.current.d3Force("charge")?.strength(chargeStrength);
       fgRef.current.d3Force("collide")?.radius((node: FGNode) => {
         const degree = getNodeDegree(
           typeof node.id === "string" ? node.id : String(node.id ?? ""),
@@ -85,12 +88,11 @@ export default function Page() {
         const tgt = typeof link.target === "object" ? link.target.id : link.target;
         const w1 = normalizeOn ? (emotionWeights[src as string] ?? 1.0) : 1.0;
         const w2 = normalizeOn ? (emotionWeights[tgt as string] ?? 1.0) : 1.0;
-        const baseStrength = 0.007;
-        return baseStrength * w1 * w2;
+        return linkStrengthBase * w1 * w2;
       });
 
     }
-  }, [graphData.nodes.length, graphData.links.length, normalizeOn]);
+  }, [graphData.nodes.length, graphData.links.length, normalizeOn, linkStrengthBase, chargeStrength]);
 
   useEffect(() => {
     if (!hoveredLink) return;
@@ -117,7 +119,7 @@ export default function Page() {
       : undefined;
 
   return (
-    <div style={{ width: "100%", height: "100vh", backgroundColor: "#ddd", position: "relative", overflow: "hidden" }}>
+    <div style={{ width: "100%", height: "100vh", backgroundColor: "#f5f7fa", position: "relative", overflow: "hidden" }}>
       <div style={{ position: "absolute", top: 14, left: 36, zIndex: 2000, background: "#fff", padding: "8px 18px", borderRadius: 10, boxShadow: "0 2px 8px #bbb", display: "flex", alignItems: "center", gap: 12 }}>
         <label htmlFor="file-selector" style={{ fontWeight: 600, fontSize: 16 }}>
           {dataType === "content" ? "콘텐츠" : "테마"} 데이터셋:
@@ -135,7 +137,7 @@ export default function Page() {
         </select>
         <button
           onClick={() => setNormalizeOn(p => !p)}
-          style={{ padding: "6px 12px", borderRadius: 8, fontSize: 14, fontWeight: 600, background: normalizeOn ? "#27ae60" : "#aaa", color: "#fff", border: "none", cursor: "pointer" }}
+          style={{ padding: "6px 12px", borderRadius: 8, fontSize: 14, fontWeight: 600, background: normalizeOn ? "#00695c" : "#9e9e9e", color: "#fff", border: "none", cursor: "pointer" }}
         >
           {normalizeOn ? "Normalize: ON" : "Normalize: OFF"}
         </button>
@@ -144,7 +146,7 @@ export default function Page() {
       <div style={{ position: "absolute", top: 80, left: 34, zIndex: 1001, display: "flex", alignItems: "center", gap: 18, background: "rgba(250,250,250,0.97)", padding: "13px 24px", borderRadius: 15, boxShadow: "0 2px 12px #ccc", pointerEvents: "auto" }}>
         <button
           onClick={() => setIsPlaying(p => !p)}
-          style={{ fontSize: 19, padding: "9px 30px", borderRadius: 13, border: "1.5px solid #bbb", background: isPlaying ? "#ff6b6b" : "#488bfc", color: "#fff", fontWeight: 700, cursor: "pointer" }}
+          style={{ fontSize: 19, padding: "9px 30px", borderRadius: 13, border: "1.5px solid #bbb", background: isPlaying ? "#E53935" : "#4CAF50", color: "#fff", fontWeight: 700, cursor: "pointer" }}
         >
           {isPlaying ? "정지" : "재생"}
         </button>
@@ -161,12 +163,18 @@ export default function Page() {
           )}
         </div>
       </div>
+      <div style={{ position: "absolute", top: 180, left: 34, zIndex: 1001, background: "#fff", padding: "10px 18px", borderRadius: 10, boxShadow: "0 2px 8px #ccc" }}>
+        <label style={{ fontSize: 14, fontWeight: 600 }}>밀어내는 힘: {chargeStrength}</label>
+        <input type="range" min={-2000} max={0} step={50} value={chargeStrength} onChange={e => setChargeStrength(Number(e.target.value))} />
+        <label style={{ fontSize: 14, fontWeight: 600, marginTop: 10 }}>당기는 힘: {linkStrengthBase.toFixed(3)}</label>
+        <input type="range" min={0.001} max={0.05} step={0.001} value={linkStrengthBase} onChange={e => setLinkStrengthBase(Number(e.target.value))} />
+      </div>
 
       <ForceGraph2D
         ref={fgRef}
         graphData={graphData}
         nodeRelSize={1.8}
-        linkColor={link => link.isCurrent ? "#0076FF" : "rgba(90,90,90,0.2)"}
+        linkColor={link => link.isCurrent ? "rgba(0, 118, 255, 0.7)" : "rgba(90,90,90,0.2)"}
         linkWidth={link => {
           const l = link as Link;
           const src = typeof l.source === "object" ? l.source.id : l.source;
@@ -183,7 +191,7 @@ export default function Page() {
         }}
         linkDirectionalParticles={link => {
           const l = link as Link;
-          return l.isCurrent ? 8 : Math.ceil(Math.log2((l.count ?? 1) + 1));
+          return Math.ceil(Math.log2((l.count ?? 1) + 1));
         }}
         linkDirectionalParticleSpeed={link => {
           const l = link as Link;
@@ -196,8 +204,10 @@ export default function Page() {
           const w1 = normalizeOn ? (emotionWeights[se] ?? 1.0) : 1.0;
           const w2 = normalizeOn ? (emotionWeights[te] ?? 1.0) : 1.0;
           const weight = w1 * w2;
-          return l.isCurrent ? 0.035 : Math.max(0.01, 0.015 / (Math.log2((l.count ?? 1) + 1) + 0.6)) * weight;
+          return 0.0005 * Math.sqrt(l.count ?? 0);
         }}
+        linkDirectionalParticleWidth={() => 6}
+        linkDirectionalParticleColor={() => "rgba(255, 120, 0, 0.9)"}
         linkDirectionalArrowLength={link => {
           const l = link as Link;
           return l.isCurrent ? 22 : Math.max(5, Math.log2((l.count ?? 1) + 1) * 6);
