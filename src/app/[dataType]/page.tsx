@@ -23,6 +23,7 @@ export default function Page() {
   const [normalizeOn, setNormalizeOn] = useState<boolean>(true);
   const [hoveredLink, setHoveredLink] = useState<Link | null>(null);
   const [mousePos, setMousePos] = useState<{ x: number; y: number } | null>(null);
+  const [settingsOpen, setSettingsOpen] = useState(false);
 
   type FGNode = { id?: string | number; x?: number; y?: number; [key: string]: unknown };
   const fgRef = useRef<ForceGraphMethods<FGNode, Link> | undefined>(undefined);
@@ -90,7 +91,6 @@ export default function Page() {
         const w2 = normalizeOn ? (emotionWeights[tgt as string] ?? 1.0) : 1.0;
         return linkStrengthBase * w1 * w2;
       });
-
     }
   }, [graphData.nodes.length, graphData.links.length, normalizeOn, linkStrengthBase, chargeStrength]);
 
@@ -119,62 +119,126 @@ export default function Page() {
       : undefined;
 
   return (
-    <div style={{ width: "100%", height: "100vh", backgroundColor: "#f5f7fa", position: "relative", overflow: "hidden" }}>
-      <div style={{ position: "absolute", top: 14, left: 36, zIndex: 2000, background: "#fff", padding: "8px 18px", borderRadius: 10, boxShadow: "0 2px 8px #bbb", display: "flex", alignItems: "center", gap: 12 }}>
-        <label htmlFor="file-selector" style={{ fontWeight: 600, fontSize: 16 }}>
-          {dataType === "content" ? "콘텐츠" : "테마"} 데이터셋:
-        </label>
-        <select
-          id="file-selector"
-          value={filename}
-          onChange={e => setFilename(e.target.value)}
-          style={{ padding: "5px 15px", fontSize: 16, borderRadius: 7, border: "1.5px solid #bbb" }}
-          disabled={fileList.length === 0}
-        >
-          {fileList.map(f => (
-            <option key={f} value={f}>{f}</option>
-          ))}
-        </select>
-        <button
-          onClick={() => setNormalizeOn(p => !p)}
-          style={{ padding: "6px 12px", borderRadius: 8, fontSize: 14, fontWeight: 600, background: normalizeOn ? "#00695c" : "#9e9e9e", color: "#fff", border: "none", cursor: "pointer" }}
-        >
-          {normalizeOn ? "Normalize: ON" : "Normalize: OFF"}
-        </button>
-      </div>
-
-      <div style={{ position: "absolute", top: 80, left: 34, zIndex: 1001, display: "flex", alignItems: "center", gap: 18, background: "rgba(250,250,250,0.97)", padding: "13px 24px", borderRadius: 15, boxShadow: "0 2px 12px #ccc", pointerEvents: "auto" }}>
-        <button
-          onClick={() => setIsPlaying(p => !p)}
-          style={{ fontSize: 19, padding: "9px 30px", borderRadius: 13, border: "1.5px solid #bbb", background: isPlaying ? "#E53935" : "#4CAF50", color: "#fff", fontWeight: 700, cursor: "pointer" }}
-        >
-          {isPlaying ? "정지" : "재생"}
-        </button>
-        <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-start" }}>
-          <label style={{ fontSize: 14, color: "#333", marginBottom: 2 }}>
-            속도: {(intervalMs / 1000).toFixed(2)}초/프레임
+    <div className="w-full h-screen bg-gray-50 relative overflow-hidden text-gray-800">
+      {/* 상단 컨트롤 패널 */}
+      <div className="absolute top-4 left-4 right-4 z-50 bg-white px-6 py-4 rounded-2xl shadow-md flex flex-wrap items-center gap-6 justify-between">
+        <div className="flex items-center gap-4">
+          <label htmlFor="file-selector" className="font-medium text-sm text-gray-700">
+            {dataType === "content" ? "콘텐츠" : "테마"}:
           </label>
-          <input type="range" min={100} max={2000} step={50} value={intervalMs} onChange={e => setIntervalMs(Number(e.target.value))} style={{ width: 130 }} />
+          <select
+            id="file-selector"
+            value={filename}
+            onChange={e => setFilename(e.target.value)}
+            className="px-3 py-1 text-sm rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-200"
+            disabled={fileList.length === 0}
+          >
+            {fileList.map(f => (
+              <option key={f} value={f}>{f}</option>
+            ))}
+          </select>
         </div>
-        <div style={{ marginLeft: 24, fontSize: 17, color: "#444", minWidth: 120, textAlign: "right", display: "flex", flexDirection: "column", alignItems: "flex-end" }}>
-          <span><b>프레임</b> {totalFrames > 0 && currentIdx !== undefined ? (totalFrames - currentIdx - 1) : 0}/{totalFrames}</span>
+
+        <div className="flex items-center gap-4">
+          <button
+            onClick={() => setNormalizeOn(p => !p)}
+            className={`px-4 py-2 rounded-lg text-sm font-medium transition ${
+              normalizeOn
+                ? "bg-blue-600 text-white hover:bg-blue-700"
+                : "bg-gray-200 text-gray-700 hover:bg-gray-300"
+            }`}
+          >
+            Normalize: {normalizeOn ? "ON" : "OFF"}
+          </button>
+          <button
+            onClick={() => setIsPlaying(p => !p)}
+            className={`px-4 py-2 rounded-lg text-sm font-medium transition ${
+              isPlaying
+                ? "bg-red-500 text-white hover:bg-red-600"
+                : "bg-green-500 text-white hover:bg-green-600"
+            }`}
+          >
+            {isPlaying ? "⏸ 정지" : "▶ 재생"}
+          </button>
+          <button
+            onClick={() => setSettingsOpen(o => !o)}
+            className="px-4 py-2 rounded-lg text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200 transition border border-gray-200"
+          >
+            {settingsOpen ? "✕ 설정 닫기" : "⚙ 설정 열기"}
+          </button>
+        </div>
+
+        <div className="flex flex-col items-end text-right">
+          <span className="text-sm font-medium text-gray-700">
+            프레임:{" "}
+            {totalFrames > 0 && currentIdx !== undefined
+              ? `${totalFrames - currentIdx - 1}/${totalFrames}`
+              : `0/${totalFrames}`}
+          </span>
           {currentTimestamp !== undefined && (
-            <span style={{ fontSize: 15, color: "#888" }}><b>{currentTimestamp}일 전</b></span>
+            <span className="text-xs text-gray-500">
+              {currentTimestamp}일 전
+            </span>
           )}
         </div>
       </div>
-      <div style={{ position: "absolute", top: 180, left: 34, zIndex: 1001, background: "#fff", padding: "10px 18px", borderRadius: 10, boxShadow: "0 2px 8px #ccc" }}>
-        <label style={{ fontSize: 14, fontWeight: 600 }}>밀어내는 힘: {chargeStrength}</label>
-        <input type="range" min={-2000} max={0} step={50} value={chargeStrength} onChange={e => setChargeStrength(Number(e.target.value))} />
-        <label style={{ fontSize: 14, fontWeight: 600, marginTop: 10 }}>당기는 힘: {linkStrengthBase.toFixed(3)}</label>
-        <input type="range" min={0.001} max={0.05} step={0.001} value={linkStrengthBase} onChange={e => setLinkStrengthBase(Number(e.target.value))} />
-      </div>
 
+      {/* 설정창 */}
+      {settingsOpen && (
+        <div className="absolute top-20 left-4 right-4 z-40 bg-white px-8 py-6 rounded-2xl shadow-md flex flex-wrap gap-8 justify-between items-start w-full sm:w-[calc(100%-2rem)] max-w-3xl mx-auto">
+          <div className="flex flex-col items-start w-1/3">
+            <label className="text-sm text-gray-700 mb-2">
+              속도: <span className="font-semibold">{(intervalMs / 1000).toFixed(2)}초/프레임</span>
+            </label>
+            <input
+              type="range"
+              min={100}
+              max={2000}
+              step={50}
+              value={intervalMs}
+              onChange={e => setIntervalMs(Number(e.target.value))}
+              className="w-full accent-blue-500"
+            />
+          </div>
+          <div className="flex flex-col space-y-4 w-1/3">
+            <div>
+              <label className="text-sm font-medium text-gray-700">
+                밀어내는 힘: <span className="font-medium">{chargeStrength}</span>
+              </label>
+              <input
+                type="range"
+                min={-2000}
+                max={0}
+                step={50}
+                value={chargeStrength}
+                onChange={e => setChargeStrength(Number(e.target.value))}
+                className="w-full accent-blue-500"
+              />
+            </div>
+            <div>
+              <label className="text-sm font-medium text-gray-700">
+                당기는 힘: <span className="font-medium">{linkStrengthBase.toFixed(3)}</span>
+              </label>
+              <input
+                type="range"
+                min={0.001}
+                max={0.05}
+                step={0.001}
+                value={linkStrengthBase}
+                onChange={e => setLinkStrengthBase(Number(e.target.value))}
+                className="w-full accent-blue-500"
+              />
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* ForceGraph2D 및 툴팁 */}
       <ForceGraph2D
         ref={fgRef}
         graphData={graphData}
         nodeRelSize={1.8}
-        linkColor={link => link.isCurrent ? "rgba(0, 118, 255, 0.7)" : "rgba(90,90,90,0.2)"}
+        linkColor={link => link.isCurrent ? "rgba(0, 112, 244, 0.7)" : "rgba(100,100,100,0.2)"}
         linkWidth={link => {
           const l = link as Link;
           const src = typeof l.source === "object" ? l.source.id : l.source;
@@ -185,14 +249,11 @@ export default function Page() {
           const te = (tNode?.id || "") as string;
           const w1 = normalizeOn ? (emotionWeights[se] ?? 1.0) : 1.0;
           const w2 = normalizeOn ? (emotionWeights[te] ?? 1.0) : 1.0;
-          const weight = (w1 * w2)**0.5;
-          const base = l.isCurrent ? 9 : Math.max(2, Math.min(16, Math.log2((l.count ?? 1) + 1) * 4));
+          const weight = Math.sqrt(w1 * w2);
+          const base = l.isCurrent ? 10 : Math.max(3, Math.min(18, Math.log2((l.count ?? 1) + 1) * 4));
           return base * weight;
         }}
-        linkDirectionalParticles={link => {
-          const l = link as Link;
-          return Math.ceil(Math.log2((l.count ?? 1) + 1));
-        }}
+        linkDirectionalParticles={link => Math.ceil(Math.log2((link.count ?? 1) + 1))}
         linkDirectionalParticleSpeed={link => {
           const l = link as Link;
           const src = typeof l.source === "object" ? l.source.id : l.source;
@@ -204,14 +265,11 @@ export default function Page() {
           const w1 = normalizeOn ? (emotionWeights[se] ?? 1.0) : 1.0;
           const w2 = normalizeOn ? (emotionWeights[te] ?? 1.0) : 1.0;
           const weight = w1 * w2;
-          return 0.0005 * weight * Math.sqrt(l.count ?? 0);
+          return 0.0006 * weight * Math.sqrt(l.count ?? 0);
         }}
-        linkDirectionalParticleWidth={() => 6}
-        linkDirectionalParticleColor={() => "rgba(255, 120, 0, 0.9)"}
-        linkDirectionalArrowLength={link => {
-          const l = link as Link;
-          return l.isCurrent ? 22 : Math.max(5, Math.log2((l.count ?? 1) + 1) * 6);
-        }}
+        linkDirectionalParticleWidth={() => 5}
+        linkDirectionalParticleColor={() => "rgba(0, 112, 244, 0.9)"}
+        linkDirectionalArrowLength={link => link.isCurrent ? 24 : Math.max(6, Math.log2((link.count ?? 1) + 1) * 5)}
         linkDirectionalArrowRelPos={0.99}
         nodeCanvasObject={(node, ctx, globalScale) => {
           const idStr = typeof node.id === "string" ? node.id : String(node.id ?? "");
@@ -219,19 +277,19 @@ export default function Page() {
           const degree = getNodeDegree(idStr, allLinksRef.current);
           const emotion = (node.id || "") as string;
           const weight = normalizeOn ? (emotionWeights[emotion] ?? 1.0) : 1.0;
-          const radius = Math.max(12, Math.pow(degree * weight, 0.8) * 6.5);
+          const radius = Math.max(12, Math.pow(degree * weight, 0.8) * 7);
 
           ctx.beginPath();
           ctx.arc(node.x ?? 0, node.y ?? 0, radius, 0, 2 * Math.PI);
           ctx.fillStyle = color;
-          ctx.shadowColor = "#bbb";
-          ctx.shadowBlur = 7;
+          ctx.shadowColor = "rgba(0,0,0,0.2)";
+          ctx.shadowBlur = 6;
           ctx.fill();
           ctx.shadowBlur = 0;
           ctx.font = `${18 / globalScale}px Sans-Serif`;
           ctx.textAlign = "center";
           ctx.textBaseline = "middle";
-          ctx.fillStyle = "#222";
+          ctx.fillStyle = "#1f2937";
           ctx.fillText(idStr, node.x ?? 0, node.y ?? 0);
         }}
         cooldownTicks={400}
